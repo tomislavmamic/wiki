@@ -1,3 +1,9 @@
+---
+id: about
+title: About
+sidebar_label: About
+---
+
 ## What is Denther?
 Denther is a project with goal to improve the overall efficiency of dental services market. We believe that the way dental market is currently structured and operates is vastly inefficient and that by the use of technology and know-how we can achieve:
 - better health of patients
