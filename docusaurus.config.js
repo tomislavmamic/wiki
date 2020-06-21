@@ -11,7 +11,7 @@ module.exports = {
       title: 'Denther',
       logo: {
         alt: 'Denther Logo',
-        src: 'img/DentherLogo.svg',
+        src: 'img/Vector.svg',
       },
       links: [
         {
