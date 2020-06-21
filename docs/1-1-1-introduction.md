@@ -1,7 +1,7 @@
 ---
-id: about
-title: About
-sidebar_label: About
+id: introduction
+title: Introduction
+sidebar_label: Introduction
 ---
 
 ## What is Denther?

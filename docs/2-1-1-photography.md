@@ -1,6 +1,6 @@
 ---
 id: photography
-title: Photography
+title: Dental Photography
 sidebar_label: Photography
 ---
 

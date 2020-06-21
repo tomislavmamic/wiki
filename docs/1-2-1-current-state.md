@@ -1,7 +1,7 @@
 ---
 id: current-state
-title: Current state
-sidebar_label: Current state
+title: Current State
+sidebar_label: Current State
 ---
 
 For decades dental care was based on trust and loyalty of patients to dentists. The frequency of dentist visits creates a relationship as strong as the one patient has with their general health practitioner (GP). The difference is that you usually visit your GP when you are ill or have an ache, while you will probably regularly visit your dentist in precaution, but unaware of the state of your oral health. Even when your dentist examines you, there is no way you can double-check their opinion. Most of the time, patient won’t doubt the dentist's verdict and readily comply with the procedure which is often costly.
