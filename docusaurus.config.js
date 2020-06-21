@@ -11,9 +11,14 @@ module.exports = {
       title: '',
       logo: {
         alt: 'Denther Logo',
-        src: 'img/Vector.svg',
+        src: 'img/DentherLogo.svg',
       },
       links: [
+        {
+          href: 'https://denther.com',
+          label: 'Denther',
+          position: 'right',
+        },
         {
           to: 'docs/doc1',
           activeBasePath: 'docs',
