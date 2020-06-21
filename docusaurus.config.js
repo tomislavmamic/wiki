@@ -1,9 +1,9 @@
 module.exports = {
   title: 'Dental Wikipedia',
-  tagline: 'Use this documentation site to find and quickly refresh your knowledge of the latest scientific findings and useful resources in dental medicine, including standards, definitions and guides used by Denther.',
+  tagline: 'Source of dental standards, definitions and guides used by Denther.',
   url: 'https://docs.denther.com',
   baseUrl: '/',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/favicon-32x32.ico',
   organizationName: 'Denther', // Usually your GitHub org/user name.
   projectName: 'Documentation', // Usually your repo name.
   themeConfig: {
@@ -11,7 +11,7 @@ module.exports = {
       title: 'Denther',
       logo: {
         alt: 'Denther Logo',
-        src: 'img/logo.svg',
+        src: 'img/DentherLogo.svg',
       },
       links: [
         {
@@ -22,7 +22,7 @@ module.exports = {
         },
         {to: 'blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/tomislavmamic/docusaurus-2',
+          href: 'https://github.com/tomislavmamic/wiki',
           label: 'GitHub',
           position: 'right',
         },
@@ -66,7 +66,7 @@ module.exports = {
             },
             {
               label: 'GitHub',
-              href: 'https://github.com/tomislavmamic/docusaurus-2',
+              href: 'https://github.com/tomislavmamic/wiki',
             },
           ],
         },
