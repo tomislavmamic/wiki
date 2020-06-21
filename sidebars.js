@@ -4,7 +4,7 @@ module.exports = {
     Market: ['current-state', 'inefficiencies', 'solution'],
   },
   Standards: {
-    'Getting Started': ['introduction-standards']
+    'Getting Started': ['introduction-standards'],
     Records: ['photography', 'radiography', 'examination', 'anamnesis'],
     Diseases: ['dental', 'pulpal', 'gingival', 'cysts'],
   },
