@@ -1,7 +1,9 @@
 module.exports = {
-  someSidebar: {
-    About: ['about', 'doc2', 'doc3'],
-    Market: ['current-state','mdx'],
+  'Overview': {
+    About: ['about'],
+    Market: ['current-state'],
+  },
+  'Standards': {
     Records: ['photography'],
     Diseases: ['pulpal'],
   },
