@@ -1,6 +1,6 @@
 module.exports = {
-  title: 'Denther Documentation',
-  tagline: 'Verified dental diagnosis',
+  title: 'Dental Wikipedia',
+  tagline: 'Use this documentation site to find and quickly refresh your knowledge of the latest scientific findings and useful resources in dental medicine, including standards, definitions and guides used by Denther.',
   url: 'https://docs.denther.com',
   baseUrl: '/',
   favicon: 'img/favicon.ico',
