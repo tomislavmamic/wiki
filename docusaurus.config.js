@@ -22,7 +22,13 @@ module.exports = {
         {
           to: 'docs/introduction',
           activeBasePath: 'docs',
-          label: 'Docs',
+          label: 'About',
+          position: 'right',
+        },
+        {
+          to: 'docs/introduction-standards',
+          activeBasePath: 'docs',
+          label: 'Standards',
           position: 'right',
         },
         {

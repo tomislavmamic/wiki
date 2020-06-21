@@ -1,9 +1,10 @@
 module.exports = {
-  'Getting Started': {
-    'About Denther': ['introduction', 'faq', 'getting-started'],
+  About: {
+    About: ['introduction', 'faq', 'getting-started'],
     Market: ['current-state', 'inefficiencies', 'solution'],
   },
   Standards: {
+    'Getting Started': ['introduction-standards']
     Records: ['photography', 'radiography', 'examination', 'anamnesis'],
     Diseases: ['dental', 'pulpal', 'gingival', 'cysts'],
   },
