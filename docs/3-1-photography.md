@@ -1,3 +1,9 @@
+---
+id: photography
+title: Photography
+sidebar_label: Photography
+---
+
 ## Protocol
 ### Anterior teeth
 ####  Frontal upper anterior teeth image

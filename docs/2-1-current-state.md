@@ -1,3 +1,9 @@
+---
+id: current_state
+title: Current state
+sidebar_label: Current state
+---
+
 For decades dental care was based on trust and loyalty of patients to dentists. The frequency of dentist visits creates a relationship as strong as the one patient has with their general health practitioner (GP). The difference is that you usually visit your GP when you are ill or have an ache, while you will probably regularly visit your dentist in precaution, but unaware of the state of your oral health. Even when your dentist examines you, there is no way you can double-check their opinion. Most of the time, patient won’t doubt the dentist's verdict and readily comply with the procedure which is often costly.
 
 Sometimes these procedures are actually unnecessary, and sometimes some treatments which are actually necessary aren’t done. Some treatments are done poorly, causing more problems down the line. Dentists even have incentives for fraud - they earn money if they treat you. It doesn’t matter how necessary the treatment is. Due to the fact that there is lack of objective evidence and supervision in dental care, unnecessary costs are made for the benefit of the dentist.
