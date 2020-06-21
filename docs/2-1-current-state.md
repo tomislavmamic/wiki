@@ -1,5 +1,5 @@
 ---
-id: current_state
+id: current-state
 title: Current state
 sidebar_label: Current state
 ---
