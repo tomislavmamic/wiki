@@ -1,7 +1,7 @@
 ---
 id: inefficiencies
-title: id: Inefficiencies
-sidebar_label: id: Inefficiencies
+title: Inefficiencies
+sidebar_label: Inefficiencies
 ---
 
 The market for dental services is highly inefficient, causing patients to receive, and pay for, procedures that are either incorrect or unnecessary. These inefficiencies result in higher prices and lower quantities and quality of service from dental professionals. The most significant causes of these inefficiencies can be broken down into:
