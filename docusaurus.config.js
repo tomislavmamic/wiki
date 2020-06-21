@@ -8,7 +8,7 @@ module.exports = {
   projectName: 'Documentation', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'Denther',
+      title: '',
       logo: {
         alt: 'Denther Logo',
         src: 'img/Vector.svg',
@@ -18,9 +18,12 @@ module.exports = {
           to: 'docs/doc1',
           activeBasePath: 'docs',
           label: 'Docs',
-          position: 'left',
+          position: 'right',
         },
-        {to: 'blog', label: 'Blog', position: 'left'},
+        {
+          to: 'blog', 
+          label: 'Blog', 
+          position: 'right'},
         {
           href: 'https://github.com/tomislavmamic/wiki',
           label: 'GitHub',
