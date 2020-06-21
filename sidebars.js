@@ -1,6 +1,6 @@
 module.exports = {
   'Getting Started': {
-    'About Denther': ['introduction', 'FAQ', 'getting-started'],
+    'About Denther': ['introduction', 'faq', 'getting-started'],
     Market: ['current-state', 'inefficiencies', 'solution'],
   },
   Standards: {
