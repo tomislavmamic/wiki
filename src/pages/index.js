@@ -8,32 +8,32 @@ import styles from './styles.module.css';
 
 const features = [
   {
-    title: <>Easy to Use</>,
+    title: <>Dive deep into dental market</>,
     imageUrl: 'img/undraw_docusaurus_mountain.svg',
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Learn about inherent problems of modern dental industry and how Denther is 
+        designed to address them. Decide for yourself if you want to be part of this movement.
       </>
     ),
   },
   {
-    title: <>Focus on What Matters</>,
+    title: <>Refresh your dental knowledge</>,
     imageUrl: 'img/undraw_docusaurus_tree.svg',
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Dental wikipedia is a public resource with definitions and standards of dental diseases.
+        It is meant to be used by our dentists when providing remote dental services.
       </>
     ),
   },
   {
-    title: <>Powered by React</>,
+    title: <>Get started with Denther</>,
     imageUrl: 'img/undraw_docusaurus_react.svg',
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Check out our guides and tutorials so you can start using Denther quickly and easily.
+        Read our blog to find latest news and announcements.
       </>
     ),
   },
