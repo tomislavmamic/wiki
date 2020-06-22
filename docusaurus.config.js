@@ -8,10 +8,10 @@ module.exports = {
   projectName: 'Documentation', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: '',
+      title: 'Denther',
       logo: {
         alt: 'Denther Logo',
-        src: 'img/DentherLogo.svg',
+        src: 'img/Vector.svg',
       },
       links: [
         {
