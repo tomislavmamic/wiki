@@ -8,20 +8,21 @@
 /* You can override the default Infima variables here. */
 :root {
   --ifm-color-primary: #ff1f73;
-  --ifm-color-primary-dark: #ff0261;
-  --ifm-color-primary-darker: #f3005b;
-  --ifm-color-primary-darkest: #c8004b;
-  --ifm-color-primary-light: #ff3c85;
-  --ifm-color-primary-lighter: #ff4a8e;
-  --ifm-color-primary-lightest: #ff75a9;
-//*  --ifm-color-primary: #25c2a0;
+  --ifm-color-primary-dark: rgb(224, 6, 89); /* #E00659;*/
+  --ifm-color-primary-darker: rgb(170, 9, 70); /* #AA0946;*/
+  --ifm-color-primary-darkest: rgb(170, 9, 70); /* #AA0946;*/
+  --ifm-color-primary-light: rgb(255, 76, 143); /* #FF4C8F;*/
+  --ifm-color-primary-lighter: rgb(255, 179, 214); /* #FFB3D6;*/
+  --ifm-color-primary-lightest: rgb(255, 179, 214); /* #FFB3D6;*/
+
+/*  --ifm-color-primary: #25c2a0;
   --ifm-color-primary-dark: rgb(33, 175, 144);
   --ifm-color-primary-darker: rgb(31, 165, 136);
   --ifm-color-primary-darkest: rgb(26, 136, 112);
   --ifm-color-primary-light: rgb(70, 203, 174);
   --ifm-color-primary-lighter: rgb(102, 212, 189);
   --ifm-color-primary-lightest: rgb(146, 224, 208);
-  --ifm-code-font-size: 95%; *//
+  --ifm-code-font-size: 95%; */
 }
 
 .docusaurus-highlight-code-line {
