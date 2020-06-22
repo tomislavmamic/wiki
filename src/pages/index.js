@@ -8,32 +8,32 @@ import styles from './styles.module.css';
 
 const features = [
   {
-    title: <>Dive deep into dental market</>,
+    title: <>Understand the market</>,
     imageUrl: 'img/undraw_docusaurus_mountain.svg',
     description: (
       <>
         Learn about inherent problems of modern dental industry and how Denther is 
-        designed to address them. Decide for yourself if you want to be part of this movement.
+        designed to address them.
       </>
     ),
   },
   {
-    title: <>Refresh your dental knowledge</>,
+    title: <>Refresh your knowledge</>,
     imageUrl: 'img/undraw_docusaurus_tree.svg',
     description: (
       <>
-        Dental wikipedia is a public resource with definitions and standards of dental diseases.
-        It is meant to be used by our dentists when providing remote dental services.
+        Dental wikipedia standardizes dental knowledge and helps dentists
+        provide remote dental services.
       </>
     ),
   },
   {
-    title: <>Get started with Denther</>,
+    title: <>Get started</>,
     imageUrl: 'img/undraw_docusaurus_react.svg',
     description: (
       <>
-        Check out our guides and tutorials so you can start using Denther quickly and easily.
-        Read our blog to find latest news and announcements.
+        Check out our guides to start using Denther quickly and easily.
+        Read our blog to find latest news.
       </>
     ),
   },
