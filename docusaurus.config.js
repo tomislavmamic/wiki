@@ -16,19 +16,19 @@ module.exports = {
       links: [
         {
           href: 'https://denther.com',
-          label: 'Denther',
+          label: 'denther.com',
           position: 'right',
         },
         {
           to: 'docs/introduction',
           activeBasePath: 'docs',
-          label: 'About',
+          label: 'Industry',
           position: 'right',
         },
         {
           to: 'docs/introduction-standards',
           activeBasePath: 'docs',
-          label: 'Standards',
+          label: 'Medical',
           position: 'right',
         },
         {
