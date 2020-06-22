@@ -1,6 +1,6 @@
 ---
 id: inefficiencies
-title: Inefficiencies
+title: Inefficiencies of Dental Market
 sidebar_label: Inefficiencies
 ---
 

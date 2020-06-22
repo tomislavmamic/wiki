@@ -1,11 +1,13 @@
 module.exports = {
-  About: {
-    About: ['introduction', 'faq', 'getting-started'],
-    Market: ['current-state', 'inefficiencies', 'solution'],
+  'Getting Started': {
+    'Denther': ['getting-started/introduction', 'getting-started/faq'],
   },
-  Standards: {
-    'Getting Started': ['introduction-standards'],
-    Records: ['photography', 'radiography', 'examination', 'anamnesis'],
-    Diseases: ['dental', 'pulpal', 'gingival', 'cysts'],
+  Industry: {
+    'Dental Market': ['industry/state', 'industry/inefficiencies', 'industry/solution'],
+  },
+  Medical: {
+    'Medical': ['medical/introduction'],
+    Records: ['medical/records/photography', 'medical/records/radiography', 'medical/records/examination', 'medical/records/anamnesis'],
+    Diseases: ['medical/diseases/dental', 'medical/diseases/pulpal', 'medical/diseases/gingival', 'medical/diseases/cysts'],
   },
 };

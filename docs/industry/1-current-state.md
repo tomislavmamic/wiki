@@ -1,6 +1,6 @@
 ---
-id: current-state
-title: Current State
+id: state
+title: Current State of Dental Market
 sidebar_label: Current State
 ---
 

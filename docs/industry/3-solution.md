@@ -1,6 +1,6 @@
 ---
 id: solution
-title: Solution
+title: How to solve Dental Market Problems
 sidebar_label: Solution
 ---
 

@@ -11,7 +11,8 @@ module.exports = {
       title: '',
       logo: {
         alt: 'Denther Logo',
-        src: 'img/Vector.svg',
+        src: 'img/DentherLogo.svg',
+        srcDark: 'img/DentherLogoWhite.svg'
       },
       links: [
         {
@@ -20,14 +21,20 @@ module.exports = {
           position: 'right',
         },
         {
-          to: 'docs/introduction',
-          activeBasePath: 'docs',
+          to: 'docs/getting-started/introduction',
+          activeBasePath: 'docs/getting-started',
+          label: 'Getting started',
+          position: 'right',
+        },
+        {
+          to: 'docs/industry/state',
+          activeBasePath: 'docs/industry',
           label: 'Industry',
           position: 'right',
         },
         {
-          to: 'docs/introduction-standards',
-          activeBasePath: 'docs',
+          to: 'docs/medical/introduction',
+          activeBasePath: 'docs/medical',
           label: 'Medical',
           position: 'right',
         },
@@ -96,13 +103,13 @@ module.exports = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl:
-            'https://github.com/tomislavmamic/wiki/edit/master/docs/',
+            'https://github.com/tomislavmamic/wiki/edit/master/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/tomislavmamic/wiki/edit/master/blog/',
+            'https://github.com/tomislavmamic/wiki/edit/master/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),

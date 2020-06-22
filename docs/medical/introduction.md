@@ -1,5 +1,5 @@
 ---
-id: introduction-standards
+id: introduction
 title: Introduction
 sidebar_label: Introduction
 ---
