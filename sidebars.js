@@ -6,8 +6,8 @@ module.exports = {
     'Dental Market': ['industry/state', 'industry/inefficiencies', 'industry/solution'],
   },
   Medical: {
-    'Medical': ['medical/introduction'],
+    'Medical': ['medical/introduction', 'medical/areas'],
     Records: ['medical/records/photography', 'medical/records/radiography', 'medical/records/examination', 'medical/records/anamnesis'],
-    Diseases: ['medical/diseases/dental', 'medical/diseases/pulpal', 'medical/diseases/gingival', 'medical/diseases/cysts'],
+    Diseases: ['medical/diseases/classification','medical/diseases/dental', 'medical/diseases/pulpal', 'medical/diseases/gingival', 'medical/diseases/cysts'],
   },
 };

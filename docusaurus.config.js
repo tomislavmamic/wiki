@@ -3,7 +3,7 @@ module.exports = {
   tagline: 'Source of dental standards, definitions and guides used by Denther.',
   url: 'https://docs.denther.com',
   baseUrl: '/',
-  favicon: 'img/favicon-32x32.ico',
+  favicon: 'img/favicon.ico',
   organizationName: 'Denther', // Usually your GitHub org/user name.
   projectName: 'Documentation', // Usually your repo name.
   themeConfig: {
