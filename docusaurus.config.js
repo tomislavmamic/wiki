@@ -53,15 +53,27 @@ module.exports = {
       style: 'dark',
       links: [
         {
-          title: 'Docs',
+          title: 'Documentation',
           items: [
             {
-              label: 'Style Guide',
-              to: 'docs/doc1',
+              label: 'About Us',
+              to: 'docs/getting-started/introduction',
             },
             {
-              label: 'Second Doc',
-              to: 'docs/doc2',
+              label: 'Dental Market',
+              to: 'docs/industry/state',
+            },
+            {
+              label: 'Dental Diseases',
+              to: 'docs/medical/diseases/classification',
+            },
+            {
+              label: 'Dental Records',
+              to: 'docs/medical/records/state',
+            },
+            {
+              label: 'First Exam',
+              to: 'docs/getting-started/first-exam',
             },
           ],
         },
