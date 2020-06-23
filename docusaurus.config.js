@@ -69,7 +69,7 @@ module.exports = {
             },
             {
               label: 'Records',
-              to: 'docs/medical/records/state',
+              to: 'docs/medical/records/photography',
             },
             {
               label: 'First Exam',
