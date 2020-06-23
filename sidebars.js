@@ -6,8 +6,12 @@ module.exports = {
     'Dental Market': ['industry/state', 'industry/inefficiencies', 'industry/solution'],
   },
   Medical: {
-    Medical: ['medical/introduction', 'medical/areas'],
+    Medical: ['medical/introduction', 'medical/areas','medical/diseases/classification'],
     Records: ['medical/records/photography', 'medical/records/radiography', 'medical/records/examination', 'medical/records/anamnesis'],
-    Diseases: ['medical/diseases/classification','medical/diseases/dental', 'medical/diseases/pulpal', 'medical/diseases/gingival', 'medical/diseases/cysts'],
+    'Dental Tissue Conditions': ['medical/dental-tissue/dental', 'medical/dental-tissue/pulpal',],
+    'Soft Tissue Conditions' : ['medical/soft-tissue/gingival'],
+    'Bone Tissue Conditions' : ['medical/bone-tissue/cysts'],
+    'Salivary Glands Conditions' : ['medical/salivary-glands/tumors'],
+    'Orthodontic Anomalies' : ['medical/orthodontic-anomalies/saggital-plane'],
   },
 };
