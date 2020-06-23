@@ -60,15 +60,15 @@ module.exports = {
               to: 'docs/getting-started/introduction',
             },
             {
-              label: 'Dental Market',
+              label: 'Market',
               to: 'docs/industry/state',
             },
             {
-              label: 'Dental Diseases',
+              label: 'Diseases',
               to: 'docs/medical/diseases/classification',
             },
             {
-              label: 'Dental Records',
+              label: 'Records',
               to: 'docs/medical/records/state',
             },
             {
@@ -88,11 +88,19 @@ module.exports = {
               label: 'Twitter',
               href: 'https://twitter.com/DentherH',
             },
+            {
+              label: 'Reddit',
+              href: 'https://reddit.com/r/denther',
+            },
           ],
         },
         {
           title: 'More',
           items: [
+            {
+              label: 'denther.com',
+              href: 'https://denther.com',
+            },
             {
               label: 'Blog',
               to: 'blog',
