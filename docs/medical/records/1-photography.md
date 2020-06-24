@@ -5,218 +5,212 @@ sidebar_label: Photography
 ---
 
 ## Protocol
+
 ### Anterior teeth
-####  Frontal upper anterior teeth image
 
-![](https://i.imgur.com/9Z0ktWY.jpg)
+#### Frontal upper anterior teeth image
 
-
+![Frontal upper anterior teeth image](https://i.imgur.com/9Z0ktWY.jpg)
 
 #### Lateral upper anterior teeth image
 
-
-![](https://i.imgur.com/Lx42XCa.jpg)
+![Lateral upper anterior teeth image](https://i.imgur.com/Lx42XCa.jpg)
 
 #### Upper anterior incisal image with shooting angle inclination to the buccal surfaces
 
- ![](https://i.imgur.com/fB5TPCC.jpg)
- 
+![Upper anterior incisal image with shooting angle inclination to the buccal surfaces](https://i.imgur.com/fB5TPCC.jpg)
 
 #### Upper anterior incisal image with shooting angle inclination to the palatal surfaces
 
-
-
-![](https://i.imgur.com/7n8qM3V.jpg)
+![Upper anterior incisal image with shooting angle inclination to the palatal surfaces](https://i.imgur.com/7n8qM3V.jpg)
 
 #### Frontal lower anterior teeth image
 
-![](https://i.imgur.com/T8xJ1bF.jpg)
+![Frontal lower anterior teeth image](https://i.imgur.com/T8xJ1bF.jpg)
 
 #### Lower anterior incisal image with shooting angle more to the labial side
 
-![](https://i.imgur.com/AnureaV.jpg)
+![Lower anterior incisal image with shooting angle more to the labial side](https://i.imgur.com/AnureaV.jpg)
 
 #### Lower anterior incisal image with shooting angle more to the lingual side
 
-
-![](https://i.imgur.com/1Pl1Pz4.jpg)
-
-
+![Lower anterior incisal image with shooting angle more to the lingual side](https://i.imgur.com/1Pl1Pz4.jpg)
 
 ---
 
-### Posterior teeth 
-#### Upper posterior occlusal surface image right side 
+### Posterior teeth
 
+#### Upper posterior occlusal surface image right side
 
-![](https://i.imgur.com/o2PJR52.jpg)
+![Upper posterior occlusal surface image right side ](https://i.imgur.com/o2PJR52.jpg)
 
-#### Upper posterior occlusal surface image  left side
+#### Upper posterior occlusal surface image left side
 
-![](https://i.imgur.com/iEwjwlv.jpg)
+![Upper posterior occlusal surface image left side](https://i.imgur.com/iEwjwlv.jpg)
 
-#### Upper posterior palatal surface image  right side
+#### Upper posterior palatal surface image right side
 
-![](https://i.imgur.com/XDpH1Iw.jpg)
+![Upper posterior palatal surface image right side](https://i.imgur.com/XDpH1Iw.jpg)
 
 #### Upper posterior palatal surface image left side
 
+![Upper posterior palatal surface image left side](https://i.imgur.com/DREolWu.jpg)
 
+#### Lower posterior occlusal surface image right side
 
-![](https://i.imgur.com/DREolWu.jpg)
+![Lower posterior occlusal surface image right side](https://i.imgur.com/xGI2zGT.jpg)
 
-#### Lower posterior occlusal surface image (right side)
+#### Lower posterior occlusal surface image left side
 
-![](https://i.imgur.com/xGI2zGT.jpg)
+![Lower posterior occlusal surface image left side](https://i.imgur.com/ptm0f6r.jpg)
 
-#### Lower posterior occlusal surface image (left side)
+#### Lower posterior lingual surface image right side
 
-![](https://i.imgur.com/ptm0f6r.jpg)
+![Lower posterior lingual surface image right side](https://i.imgur.com/jfCA7SH.jpg)
 
-#### Lower posterior lingual surface image (right side)
+#### Lower posterior lingual surface image left side
 
-![](https://i.imgur.com/jfCA7SH.jpg)
-
-#### Lower posterior lingual surface image (left side)
-
-![](https://i.imgur.com/x2DbEJv.jpg)
-
+![Lower posterior lingual surface image left side](https://i.imgur.com/x2DbEJv.jpg)
 
 ---
 
-
 ### Occlusion
+
 #### Frontal occlusion image of full arch
 
-
-![](https://i.imgur.com/Kngb6Zw.jpg)
+![Frontal occlusion image of full arch](https://i.imgur.com/Kngb6Zw.jpg)
 
 #### Posterior teeth occlusion image right side
 
-![](https://i.imgur.com/yUpPE6T.jpg)
+![Posterior teeth occlusion image right side](https://i.imgur.com/yUpPE6T.jpg)
 
 #### Posterior teeth occlusion image left side
 
-![](https://i.imgur.com/M11E0Bl.jpg)
+![Posterior teeth occlusion image left side](https://i.imgur.com/M11E0Bl.jpg)
 
 #### Full arch non occlusion image
 
-![](https://i.imgur.com/I3SxX8X.jpg)
+![Full arch non occlusion image](https://i.imgur.com/I3SxX8X.jpg)
 
 #### Full arch non occlusion image right side
 
-![](https://i.imgur.com/SIgSWRx.jpg)
+![Full arch non occlusion image right side](https://i.imgur.com/SIgSWRx.jpg)
 
 #### Full arch non occlusion image left side
 
-![](https://i.imgur.com/yqnCBeo.jpg)
+![Full arch non occlusion image left side](https://i.imgur.com/yqnCBeo.jpg)
 
 #### Protrusion image
 
-![](https://i.imgur.com/60USOZf.jpg)
+![Protrusion image](https://i.imgur.com/60USOZf.jpg)
 
-#### Left side lateral trusion image (working side)
+#### Left side lateral trusion image working side
 
-![](https://i.imgur.com/oAQUyEC.jpg)
+![Left side lateral trusion image working side](https://i.imgur.com/oAQUyEC.jpg)
 
-#### Right side lateral trusion image (working side)
+#### Right side lateral trusion image working side
 
+![Right side lateral trusion image working side](https://i.imgur.com/AZaMtk8.jpg)
 
-![](https://i.imgur.com/AZaMtk8.jpg)
+#### Left side lateral trusion image balancing side
 
-#### Left side lateral trusion image ( balancing side)
-![](https://i.imgur.com/m6YxvKL.jpg)
+![Left side lateral trusion image balancing side](https://i.imgur.com/m6YxvKL.jpg)
 
-Right side lateral trusion image (balancing side)
+#### Right side lateral trusion image balancing side
 
-![](https://i.imgur.com/YiTAowg.jpg)
+![Right side lateral trusion image balancing side](https://i.imgur.com/YiTAowg.jpg)
 
 #### Incisal edge occlusion image
-![](https://i.imgur.com/AjpPjbI.jpg)
 
-#### Overbite and overjet image (right side)
+![Incisal edge occlusion image](https://i.imgur.com/AjpPjbI.jpg)
 
-![](https://i.imgur.com/eNpI6kk.jpg)
+#### Overbite and overjet image right side
 
-#### Overbite and overjet image (left side)
+![Overbite and overjet image right side](https://i.imgur.com/eNpI6kk.jpg)
 
-![](https://i.imgur.com/5Vj37SF.jpg)
+#### Overbite and overjet image left side
+
+![Overbite and overjet image left side](https://i.imgur.com/5Vj37SF.jpg)
 
 #### Upper arch image
-![](https://i.imgur.com/MMM8kW0.jpg)
+
+![Upper arch image](https://i.imgur.com/MMM8kW0.jpg)
 
 #### Lower arch image
 
-![](https://i.imgur.com/7AbBZcN.jpg)
-
-
-
+![Lower arch image](https://i.imgur.com/7AbBZcN.jpg)
 
 ---
+
 ### Soft tissues
+
 #### Perioral tissue image
-![](https://i.imgur.com/tjBCCJP.jpg)
+
+![Perioral tissue image](https://i.imgur.com/tjBCCJP.jpg)
 
 #### Upper lip mucosa image
-![](https://i.imgur.com/9Nt1I2n.jpg)
+
+![Upper lip mucosa image](https://i.imgur.com/9Nt1I2n.jpg)
 
 #### Lower lip mucosa image
-![](https://i.imgur.com/QAODxc8.jpg)
+
+![Lower lip mucosa image](https://i.imgur.com/QAODxc8.jpg)
 
 #### Buccal mucosa image right side
 
-![](https://i.imgur.com/p7fu62V.jpg)
+![Buccal mucosa image right side](https://i.imgur.com/p7fu62V.jpg)
 
 #### Buccal mucosa image left side
 
-![](https://i.imgur.com/EPjgSgW.jpg)
+![Buccal mucosa image left side](https://i.imgur.com/EPjgSgW.jpg)
 
 #### Dorsum of tongue mucosa image
 
-![](https://i.imgur.com/fTPCTDB.jpg)
+![Dorsum of tongue mucosa image](https://i.imgur.com/fTPCTDB.jpg)
 
 #### Ventrum of tongue mucosa image
-![](https://i.imgur.com/qZeJo7l.jpg)
 
-#### Lateral side of tongue mucosa image (right side)
+![Ventrum of tongue mucosa image](https://i.imgur.com/qZeJo7l.jpg)
 
-![](https://i.imgur.com/I4bhqwh.jpg)
+#### Left lateral side of tongue mucosa image
 
-#### Lateral side of tongue mucosa ( left  side)
+![Left lateral side of tongue mucosa image](https://i.imgur.com/I4bhqwh.jpg)
 
-![](https://i.imgur.com/U2jdAmo.jpg)
+#### Right lateral side of tongue mucosa image
+
+![Right lateral side of tongue mucosa image](https://i.imgur.com/U2jdAmo.jpg)
 
 #### Mouth floor mucosa image
 
-![](https://i.imgur.com/kAtIH6X.jpg)
+![Mouth floor mucosa image](https://i.imgur.com/kAtIH6X.jpg)
 
-#### Buccal gingival sulcus mucosa image ( upper right and upper left)
+#### Buccal gingival sulcus mucosa image upper (right and left)
 
+![Buccal gingival sulcus mucosa image upper (right and left)](https://i.imgur.com/rdJ3RLA.jpg)
 
-![](https://i.imgur.com/rdJ3RLA.jpg)
-#### Buccal gingival sulcusmucosa image ( lower right and lower left)
+#### Buccal gingival sulcus mucosa image lower (right and left)
 
-
-![](https://i.imgur.com/1EiinxJ.jpg)
+![Buccal gingival sulcus mucosa image lower (right and left)](https://i.imgur.com/1EiinxJ.jpg)
 
 #### Hard palate mucosa (using mirror)
 
-![](https://i.imgur.com/9QFG8Vm.jpg)
+![Hard palate mucosa (using mirror)](https://i.imgur.com/9QFG8Vm.jpg)
 
 #### Soft palate mucosa (using mirror)
-![](https://i.imgur.com/mJQlDQd.jpg)
+
+![Soft palate mucosa (using mirror)](https://i.imgur.com/mJQlDQd.jpg)
 
 #### Soft palate mucosa image (taking directly)
 
-![](https://i.imgur.com/E3Egp70.jpg)
-
-
-
+![Soft palate mucosa image (taking directly)](https://i.imgur.com/E3Egp70.jpg)
 
 ---
 ## Guide
+
 ### Anterior teeth 
+
 #### Frontal upper anterior teeth image
+
 This photograph includes all the upper anterior teeth and premolars, focusing on the middle incisors.This esthetic photograph is used to observe the arrangement of the upper teeth, the shape of the incisal corners, the marginal ridges, the contact points, the incisal embrasures, and the upper labial gingiva. It is the most important image among all the dental esthetic images. (Liu et al. 2019, fig. 58)
 
 * Ask the patient to sit on a dental chair (45° to the ground -chair position) 
@@ -228,6 +222,7 @@ This photograph includes all the upper anterior teeth and premolars, focusing on
 * The horizontal middle line is the line through the upper incisal margin, perpendicular to the facial middle line.
 
 #### Lateral upper anterior teeth image
+
 This photograph includes the upper anterior teeth of the one side and the first premolar of the same side, focusing on lateral incisors. (Liu et al. 2019, fig.60) 
 
 Ask the patient to sit on a dental chair (45° to the ground -chair position). 
@@ -239,6 +234,7 @@ Ask the patient to sit on a dental chair (45° to the ground -chair position).
 * Use the upper lateral incisor as a center and shoot. 
 
 #### Upper anterior incisal image with shooting angle inclination to the vestibular surfaces
+
 This image is used to observe the arrangement, incisal and labial morphology, micro structure of the upper anterior teeth, and to evaluate the upper anterior gingival and alveolar shape and
 contour, which is very important in anterior implant cases. The shooting angle is more inclined to the labial side or vestibular surfaces in order to show vestibular surface texture, alveolar bone and gingival tissue contour. (Liu et al. 2019, fig. 62)
 
@@ -250,8 +246,8 @@ contour, which is very important in anterior implant cases. The shooting angle i
 * Adjust the direction of the reflector to ensure that the anterior incisal edge, labial surface, labial gingiva and alveolar contour will be photographed.
 * Shooting angle should be inclined more to the labial side ( vestibular surfaces)
 
-
 #### Upper anterior incisal image with shooting angle inclination to the palatal surfaces
+
 This image is used to observe the arrangement, incisal and labial morphology, micro structure of the upper anterior teeth, and to evaluate the upper anterior gingival and alveolar shape and
 contour, which is very important in anterior implant cases. The shooting angle is more inclined to the palatal side, or the palatal surfaces, showing palatal surface shape, palatal alveolar bone and gingival tissue contour. (Liu et al. 2019, fig. 63)
 
@@ -264,6 +260,7 @@ contour, which is very important in anterior implant cases. The shooting angle i
 * Shooting angle should be inclined more to the palatal l side ( palatal surfaces)
 
 #### Frontal lower anterior teeth image
+
 This photograph includes all the lower anterior teeth and premolars, focusing on the middle incisors.
 It is used to observe the arrangement of the lower teeth, the shape of the incisal corners, the marginal ridges, the contact points, the incisal embrasures, and the lower labial gingiva. ( Liu et al. 2019, fig. 61)
 
@@ -276,41 +273,46 @@ It is used to observe the arrangement of the lower teeth, the shape of the incis
 * The operator is standing ahead of the patient photographs the upper teeth directly with a camera perpendicular to the teeth.
 * The horizontal middle line is the line through lower incisal margin, perpendicular to the facial middle line.
 
-#### Lateral lower anterior teeth image 
-This photograph includes the lower anterior teeth of the one side and the first premolar of the same side, focusing on the lateral incisor.
-It is used to observe the arrangement of the lower teeth, the shape of the incisal corners, the marginal ridges, the contact points, the incisal embrasures, and the lower labial gingiva. Also, it is used to observe the structure of the tooth surfaces. 
+#### Lateral lower anterior teeth image
 
-* Ask the patient to sit on a dental chair (45° to the ground -chair position). 
+This photograph includes the lower anterior teeth of the one side and the first premolar of the same side, focusing on the lateral incisor.
+It is used to observe the arrangement of the lower teeth, the shape of the incisal corners, the marginal ridges, the contact points, the incisal embrasures, and the lower labial gingiva. Also, it is used to observe the structure of the tooth surfaces.
+
+* Ask the patient to sit on a dental chair (45° to the ground -chair position).
 * Pull the lower lip with a retractor. Use the finger-like retractors trying to expose more upper teeth and gingiva.
 * Shelter the lower teeth with a black backdrop and then photograph the upper anterior teeth.
-* The proper saliva suction must be provided. 
-* Teeth surfaces must be dried before shooting. 
-* Use a lower lateral incisor as a center and shoot. 
+* The proper saliva suction must be provided.
+* Teeth surfaces must be dried before shooting.
+* Use a lower lateral incisor as a center and shoot.
 
 #### Lower incisal image with shooting angle more to the labial side
+
 Lower anterior incisal image can be used to analyse the shape of lower anterior arch, alignment of anterior teeth, labial surface texture, gingival form of the labial side and tissue of the mouth floor. (Liu et al. 2019, fig.  64)
 
-* Ask the patient to sit on a dental chair (45° to the ground -chair position). 
-* Pull the lover lip using semilunar, finger or black occlusal retractors. 
-* Ask the patient to roll his tongue, put it behind the mirror, gently blow the mirror with air to prevent forming fog. 
-* The proper saliva suction must be provided. 
-* Teeth surfaces must be dried before shooting. 
+* Ask the patient to sit on a dental chair (45° to the ground -chair position).
+* Pull the lover lip using semilunar, finger or black occlusal retractors.
+* Ask the patient to roll his tongue, put it behind the mirror, gently blow the mirror with air to prevent forming fog.
+* The proper saliva suction must be provided.
+* Teeth surfaces must be dried before shooting.
 * Shooting angle should be inclined more to the labial side
-* Shoot indirectly, using a mirror. 
+* Shoot indirectly, using a mirror.
 
 #### Lower incisal image with shooting angle more to the lingual side
+
 Lower anterior incisal image can be used to analyse the shape of the lingual surfaces, lingual soft and hard tissue as well as the mouth floor. (Liu et al. 2019, fig. 65)
 
 * Ask the patient to sit on a dental chair (45° to the ground -chair position).
-* Pull the lover lip using semilunar, finger or black occlusal retractors. 
-* Ask the patient to roll his tongue, put it behind the mirror, gently blow the mirror with air to prevent forming frog. 
-* The proper saliva suction must be provided. 
-* Teeth surfaces must be dried before shooting. 
+* Pull the lover lip using semilunar, finger or black occlusal retractors.
+* Ask the patient to roll his tongue, put it behind the mirror, gently blow the mirror with air to prevent forming frog.
+* The proper saliva suction must be provided.
+* Teeth surfaces must be dried before shooting.
 * Shooting angle should be inclined more to the lingual side
 * Shoot indirectly, using a mirror. 
 
 ### Posterior teeth
+
 #### Upper posterior teeth occlusal surface image (left and right side)
+
 This image includes occlusal surfaces of the upper posterior premolar and molar teeth.
 This image is used to observe the arrangement of the posterior teeth, the shape of the dental crowns, their position, the marginal ridges, the contact points, and the surrounding gingiva. Also, it is used to observe the structure of the tooth surfaces. ( Liu et al.  2019, fig. 67; fig. 68)
 
@@ -324,7 +326,8 @@ This image is used to observe the arrangement of the posterior teeth, the shape 
 * The dental arch is centered in the middle of the image. 
 * After shooting , the images need 180 rotation, in order to match the actual situation. 
 
-#### Upper posterior teeth palatal surface image ( left and right side)
+#### Upper posterior teeth palatal surface image (left and right side)
+
 This image includes occlusal surfaces of the upper posterior premolar and molar teeth. 
 This image is used to observe the arrangement of the posterior teeth, the shape of the dental crowns, their position, the marginal ridges, the contact points, and the surrounding gingiva. Also, it is used to observe the structure of the tooth surfaces. ( Liu et al. 2019, fig. 69; fig. 70)
 
@@ -340,6 +343,7 @@ This image is used to observe the arrangement of the posterior teeth, the shape 
 
 
 #### Lower posterior teeth occlusal surface image (left and right side)
+
 This image includes occlusal surfaces of the lower posterior premolar and molar teeth. 
 This image is used to observe the arrangement of the lower posterior teeth, the shape of the dental crowns , their position, the marginal ridges, the contact points, and the surrounding gingiva. Also, it is used to observe the structure of the tooth surfaces.( Liu et al. 2019. fig. 71; fig. 72) 
 
@@ -355,6 +359,7 @@ This image is used to observe the arrangement of the lower posterior teeth, the 
 * After shooting, the images need 180° rotation in order to match the actual situation. 
 
 #### Lower posterior teeth lingual surface image (left and right side)
+
 This image includes lingual and occlusal surfaces of the lower posterior premolar and molar teeth. 
 This image is used to observe the arrangement of the lower posterior teeth, the shape of the dental crowns , their position, the marginal ridges, the contact points, and the surrounding gingiva. Also, it is used to observe the structure of the tooth surfaces. (Liu et al. 2019, fig. 73; fig. 74)
 
@@ -369,12 +374,12 @@ This image is used to observe the arrangement of the lower posterior teeth, the 
 * The dental arch is positioned in the lower middle part of the image, horizontally. 
 * After shooting, the images need 180 rotations in order to match the actual situation.
 
-
-
 ---
 
 ### Occlusion
+
 #### Frontal occlusion image of full arch
+
 This image represents  an overall impression of soft and hard tissue and the occlusal condition.
 It is used to evaluate the position, directions and length of the teeth and to observe the overall occlusion, and the shape, texture and color of the soft tissue.  (Liu et al. 2019, fig. 76)
 
@@ -388,6 +393,7 @@ It is used to evaluate the position, directions and length of the teeth and to o
 *  Focus on the upper middle incisors.
 
 ### Posterior teeth occlusion image (left and right side)
+
 This image includes all the teeth and gum of one side and it is used to observe the shape, arrangement and occlusion of the posterior teeth, and the posterior buccal gingiva. ( Liu et al. 2019, fig. 78; fig. 79)
 
 * Ask the patient to sit on a dental chair (45° to the ground -chair position).
@@ -411,6 +417,7 @@ The upper and lower dentitions detach slightly, making the incisal third of each
 * Tell the patient to lower his head a little and touch the palate with his tongue slightly, in order to expose the lower posterior occlusal surfaces well.
 
 #### Full arch non occlusion image (left and right)
+
 This image shows biting upper and lower dentition and  presents an overall impression of soft and hard tissue and the occlusal condition.
 It is used to evaluate the position, directions and length of the teeth and to observe the lower incisal and occlusal surfaces, and the shape, texture and color of the soft tissue.
 It is used for analyzing the shape, arrangement and gingival level of the lower  front teeth and for analysing the occlusal curve more clearly. (Liu et al. 2019, fig. 82; fig. 83)
@@ -498,14 +505,17 @@ This image is used to observe the shape and arrangement of the lower arch, the p
 * The operator stands in front of the patient and shoots indirectly, using a mirror. stands in front of him.
 
 ### Soft tissues
+
 #### Perioral Tissue Image
+
 This image mainly reflects the health condition or pathological change of upper and lower lip (vermillion) and surrounding skin.  (Liu et al. 2019, fig. 126)
 
 * Ask the patient to sit up on a chair or dental chair in a position of 45° to the ground.
-*  Ask the patient to relax his lips.
+* Ask the patient to relax his lips.
 * Shoot vertically. 
 
 #### Lip Mucosa Image
+
 This image reflects the health condition or any present  pathological change of the inner (mucosal) part of the upper and lower lip. (Liu et al. 2019. fig. 128; fig. 129)
 
 * Ask the patient to sit on a dental chair (45° to the ground -chair position) 
@@ -514,6 +524,7 @@ This image reflects the health condition or any present  pathological change of 
 * When shooting upper lip mucosa image, the operator can ask the patient to raise his head backward in order to shoot properly. 
 
 #### Buccal Mucosa Image
+
 This image reflects the health condition or any pathological change of the buccal mucosa of the right and left cheek.
 Due to the limitation of retraction ability of the buccal mucosa, taking buccal mucosa image can be very challenging. (Liu et al. 2019, fig. 133; fig. 134) 
 
@@ -522,11 +533,13 @@ Due to the limitation of retraction ability of the buccal mucosa, taking buccal 
 * Ask the patient to open widely and shoot.
 
 #### Tongue Mucosa Image
+
 Tongue is a very muscular organ and has high movement ability, which makes the shooting procedure difficult. 
 Before shooting, operator should ask the patient to cooperate and to
 relax his tongue as much as he can. Meanwhile, the operator should reduce the shooting time to make the patient more comfortable.
 
 #### Dorsum of Tongue Mucosa Image
+
 This image reflects the health condition or any present pathological change of the dorsum of the tongue. (Liu et al. 2019, fig. 135)
 * Ask the patient to sit on a dental chair (45° to the ground -chair position). 
 * Ask the patient to stick out his tongue. 
@@ -543,6 +556,7 @@ his tongue out of mouth, operator may use retractor and mirror to shoot:
 * The operator stands in front of the patient and takes the image from the mirror.
 
 #### Ventrum of Tongue Mucosa Image
+
 This image reflects the health condition or any present pathological change of the ventral mucosa of the tongue. (Liu et al. 2019, fig. 138)
 
 * Ask the patient to sit on a dental chair (45° to the ground -chair position). 
@@ -551,6 +565,7 @@ This image reflects the health condition or any present pathological change of t
 * The operator stands in front of the patient and shoots. The lingual frenulum is centric, the horizontal line is perpendicular with the lingual frenulum. 
 
 #### Lateral Side Image of Tongue Mucosa(left and right)
+
 This image reflects the health condition or any present pathological change of the lateral sides of the tongue. ( Liu et al. 2019, fig. 139; fig. 140)
 
 * Ask the patient to sit on a dental chair (45° to the ground -chair position) . 
@@ -560,6 +575,7 @@ This image reflects the health condition or any present pathological change of t
 * This image should contain all tongue body tissue. Tongue body is centric; the horizontal line is the boundary of the dorsum and ventral side of the tongue. 
 
 #### Mucosa Image of Mouth Floor
+
 This image reflects the health condition or any present pathological change of the mucosa of the mouth floor. This image can be used for recording and evaluating salivary secretion. (Liu et al. 2019, fig.141)
 
 
@@ -572,6 +588,7 @@ This image reflects the health condition or any present pathological change of t
 * The operator stands in the front and takes the image from the mirror. This image may contain all the tissue of the floor of the mouth.
 
 #### Buccal Gingival Sulcusmucosa Image( upper right and left, lower right and left)
+
 This image represents the health condition or any present pathological change on the tissue of the buccal gingival sulcus. ( Liu et al. fig. 143; fig. 144)
 
 * Ask the patient to sit on a dental chair (45° to the ground -chair position) .
@@ -579,6 +596,7 @@ This image represents the health condition or any present pathological change on
 * Pull strongly in the shooting side while holding the tissue using the big retractor in the opposite side and shoot directly the mucosa around the buccal gingival sulcus area. This image should contain all tissue of buccal gingival sulcus, of which horizontal line is the migration line.
 
 #### Hard palate mucosa image
+
 This image reflects the health condition or any present pathological change on the mucosa of the hard palate. (Liu et al. 2019, fig. 145)
 
 

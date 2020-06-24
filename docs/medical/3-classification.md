@@ -8,123 +8,123 @@ sidebar_label: Classification
 ```
 Oral conditions
 ├── Dental tissue conditions
-│   └── Crown
-│       └── Dental caries
-│           ├── Initial
-│           ├── Moderate
-│           ├── Severe
-│           ├── Arrested
-│           └── Odontoclasia
-│       └── Tooth wear
-│           ├── Erosion
-│           ├── Abrasion
-│           ├── Attrition
-│           └── Abfraction
-│   └── Root
-│       └── Root caries
-│           ├── Initial
-│           ├── Moderate
-│           ├── Severe
-│           └── Arrested
-│       └── Hypercementosis
-│   └── Pulp
-│       ├── Normal pulp
-│       ├── Reversible pulpitis
-│       ├── Asymptomatic irreversible pulpitis
-│       ├── Symptomatic irreversible pulpitis
-│       ├── Hyperplastic pulpitis
-│       ├── Pulp necrosis
-│       ├── Previously treated pulp
-│       ├── Previously initiated therapy
-│       └── Pulp degeneration
-│           ├── Pulpal calcifications
-│           ├── Pulpal stones
-│           ├── Internal resorption
-│           └── Atrophic degeneration
-│   └── Periapical tissues
-│       ├── Asymptomatic apical periodontitis
-│       ├── Symptomatic apical periodontitis
-│       ├── Acute apical abscess
-│       ├── Chronic apical abscess
-│       └── Condensing osteitis
-│   └── Developmental anomalies
-│       └── Tooth number
-│           ├── Anodontia
-│           ├── Hypodontia
-│           ├── Oligodontia
-│           └── Hyperdontia
-│   └── Tooth size
-│       ├── Microdontia
-│       ├── Macrodontia
-│       └── Anomalies of the root size
-│           ├── Rhizomegaly
-│           └── Rhizomicry
-│   └── Tooth shape
-│       ├── Fusion
-│       ├── Gemination
-│       ├── Concrescence
-│       ├── Dens evaginatus
-│       ├── Dens invaginatus
-│       ├── Taurodontism
-│       ├── Hutchinson s incisors
-│       ├── Moon s/mulberry molars
-│       └── Anomalies of root shape
-│           └── Dilaceration
-│   └── Tooth position
-│       ├── Transposition
-│       ├── Rotation
-│       └── Inclination
-│   └── Tooth colour
-│       └── Intrinsic discolorations
-│           └── Due to metabolic disturbances during odontogenesis
-│               ├── Discoloration of teeth in alkaptonuria
-│               ├── Discoloration of teeth in porphyria
-│               ├── Discoloration of teeth in hyperbilirubinemia
-│               └── Discoloration of teeth in cystic fibrosis
-│           └── Drug induced
-│               ├── Tetracyclines
-│               └── Fluorine
-│           └── Due to traumatic injury
-│       └── Extrinsic discoloration
-│   └── Tooth eruption
-│       ├── Pericoronitis
-│       ├── Eruption cyst
-│       ├── Epstein pearls
-│       ├── Bohn s nodules
-│       ├── Dental lamina cyst
-│       └── Precocious eruption(Dentitio praecox)
-│           ├── Natal teeth
-│           └── Neonatal teeth
-│       ├── Retarded eruption (Dentitio tarda)
-│       ├── Ankylosis
-│       ├── Ectopic eruption
-│       ├── Impacted tooth
-│       └── Embeded tooth
-│   └── Tooth structure
-│       └── Structural anomalies of enamel
-│           ├── Amelogenesis imperfecta
-│           └── Enamel hypoplasia
-│       └── Structural anomalies of dentine
-│           ├── Dentinogenesis imperfecta
-│           └── Dentinal dysplasia
-│       ├── Structural anomalies of cementum
-│       └── Structural anomalies of enamel and dentine
-│           └── Regional odontodysplasia
+│   ├── Crown
+│   │   ├── Dental caries
+│   │   │   ├── Initial
+│   │   │   ├── Moderate
+│   │   │   ├── Severe
+│   │   │   ├── Arrested
+│   │   │   └── Odontoclasia
+│   │   └── Tooth wear
+│   │       ├── Erosion
+│   │       ├── Abrasion
+│   │       ├── Attrition
+│   │       └── Abfraction
+│   ├── Root
+│   │   ├── Root caries
+│   │   │   ├── Initial
+│   │   │   ├── Moderate
+│   │   │   ├── Severe
+│   │   │   └── Arrested
+│   │   └── Hypercementosis
+│   ├── Pulp
+│   │   ├── Normal pulp
+│   │   ├── Reversible pulpitis
+│   │   ├── Asymptomatic irreversible pulpitis
+│   │   ├── Symptomatic irreversible pulpitis
+│   │   ├── Hyperplastic pulpitis
+│   │   ├── Pulp necrosis
+│   │   ├── Previously treated pulp
+│   │   ├── Previously initiated therapy
+│   │   └── Pulp degeneration
+│   │       ├── Pulpal calcifications
+│   │       ├── Pulpal stones
+│   │       ├── Internal resorption
+│   │       └── Atrophic degeneration
+│   ├── Periapical tissues
+│   │   ├── Asymptomatic apical periodontitis
+│   │   ├── Symptomatic apical periodontitis
+│   │   ├── Acute apical abscess
+│   │   ├── Chronic apical abscess
+│   │   └── Condensing osteitis
+│   ├── Developmental anomalies
+│   │   ├── Tooth number
+│   │   │   ├── Anodontia
+│   │   │   ├── Hypodontia
+│   │   │   ├── Oligodontia
+│   │   │   └── Hyperdontia
+│   │   ├── Tooth size
+│   │   │   ├── Microdontia
+│   │   │   ├── Macrodontia
+│   │   │   └── Anomalies of the root size
+│   │   │       ├── Rhizomegaly
+│   │   │       └── Rhizomicry
+│   │   ├── Tooth shape
+│   │   │   ├── Fusion
+│   │   │   ├── Gemination
+│   │   │   ├── Concrescence
+│   │   │   ├── Dens evaginatus
+│   │   │   ├── Dens invaginatus
+│   │   │   ├── Taurodontism
+│   │   │   ├── Hutchinson s incisors
+│   │   │   ├── Moon s/mulberry molars
+│   │   │   └── Anomalies of root shape
+│   │   │       └── Dilaceration
+│   │   ├── Tooth position
+│   │   │   ├── Transposition
+│   │   │   ├── Rotation
+│   │   │   └── Inclination
+│   │   ├── Tooth colour
+│   │   │   ├── Intrinsic discolorations
+│   │   │   │   ├── Due to metabolic disturbances during odontogenesis
+│   │   │   │   │   ├── Discoloration of teeth in alkaptonuria
+│   │   │   │   │   ├── Discoloration of teeth in porphyria
+│   │   │   │   │   ├── Discoloration of teeth in hyperbilirubinemia
+│   │   │   │   │   └── Discoloration of teeth in cystic fibrosis
+│   │   │   │   ├── Drug induced
+│   │   │   │   │   ├── Tetracyclines
+│   │   │   │   │   └── Fluorine
+│   │   │   │   └── Due to traumatic injury
+│   │   │   └── Extrinsic discoloration
+│   │   ├── Tooth eruption
+│   │   │   ├── Pericoronitis
+│   │   │   ├── Eruption cyst
+│   │   │   ├── Epstein pearls
+│   │   │   ├── Bohn s nodules
+│   │   │   ├── Dental lamina cyst
+│   │   │   ├── Precocious eruption(Dentitio praecox)
+│   │   │   │   ├── Natal teeth
+│   │   │   │   └── Neonatal teeth
+│   │   │   ├── Retarded eruption (Dentitio tarda)
+│   │   │   ├── Ankylosis
+│   │   │   ├── Ectopic eruption
+│   │   │   ├── Impacted tooth
+│   │   │   └── Embeded tooth
+│   │   └── Tooth structure
+│   │       ├── Structural anomalies of enamel
+│   │       │   ├── Amelogenesis imperfecta
+│   │       │   └── Enamel hypoplasia
+│   │       ├── Structural anomalies of dentine
+│   │       │   ├── Dentinogenesis imperfecta
+│   │       │   └── Dentinal dysplasia
+│   │       ├── Structural anomalies of cementum
+│   │       └── Structural anomalies of enamel and dentine
+│   │           └── Regional odontodysplasia
 │   └── Traumatic injuries
-│       └── Fractures
-│           ├── Infraction
-│           ├── Enamel fracture
-│           ├── Enamel-dentin fracture
-│           ├── Enamel-dentin-pulp fracture
-│           ├── Crown-root fracture without pulp exposure
-│           ├── Crown-root fracture with pulp exposure
-│           └── Root fracture
-│       └── Luxations
-│           ├── Concussion
-│           ├── Subluxation
-│           ├── Extrusive luxation
-│           ├── Intrusive luxation
-│           └── Lateral luxation
+│       ├── Fractures
+│       │   ├── Infraction
+│       │   ├── Enamel fracture
+│       │   ├── Enamel-dentin fracture
+│       │   ├── Enamel-dentin-pulp fracture
+│       │   ├── Crown-root fracture without pulp exposure
+│       │   ├── Crown-root fracture with pulp exposure
+│       │   └── Root fracture
+│       ├── Luxations
+│       │   ├── Concussion
+│       │   ├── Subluxation
+│       │   ├── Extrusive luxation
+│       │   ├── Intrusive luxation
+│       │   └── Lateral luxation
 │       └── Avulsion
 ├── Soft tissue conditions
 │   └── Gingival and periodontal diseases
