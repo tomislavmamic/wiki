@@ -64,6 +64,15 @@ sidebar_label: List
 
 ### Current Complaint
 
+1. [How would you describe your current dental problem?]()
+1. [Do your gums bleed when you brush or floss?]()
+1. [Are your teeth sensitive to cold, hot, sweets or pressure?]()
+1. [Is your mouth dry?]()
+1. [Do you have earaches or neck pain?]()
+1. [Do you have clicking, popping or discomfort in the jaw?]()
+1. [Do you brux or grind your teeth?]()
+1. [Do you often have sores or ulcers in your mouth?]()
+
 ### Examination Notes
 
 ### Medical History
