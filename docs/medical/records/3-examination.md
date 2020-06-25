@@ -64,9 +64,9 @@ If yes, please specify.
 🔘  Not painful  
 🔘  Painful
 
-#### Alveolar ridge palpation
+#### Alveolar Ridge Palpation
 
-#### Buccal/vestibular sulcus palpation
+#### Buccal/vestibular Sulcus Palpation
 
 ---
 
@@ -82,32 +82,49 @@ If it's painful, please specify the area.
 
 ---
 
-### Periodontal examination
+### Periodontal Examination
 
-#### Plaque measurement
+#### Plaque Index Score
 
-*Plaque index score*  
-
-*Single choice* for each *Sextant*:  
+*Single choice* for each *Plaque Index Tooth*:  
 `0` No plaque  
 `1` A film of plaque adhering to the free gingival margin and adjacent area of the tooth, which cannot be seen with the naked eye, only by using the probe.  
 `2` Moderate accumulation of deposits within the gingival pocket, on the gingival margin and/or adjacent tooth surface, which can be seen with the naked eye.  
 `3` Abundance of soft matter within the gingival pocket and/or on the tooth and gingival margin.  
 
-#### Basic periodontal probing
+Plaque Index Teeth: 16, 12, 24, 36, 32, 44
 
-0 - Healthy
-1 - Bleeding observed, directly or by using mouth mirror, after probing
-2 - Calculus detected during probing, but all the black band on the probe visible
-3 - Pocket 4 - 5 mm (gingival margin within the black band on the probe)
-4 - Pocket 6 mm or more (black band on the probe not visible)
-X - Excluded sextant (less than two teeth present)
-* - Furcation involvement 
+---
 
+#### Sextant Periodontal Probing
 
-### Comprehensive periodontal examination
+*Single choice* for each *Sextant*:  
+`0` Healthy  
+`1` Bleeding observed, directly or by using mouth mirror, after probing  
+`2` Calculus detected during probing, but all the black band on the probe visible  
+`3` Pocket 4 - 5 mm (gingival margin within the black band on the probe)  
+`3+` 3 + Furcation involvement  
+`4` Pocket 6 mm or more (black band on the probe not visible)  
+`4+` 4 + Furcation involvement  
+`X` Excluded sextant (less than two teeth present)  
 
+---
 
+#### Full Periodontal Probing
+
+*Depth in milimeters* for each *Periodontal site*:  
+
+---
+
+#### Tooth Mobility Index
+
+*Single choice* for each *Tooth*:  
+`0` Normal physiological mobillity (less than 1mm).  
+`1` Mobility up to 1mm in horizontal plane.  
+`2` Mobility greater than 1mm in horizontal plane.  
+`3` Severe mobility, greater than 2mm or vertical mobility.  
+
+---
 
 ## Input types
 
