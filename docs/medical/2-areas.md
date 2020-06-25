@@ -39,7 +39,7 @@ sidebar_label: Oral Areas
 #### Decidious teeth
 
 | FDI notation | ISO notation |                 Name                  |
-|:------------:|:------------:|:-------------------------------------:|
+|:------------:|:------------:|:-------------------------------------|
 |      51      |              | Deciduous upper right central incisor |
 |      52      |              | Deciduous upper right lateral incisor |
 |      53      |              |     Deciduous upper right canine      |
@@ -64,7 +64,7 @@ sidebar_label: Oral Areas
 #### Permanent Teeth
 
 | FDI notation | ISO notation |                 Name                  |
-|:------------:|:------------:|:-------------------------------------:|
+|:------------:|:------------:|:-------------------------------------|
 |      11      |      1       | Permanent upper right central incisor |
 |      12      |      2       | Permanent upper right lateral incisor |
 |      13      |      3       |     Permanent upper right canine      |
@@ -115,25 +115,15 @@ sidebar_label: Oral Areas
 
 | Notation |       Name       |   Teeth   |
 |:--------:|:----------------:|:---------:|
-|    MV    | Mesio-Vestibular |           |
-|    MB    |   Mesio-Buccal   |           |
-|    DV    | Disto-Vestibular |           |
-|    DB    |   Disto-Buccal   |           |
-|    MP    |  Mesio-Palatal   |           |
-|    ML    |  Mesio-Lingual   |           |
-|    DP    |  Disto-Palatal   |           |
-|    DL    |  Disto-Lingual   |           |
-
+|    MV    | Mesio-Vestibular | Anterior  |
+|    DV    | Disto-Vestibular | Anterior  |
+|    MB    |   Mesio-Buccal   | Posterior |
+|    DB    |   Disto-Buccal   | Posterior |
+|    MP    |  Mesio-Palatal   |   Upper   |
+|    DP    |  Disto-Palatal   |   Upper   |
+|    ML    |  Mesio-Lingual   |   Lower   |
+|    DL    |  Disto-Lingual   |   Lower   |
 
 ## Soft tissues
 
 ## Bone tissues
-
-
-| Upper posteriors | Lower posteriors | Upper anteriors | Lower anteriors |
-|:----------------:|:----------------:|:---------------:|:---------------:|
-|     Occlusal     |     Occlusal     |     Incisal     |     Incisal     |
-|      Buccal      |      Buccal      |   Vestibular    |   Vestibular    |
-|     Palatal      |     Lingual      |     Palatal     |     Lingual     |
-|      Mesial      |      Mesial      |     Mesial      |     Mesial      |
-|      Distal      |      Distal      |     Distal      |     Distal      |

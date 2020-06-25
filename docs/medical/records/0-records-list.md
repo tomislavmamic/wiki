@@ -58,7 +58,14 @@ sidebar_label: List
 
 ### Radiographs
 
-### Other
+1. [Panoramic Radiograph](/docs/medical/records/radiography#panoramic-radiograph)
+1. [Right Posterior Bitewing](/docs/medical/records/radiography#right-posterior-bitewing)
+1. [Right Anterior Bitewing](/docs/medical/records/radiography#right-anterior-bitewing)
+1. [Left Anterior Bitewing](/docs/medical/records/radiography#left-anterior-bitewing)
+1. [Left Posterior Bitewing](/docs/medical/records/radiography#left-posterior-bitewing)
+1. [Retroalveolar Radiograph of Individual Tooth](/docs/medical/records/radiography#retroalveolar-radiograph-of-individual-tooth)
+1. [Occlusal Radiograph of Upper Anterior Teeth](/docs/medical/records/radiography#occlusal-radiograph-of-upper-anterior-teeth)
+1. [Occlusal Radiograph of Lower Anterior Teeth](/docs/medical/records/radiography#occlusal-radiograph-of-lower-anterior-teeth)
 
 ## Notes
 
@@ -74,6 +81,18 @@ sidebar_label: List
 1. [Do you often have sores or ulcers in your mouth?]()
 
 ### Examination Notes
+
+1. [Do you have any intraoral discomfort or difficulty?](/docs/medical/records/examination#do-you-have-any-intraoral-discomfort-or-difficulty)
+2. [Do you have any other extraoral (facial) discomfort or difficulty?](/docs/medical/records/examination#do-you-have-any-other-extraoral-facial-discomfort-or-difficulty)
+3. [Horizontal Percussion](/docs/medical/records/examination#horizontal-percussion)
+4. [Vertical Percussion](/docs/medical/records/examination#vertical-percussion)
+5. [Cold Test](/docs/medical/records/examination#cold-test)
+6. [Alveolar Ridge Palpation](/docs/medical/records/examination#alveolar-ridge-palpation)
+7. [Buccal/vestibular Sulcus Palpation](/docs/medical/records/examination#alveolar-ridge-palpation)
+8. [Plaque Index Score](/docs/medical/records/examination#plaque-index-score)
+9. [Sextant Periodontal Probing](/docs/medical/records/examination#sextant-periodontal-probing)
+10. [Full Periodontal Probing](/docs/medical/records/examination#full-periodontal-probing)
+11. [Tooth Mobility Index](/docs/medical/records/examination#tooth-mobility-index)
 
 ### Medical History
 
@@ -101,3 +120,12 @@ sidebar_label: List
 1. [Do you have any disease, condition, or problem, not listed above? If yes, please specify.](/docs/medical/records/anamnesis#22-do-you-have-any-disease-condition-or-problem-not-listed-above-if-yes-please-specify)
 
 ### Dental History
+
+1. [Have you ever had a serious injury to your head or mouth?]()
+2. [Have you ever had orthodontic treatment?]()
+3. [Do you wear removable dental appliances?]()
+4. [Have you had a difficult problem associated with previous dental treatment? If yes, please explain.]()
+5. [When was your last dental exam?]()
+6. [What dental procedure was done at that time?]()
+7. [When was the last time you took dental x-rays?]()
+8. [How do you feel about the appearance of your teeth?]()

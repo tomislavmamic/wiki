@@ -7,7 +7,7 @@ module.exports = {
   },
   Medical: {
     Medical: ['medical/introduction', 'medical/areas','medical/classification'],
-    Records: ['medical/records/list', 'medical/records/photography', 'medical/records/radiography', 'medical/records/examination', 'medical/records/anamnesis', 'medical/records/complaint'],
+    Records: ['medical/records/list', 'medical/records/photography', 'medical/records/radiography', 'medical/records/examination', 'medical/records/medical-history', 'medical/records/dental-history', 'medical/records/complaint'],
     'Dental Tissue Conditions': ['medical/dental-tissue/dental', 'medical/dental-tissue/pulpal'],
     'Soft Tissue Conditions' : ['medical/soft-tissue/gingival'],
     'Bone Tissue Conditions' : ['medical/bone-tissue/cysts'],

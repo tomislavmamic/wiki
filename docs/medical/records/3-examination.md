@@ -38,10 +38,12 @@ If yes, please specify.
 
 *Single choice* for each [Tooth](/docs/medical/areas#teeth):  
 
-`-` no sensitivity  
-`+` mild sensitivity  
-`++` moderate sensitivity  
-`+++` severe sensitivity  
+| Input | Meaning              |
+|:-----:|:---------------------|
+|   -   | No sensitivity       |
+|   +   | Mild sensitivity     |
+|  ++   | Moderate sensitivity |
+|  +++  | Severe sensitivity   |
 
 #### Horizontal percussion
 
@@ -53,10 +55,12 @@ If yes, please specify.
 
 *Single choice* for each [Tooth](/docs/medical/areas#teeth):  
 
-`-` no reaction  
-`+` normal reaction  
-`++` extended reaction  
-`+++` very strong reaction  
+| Input | Meaning              |
+|:-----:|:---------------------|
+|   -   | No reaction          |
+|   +   | Normal reaction      |
+|  ++   | Extended reaction    |
+|  +++  | Very strong reaction |
 
 ---
 
@@ -93,10 +97,13 @@ If it's painful, please specify the area.
 
 *Single choice* for each *Index Surface* of each *Index Tooth*:  
 
-`0` No plaque  
-`1` A film of plaque adhering to the free gingival margin and adjacent area of the tooth, which cannot be seen with the naked eye, only by using the probe.  
-`2` Moderate accumulation of deposits within the gingival pocket, on the gingival margin and/or adjacent tooth surface, which can be seen with the naked eye.  
-`3` Abundance of soft matter within the gingival pocket and/or on the tooth and gingival margin.  
+
+| Input |       Meaning        |
+|:-----:|:--------------------|
+| 0 | No plaque |
+| 1 | A film of plaque adhering to the free gingival margin and adjacent area of the tooth, which cannot be seen with the naked eye, only by using the probe. |
+| 2 | Moderate accumulation of deposits within the gingival pocket, on the gingival margin and/or adjacent tooth surface, which can be seen with the naked eye. |
+| 3 | Abundance of soft matter within the gingival pocket and/or on the tooth and gingival margin. |
 
 *Index Surfaces:* `M, D, V or B, P or L`  
 *Index Teeth:* `16, 12, 24, 36, 32, 44`  
@@ -107,14 +114,16 @@ If it's painful, please specify the area.
 
 *Single choice* for each [Sextant](/docs/medical/areas#sextants):  
 
-`0` Healthy  
-`1` Bleeding observed, directly or by using mouth mirror, after probing  
-`2` Calculus detected during probing, but all the black band on the probe visible  
-`3` Pocket 4 - 5 mm (gingival margin within the black band on the probe)  
-`3+` 3 + Furcation involvement  
-`4` Pocket 6 mm or more (black band on the probe not visible)  
-`4+` 4 + Furcation involvement  
-`X` Excluded sextant (less than two teeth present)  
+| Input | Meaning                                                 |
+|:-----:|:--------------------------------------------------------|
+|   0   | Healthy                                                 |
+|   1   | Bleeding after probing                                  |
+|   2   | Calculus detected, black band visible completely        |
+|   3   | Pocket 4-5 mm, black band on the gingival margin        |
+|  3F   | 3 + Furcation involvement                               |
+|   4   | Pocket 6mm or more, black band completely inside pocket |
+|  4F   | 4 + Furcation involvement                               |
+|   X   | Excluded sextant (less than two teeth present)          |
 
 Based on the highest result from probing *Index Surfaces* `M, D, V or B, P or L` of each [Tooth](/docs/medical/areas#teeth) in [Sextant](/docs/medical/areas#sextants).
 
@@ -130,7 +139,9 @@ Based on the highest result from probing *Index Surfaces* `M, D, V or B, P or L`
 
 *Single choice* for each [Tooth](/docs/medical/areas#teeth):  
 
-`0` Normal physiological mobillity (less than 1mm).  
-`1` Mobility up to 1mm in horizontal plane.  
-`2` Mobility greater than 1mm in horizontal plane.  
-`3` Severe mobility, greater than 2mm or vertical mobility.
+| Input | Meaning                                                |
+|:-----:|:-------------------------------------------------------|
+|   0   | Normal physiological mobility (less than 1mm)          |
+|   1   | Mobility up to 1mm in horizontal plane                 |
+|   2   | Mobility greater than 1mm in horizontal plane          |
+|   3   | Severe mobility, greater than 2mm or vertical mobility |
