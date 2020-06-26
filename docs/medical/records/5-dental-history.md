@@ -4,11 +4,19 @@ title: Dental History
 sidebar_label: Dental History
 ---
 
-### Have you ever had a serious injury to your head or mouth?  
+### Have you ever had a serious injury to your head or mouth?
+
+*Single choice*:  
+
+🔘 Yes
+🔘 No
+🔘 Don't know
 
 ---
 
-### Have you ever had orthodontic treatment?  
+### Have you ever had orthodontic treatment?
+
+`Short text`
 
 ---
 
