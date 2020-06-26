@@ -36,67 +36,83 @@ sidebar_label: Oral Areas
 
 ### Teeth
 
-#### Decidious teeth
+```
+                 Permanent Dentition
+        upper right - 1             upper left - 2
+    18 17 16 15 14 13 12 11 | 21 22 23 24 25 26 27 28 
+ R --------------------------------------------------- L
+    48 47 46 45 44 43 42 41 | 31 32 33 34 35 36 37 38 
+        lower right - 4             lower left - 3 
 
-| FDI notation | ISO notation |                 Name                  |
-|:------------:|:------------:|:-------------------------------------|
-|      51      |              | Deciduous upper right central incisor |
-|      52      |              | Deciduous upper right lateral incisor |
-|      53      |              |     Deciduous upper right canine      |
-|      54      |              |    Deciduous upper right 1st molar    |
-|      55      |              |    Deciduous upper right 2nd molar    |
-|      61      |      33      | Deciduous upper left central incisor  |
-|      62      |      1       | Deciduous upper left lateral incisor  |
-|      63      |      2       |      Deciduous upper left canine      |
-|      64      |      3       |    Deciduous upper left 1st molar     |
-|      65      |      4       |    Deciduous upper left 2nd molar     |
-|      71      |      5       | Deciduous lower left central incisor  |
-|      72      |      6       | Deciduous lower left lateral incisor  |
-|      73      |      7       |      Deciduous lower left canine      |
-|      74      |      8       |    Deciduous lower left 1st molar     |
-|      75      |      9       |    Deciduous lower left 2nd molar     |
-|      81      |      10      | Deciduous lower right central incisor |
-|      82      |      11      | Deciduous lower right lateral incisor |
-|      83      |      12      |     Deciduous lower right canine      |
-|      84      |      13      |    Deciduous lower right 1st molar    |
-|      85      |      14      |    Deciduous lower right 2nd molar    |
+                    Primary Dentition
+        upper right - 5             upper left - 6
+             55 54 53 52 51 | 61 62 63 64 65 
+          R --------------------------------- L
+             85 84 83 82 81 | 71 72 73 74 75 
+        lower right - 8             lower left - 7
+```
 
 #### Permanent Teeth
 
-| FDI notation | ISO notation |                 Name                  |
-|:------------:|:------------:|:-------------------------------------|
-|      11      |      1       | Permanent upper right central incisor |
-|      12      |      2       | Permanent upper right lateral incisor |
-|      13      |      3       |     Permanent upper right canine      |
-|      14      |      4       |  Permanent upper right 1st premolar   |
-|      15      |      5       |  Permanent upper right 2nd premolar   |
-|      16      |      6       |    Permanent upper right 1st molar    |
-|      17      |      7       |    Permanent upper right 2nd molar    |
-|      18      |      8       |    Permanent upper right 3rd molar    |
-|      21      |      9       | Permanent upper left central incisor  |
-|      22      |      10      | Permanent upper left lateral incisor  |
-|      23      |      11      |      Permanent upper left canine      |
-|      24      |      12      |   Permanent upper left 1st premolar   |
-|      25      |      13      |   Permanent upper left 2nd premolar   |
-|      26      |      14      |    Permanent upper left 1st molar     |
-|      27      |      15      |    Permanent upper left 2nd molar     |
-|      28      |      16      |    Permanent upper left 3rd molar     |
-|      31      |      17      | Permanent lower left central incisor  |
-|      32      |      18      | Permanent lower left lateral incisor  |
-|      33      |      19      |      Permanent lower left canine      |
-|      34      |      20      |   Permanent lower left 1st premolar   |
-|      35      |      21      |   Permanent lower left 2nd premolar   |
-|      36      |      22      |    Permanent lower left 1st molar     |
-|      37      |      23      |    Permanent lower left 2nd molar     |
-|      38      |      24      |    Permanent lower left 3rd molar     |
-|      41      |      25      | Permanent lower right central incisor |
-|      42      |      26      | Permanent lower right lateral incisor |
-|      43      |      27      |     Permanent lower right canine      |
-|      44      |      28      |  Permanent lower right 1st premolar   |
-|      45      |      29      |  Permanent lower right 2nd premolar   |
-|      46      |      30      |    Permanent lower right 1st molar    |
-|      47      |      31      |    Permanent lower right 2nd molar    |
-|      48      |      32      |    Permanent lower right 3rd molar    |
+| ISO | Universal | Name                                  |
+|:---:|:---------:|:--------------------------------------|
+| 11  |     8     | Permanent upper right central incisor |
+| 12  |     7     | Permanent upper right lateral incisor |
+| 13  |     6     | Permanent upper right canine          |
+| 14  |     5     | Permanent upper right 1st premolar    |
+| 15  |     4     | Permanent upper right 2nd premolar    |
+| 16  |     3     | Permanent upper right 1st molar       |
+| 17  |     2     | Permanent upper right 2nd molar       |
+| 18  |     1     | Permanent upper right 3rd molar       |
+| 21  |     9     | Permanent upper left central incisor  |
+| 22  |    10     | Permanent upper left lateral incisor  |
+| 23  |    11     | Permanent upper left canine           |
+| 24  |    12     | Permanent upper left 1st premolar     |
+| 25  |    13     | Permanent upper left 2nd premolar     |
+| 26  |    14     | Permanent upper left 1st molar        |
+| 27  |    15     | Permanent upper left 2nd molar        |
+| 28  |    16     | Permanent upper left 3rd molar        |
+| 31  |    24     | Permanent lower left central incisor  |
+| 32  |    23     | Permanent lower left lateral incisor  |
+| 33  |    22     | Permanent lower left canine           |
+| 34  |    21     | Permanent lower left 1st premolar     |
+| 35  |    20     | Permanent lower left 2nd premolar     |
+| 36  |    19     | Permanent lower left 1st molar        |
+| 37  |    18     | Permanent lower left 2nd molar        |
+| 38  |    17     | Permanent lower left 3rd molar        |
+| 41  |    25     | Permanent lower right central incisor |
+| 42  |    26     | Permanent lower right lateral incisor |
+| 43  |    27     | Permanent lower right canine          |
+| 44  |    28     | Permanent lower right 1st premolar    |
+| 45  |    29     | Permanent lower right 2nd premolar    |
+| 46  |    30     | Permanent lower right 1st molar       |
+| 47  |    31     | Permanent lower right 2nd molar       |
+| 48  |    32     | Permanent lower right 3rd molar       |
+
+#### Decidious / Primary teeth
+
+| ISO | Universal | Name                                  |
+|:---:|:---------:|:--------------------------------------|
+| 51  |     E     | Deciduous upper right central incisor |
+| 52  |     D     | Deciduous upper right lateral incisor |
+| 53  |     C     | Deciduous upper right canine          |
+| 54  |     B     | Deciduous upper right 1st molar       |
+| 55  |     A     | Deciduous upper right 2nd molar       |
+| 61  |     F     | Deciduous upper left central incisor  |
+| 62  |     G     | Deciduous upper left lateral incisor  |
+| 63  |     H     | Deciduous upper left canine           |
+| 64  |     I     | Deciduous upper left 1st molar        |
+| 65  |     J     | Deciduous upper left 2nd molar        |
+| 71  |     O     | Deciduous lower left central incisor  |
+| 72  |     N     | Deciduous lower left lateral incisor  |
+| 73  |     M     | Deciduous lower left canine           |
+| 74  |     L     | Deciduous lower left 1st molar        |
+| 75  |     K     | Deciduous lower left 2nd molar        |
+| 81  |     P     | Deciduous lower right central incisor |
+| 82  |     Q     | Deciduous lower right lateral incisor |
+| 83  |     R     | Deciduous lower right canine          |
+| 84  |     S     | Deciduous lower right 1st molar       |
+| 85  |     T     | Deciduous lower right 2nd molar       |
 
 #### Teeth Surfaces
 
