@@ -182,6 +182,139 @@ In patients with angina pactoris, oral changes might be observed due to medicati
 
 ---
 
+#### Arteriosclerosis
+
+Arterioslerosis can be associated with higher risk of periodontal disease. Also, oral changes might be observed due to medications used in treatment of the disease. Some of the oral changes include: dry mouth, taste sense alterations, blleding, lichenoid reactions, salivary gland swelling, etc. 
+
+---
+
+#### Congestive heart failure
+
+In people with congestive heart failure,  a pink sputum can be observed if the primary disease is associated with acute pulmonary edema. Otherwise, there is no evidence of the other oral manifestations associated with congestive heart failure.  Oral changes might be observed due to medications used in treatment of the disease. Some of the oral changes include:dry mouth,lip and face edema, metallic taste in the mouth, burning sensations in mouth, gingival enlargement, etc.
+
+---
+
+#### Coronary artery disease 
+
+In patients with coronary artery disease, oral changes might be observed due to medications used in treatment.  These medications can cause: dry mouth, redness of the oral mucosa, gingival enlargement, taste sense alterations, angioedema of the lips, face or tongue, burning sensations in the mouth etc.
+
+---
+
+#### Damaged heart valves
+
+In some patients with damaged heart valves, an antibiotic prophylactic regimen might be considered prior high - risk dental treatments.  In patients with this condition oral changes might be observed due to medications used in treatment. These medications can cause: dry mouth, redness of the oral mucosa, gingival enlargement, taste sense alterations, angioedema of the lips, face or tongue, burning sensations in the mouth etc.
+
+---
+
+#### Heart attack
+
+In some patients with heart attack, an antibiotic prophylactic regimen might be considered prior high - risk dental treatments.
+
+In patients with heart attack oral changes might be observed due to medications used in treatment. These medications can cause: dry mouth, redness of the oral mucosa, gingival enlargement, taste sense alterations, angioedema of the lips, face or tongue, burning sensations in the mouth etc.
+Some of these drugs may have potential interactions with vasoconstrictors in local anesthetic. 
+
+---
+
+#### Low blood pressure
+
+Informations about hypotension are important for dental treatment and diagnosis. Hypotensive patients are prone to sudden drops in blood pressure when getting up abruptly from a dental chair, which should be taken into consideration when it comes to dental treatment.
+
+There is no evidence of the oral manifestations of the low blood pressure,  but some oral changes in patients with this condition can be observed due to medications used in treatment of the underlying disease.
+Medications used to treat hypotension can cause oral side effects: redness of the oral mucosa, dry mouth, and oral candidiasis.
+
+---
+
+#### High blood pressure
+
+The oral manifestations of high blood pressure include gingivitis, periodontitis, salivary gland swellingor pain and  lichenoid reactions. 
+Also, medication used in treatment of high blood pressure can cause oral side effects such as: redness and swelling of oral mucosa, burning sensations in mouth, metallic taste and other taste disturbances, dry mouth, etc. 
+
+---
+
+#### Congenital heart defects
+
+In some patients with non repaired congenital heart defects, an antibiotic prophylactic regimen might be considered prior high - risk dental treatments. 
+
+In patients with this condition, oral changes might be observed due to medications used in treatment. These medications can cause: dry mouth, redness of the oral mucosa, gingival enlargement, taste sense alterations, angioedema of the lips, face or tongue, burning sensations in the mouth, etc. 
+
+---
+
+#### Pacemaker
+
+Informations about pacemaker placement are important for dental treatment and diagnosis.  Pacemakers are  electronic devices sensitive to strong electromagnetic signals. There are possible electromagnetic interferences to pacemakers, due to dental devices such as ultrasonic scalers, electrosurgical unit, ultrasonic bath cleaners, and battery driven light cure composite unit. Although pacemakers of new generation have more protective features than those of past,  still precautionary measures should be taken prior to treatment. 
+
+Also, in patients with this condition, oral changes might be observed due to medications used in treatment. These medications can cause: dry mouth, redness of the oral mucosa, gingival enlargement, taste sense alterations, angioedema of the lips, face or tongue, burning sensations in the mouth, etc.
+
+---
+
+#### Rheumatic heart disease
+
+In  patients with rheumatic heart disease, an antibiotic prophylactic regimen should be administered prior high - risk dental treatments. 
+In patients with this condition, oral changes might be observed due to medications used in treatment. 
+
+These medications can cause: dry mouth, redness of the oral mucosa, gingival enlargement, taste sense alterations, angioedema of the lips, face or tongue, burning sensations in the mouth, etc.
+
+---
+
+#### Abnormal bleeding
+
+Informations about abnormal bleeding and blod clotting disorders are very important for dental treatment and diagnosis. Knowing that a patient has an abnormal bleeding  disorder is very important before the dental treatment itself in order to avoid unwanted and prolonged bleeding, since many dental interventions involve bleeding.
+
+Abnormal bleeding disorders also have an impact on oral tissues where petechial hemorrhages and hematomas can be seen, as well as spontaneous gingival hemorrhages. Therefore, this information is diagnostically very important.
+
+---
+
+#### Hemophilia
+
+Oral manifestations of hemophilia include bleeding from multiple sites, frequently manifested in the mouth as gingival and post-extraction hemorrhages. Also, oral ulcerations and bleding spots involving lips and often.  Informations about this disorder have a significant diagnostic value. 
+
+---
+
+#### Leukopenia
+
+Oral manifestations of leukopenia include recurrent aphthous stomatitis, recurrent gingivitis, and periodontitis.The periodontal manifestations range from marginal gingivitis to rapidly advancing periodontal bone loss caused by bacterial infection of the supporting dental structures.
+
+In patients with this condition, oral changes might be observed due to medications used in treatment. These medications can cause redness of the oral mucosa and oral candidiasis.
+
+---
+
+#### Thrombocytopenia
+
+ Oral manifestations of thrombocytopenia include small, single or multiple petechial haemorrhages, ecchymosis and haemorrhagic blisters or  spontaneous bleeding. 
+The thrombocytopaenic lesions are usually located on the soft tissues most susceptible to trauma, such as the buccal mucosa, the junction between the hard and soft palate and on  the gingiva. 
+
+---
+
+#### Thrombophilia
+
+In patients with thrombophilia, oral changes might be observed due to medications used in treatment. These medications can cause:gingival bleeding , petechie on the oral mucosa, post- extraction bleeding and often nose bleeds. 
+
+---
+
+#### AIDS or HIV infection 
+
+Oral manifestations of AIDS or HIV inflection include include oral candidiasis, hairy leukoplakia, Kaposi sarcoma, linear gingival redness, necrotizing ulcerative periodontitis, aphtae and  ulcerations.
+
+---
+
+#### Arthritis
+
+Oral manifestations of arthritis include painful opening and closing mouth, limited mouth opening and periodontal disease. 
+
+In patients with arhtritis, oral changes might be observed due to medications used in treatment: dry mouth, redness, swelling of lips and tongue, metallic taste in mouth, oral candidiasis. 
+
+---
+
+#### Rheumatoid arthritis
+
+Oral manifestations of  rheumatoid arthritis include painful opening and closing mouth, limited mouth opening, xerostomia and aphtous ulcerations. In patients with  rheumatoid arhtritis, oral changes might be observed due to medications used in treatment: oral ulcerations, gingival bleeding, redness and edema, dry mouth, taste disturbances and oral candidiasis. 
+
+---
+
+
+
+
+
 ### Do you have any disease, condition, or problem, not listed above?
 
 If yes, please specify.
