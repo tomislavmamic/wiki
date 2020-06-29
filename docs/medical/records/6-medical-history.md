@@ -256,6 +256,14 @@ These medications can cause: dry mouth, redness of the oral mucosa, gingival enl
 
 ---
 
+#### Anaemia
+
+Oral manifestations of anaemia include pallor of the oral mucosa,burning  sensation of tongue and or lips atrophy of the tongue papillae, angular cheillitis.
+
+In patients with anaemia, oral changes such as tooth discoloration,  might be observed due to medications used in treatment.
+
+---
+
 #### Abnormal bleeding
 
 Informations about abnormal bleeding and blod clotting disorders are very important for dental treatment and diagnosis. Knowing that a patient has an abnormal bleeding  disorder is very important before the dental treatment itself in order to avoid unwanted and prolonged bleeding, since many dental interventions involve bleeding.
@@ -311,10 +319,247 @@ Oral manifestations of  rheumatoid arthritis include painful opening and closing
 
 ---
 
+#### Systemic lupus erythematosus
 
+Oral manifestation of this condition include oral ulcerations, honeycomb plaque, raised keratotic plaque, nonspecific erythema, purpura, petechiae,  cheilitis, hyposalivation, xerostomia, as well as higher risk of dental caries. 
 
+In patients with  this condition , oral changes such as oral candidiasis might be observed due to medications used in treatment.
 
+---
+
+#### Other autoimmune diseases
+
+A broad spectrum of oral manifestations of autoimmune diseases has been observed. These manifestations include: erythematous and edematous mucosal lesions,erosions, ulcerations, diffuse and severe stomatitis, vesicles, bullous lesions and blisters. 
+
+In patients with  this autoimmune conditions , oral changes such as oral candidiasis might be observed due to medications used in treatment.
+
+---
+
+#### Asthma
+
+Oral manifestations of asthma include dry mouth due to decreased salivary flow, excessive dental calculus, dental caries, periodontitis and geographic tongue.
+In patients with  asthma, oral changes such as oral and pharyngeal candidiasis might be observed due to medications used in treatment.
+
+---
+
+#### Bronchitis
+
+Oral manifestations of bronchitis include dry mouth dental calculus, dental caries, periodontal disease and gingival enlargement. 
+In patients with  bronchitis, oral changes might be observed due to medications used in treatment: dry mouth, taste disturbances, ulcerations, oral and pharyngeal candidiasis, perioral dermatitis and tongue hyperthrophy. 
+
+---
+
+#### Emphysema 
+
+Oral manifestations of emphysema include dry mouth  excessive,  dental calculus, dental caries,geographic tongue,  periodontal disease and gingival enlargement. 
+In patients with  asthma, oral changes might be observed due to medications used in treatment: dry mouth, taste disturbances, ulcerations, oral and pharyngeal candidiasis, perioral dermatitis and tongue hyperthrophy. 
+
+---
+
+#### Sinusitis
+
+Due to the proximity of maxillary teeth to the maxillary antrum, pain in the maxillary sinus can mimic dental pain. Oral symptoms of sinusitis include sensitivity to percussion of a group of teeh without any obvious  dental and periodontal pathology and pain in teeth while patient is descending stairs, jump or runs. 
+In patients with  sinusitis, oral changes such as oral and pharyngeal candidiasis might be observed due to medications used in treatment.
+
+---
+
+#### Tuberculosis
+
+Oral manifestations of tuberculosis include ulcerations in the posterior part of oral cavity, granulomas , osteomyelitis of the jaws, salivary gland inflammation and enlarged cervical lymph nodes. 
+In patients with  tuberculosis, oral changes might be observed due to medications used in treatment:excessive salivation, metallic taste in the mouth, pink saliva, pllor of oral mucoasa and gingival bleeding. 
+
+---
+
+#### Chest pain upon exertion
+
+Information about chest pain upon exertion is important for dental treatment as well as diagnosis. 
+Chest pain upon exertion is usually associated with cardiovascular and respiratory diseases, so duration of dental treatment as well as the position of the patient in dental chair should be adjusted. 
+Oral lesions found in patients who experience pain upon exertion are usually associated with primary disease and with medications used in the treatment. 
+
+---
+
+#### Chronic pain
+
+Chronic pain is associated with large number of chronic diseases. 
+There is no specific oral manifestations or chronic pain. Oral lesion found in patient with chronic pain conditions are usually associated with long term use of prescribed analgetics and off the counter painkillers: dry mouth, metallic taste in the mouth, redness or oral mucosa, oral ulcerations, lip and tongue swelling, etc.
+
+---
+
+#### Diabetes 
+
+Oral manifestations of diabetes include dry mouth, increased rate of dental caries, periodontal disease, especially parodontal and gingival abscesses, burning mouth sindrome, oral lichen, fissured tongue, salivary gland enlargement and delayed found healing. 
+
+---
+
+#### Eating disorder 
+
+Oral manifestations of eating disorders include: dental erosions, increased rate of dental caries, gingivitis and periodontitis, angular cheilitis, inflammatory changes of oral mucosa, mucosal ulcerations and mechanical injuries, burning mouth syndrome and enlarged salivary glands. 
+##### Malnutrition
+
+Oral manifestations of malnutrition includea large number of oral pathologies:  delayed tooth eruption, structural changes of dental tissue, reduced size of the dental roots, abnormal alveolar bone patterns, gingivitis, angular cheilitis, crcked lips, bad breath, burning mouth syndrome, very rad and painful tongue, pallor of oral mucosa and salivary gland dysfunction.
+
+---
+
+#### Gastrointestinal disease 
+
+Oral manifestations of gastrointestinal diseases include reccurent aphthae, mucosal tags, labial and facial swelling, taste disturbanceas and multifocal mucosal thickening. 
+In patients with  gastrointestinal diseases, oral changes might be observed due to medications used in treatment: licheonid reactions of oral mucosa, dry mouth, loss of taste, erythema multiforme and oral candidiasis. 
+
+---
+
+#### Gastroesophageal reflux disease/heartburn
+
+Oral manifestations of gastroesophageal reflux disease include bad breath, burning sensations in the mouth, redness of soft palate and uvula, increased salivation, increased rate of dental caries, dental erosions, taste disturbances, and difficulty with swallowing. 
+
+---
+
+#### Thyroid problems
+
+Oral manifestations of thyroid problems include tooth eruption disturbances, increased rate of dental caries, periodontal disease, oral ulcerations, enlarged tongue, taste disturbances,enlargement of extraglandular thyroid tissue (mainly in the lateral posterior tongue), maxillary or mandibular osteoporosis and burning mouth syndrome. 
+
+---
+
+#### Stroke
+
+Oral manifestation of stroke include unilateral paralysis of the face, loss of sensation in the oral mucosa, flaccid tongue with multiple folds, difficulty with swallowing, neglect of oral care on the one side of the mouth, increased rate of dental careis and periodontal disease and bad breath.
+In patients with  stroke, oral changes might be observed due to medications used in treatment:dry mouth, metallic taste in the mouth and gingival bleeding. 
+
+---
+
+#### Glaucoma
+
+There is no specific oral manifestations or glaucoma. Oral lesions found in patient with this  condition are usually associated with medications used in treatment such as dry mouth.
+
+---
+
+#### Hepatitis, jaundice, or liver disease
+
+Oral manifestations of hepatic diseases include 
+mucosal membrane jaundice, bleeding disorders, petechiae, increased vulnerability to bruising, gingivitis, gingival bleeding bad breath, cheilitis, smooth tongue, dry mouth, crusted perioral rash and salivary gland enlargement. 
+In patients with  hepatic diseases, oral changes might be observed due to medications used in treatment:dry mouth, metallic taste in the mouth and oral candidiasis.
+
+---
+
+#### Epilepsy
+
+Oral manifestations of epilepsy include mucosal injuries and ulcerations due to biting to the tongue and cheeks, increased rate of dental caries, fractured teeth and temporomandibular joint displacement. 
+In patients with epilepsy, oral changes might be observed due to medications used in treatment of epilepsy such as dry mouth, taste disturbances, gingival enlargement and gingival bleeding.
+
+---
+
+#### Fainting spells or seizures
+
+Information about fainting spells or seizures are important for dental treatment as well as diagnosis. 
+Fainting spells or seizures are usually associated with variety of systemic diseases so duration of dental treatment as well as the position of the patient in dental chair should be adjusted. 
+Oral manifestations of these conditions include mucosal injuries and ulcerations due to biting to the tongue of cheeks and dental traumatic injuries.
+
+---
+
+#### Neurological disorders
+
+Oral manifestations of neurological disorders include weaknes of facial and masticatory musles, difficulty with swallowing and chewing food, pain in jaws and temporomandibular joint, increased rate of dental caries and periodontal disease. 
+In patients with neurological disorders, oral changes might be observed due to medications used in treatment : dry mouth, taste disturbances, oral candidiasis. 
+
+---
+
+#### Sleep disorders
+
+Sleep disturbances can be caused by several systemic diseases such as cardiovascular diseases, obesity , neurological and mental health disorders. 
+There is a few  oral manifestations of the sleep disorders such as gingivtis and gingival enlargement. 
+Most oral findings are caused by the primary disease. 
+In patients with sleep disorders, oral changes might be observed due to medications used in treatment :dry mouth, taste disturbances, burning mouth syndrome. 
+
+---
+
+#### Mental health disorders
+
+Oral manifestations of mental health disorders include increased rate of dental caries, poor oral hygiene, dental erosions, ginigvitis, periodontal disease, bruxsism, temporomandibular joint disorders, mechanical injuries of oral mucosa, salivary gland enlargement. 
+In patients with mental health disorders, oral changes might be observed due to medications used in treatment: dry mouth, metallic taste in the mouth, burning mouth syndrome, gingival enlargement and gingival bleeding. 
+
+---
+
+#### Recurrent infections
+
+Recurrent infection in oral mouth can be bacterial, viral or fungal origin.These infections are often sign of weakened immune system or underlying systemic disease. 
+Oral manifestations of recurrent infections include multiple vesicles on lips and oral mucosa, mucosal erosion and ulcerations, white pathches on mucosa, gingivitis and abscesses. 
+
+---
+
+#### Kidney problems
+
+Oral manifestations of kidney diseases include pallor of the oral mucosa, petechiae and hemorrhages in the oral cavity, inflammatory changes of the oral mucosa, altered taste sensations, dry mouth, bad breath, gingivitis and white pathches on the oral mucosa. 
+In patients with kidney problems, oral changes might be observed due to medications used in treatment: dry mouth due to decreased salivary flow, gingival enlargement and oral candidiasis. 
+
+---
+
+#### Night sweats
+
+Night sweats are associated vith a number of systemic diseases: cardiovascular diseases, tuberculosis, diabetes, thyroid diesases etc. 
+
+Information about night sweats in combination with oral lesions may indicate the existence of a systemic disease.
+
+---
+
+#### Osteoporosis
+
+Oral manifestations of osteoporosis include periodontal disease, alveolar bone loss, tooth mobility and fractures of the jaws. 
+In patients with osteoporosis, oral changes might be observed due to medications used in treatment: metallis taste in mouth, swelling of tongue and lips, dry mouth, medication induced osteonecrosis of the jaws, etc. 
+
+---
+
+#### Persistent swollen glands in neck
+
+Persistent swollen glands in neck can be caused by various diseases associated with oral tissues as well as systemic diseases. 
+Swelling of the lymph nodes in neck can be caused by dental conditions such as dental abscess, bacterial and viral infections of the  oral cavity and throat. Also, swelling of the neck lymph nodes can be sign of very serious condition  so, so knowing about this condition is of great importance for the  diagnosis. 
+
+---
+#### Severe headaches/migraines
+
+Severe headaches can be caused by conditions associated with oral cavity such as dental conditions and temporomandibular joint disorders. In patients with severe headaches/ migraines, oral changes might be observed due to medications used in treatment: dry mouth, and taste disturbances. 
+
+---
+
+#### Severe or rapid weight loss
+
+Information about severe or rapid weight loss is of great importance in diagnosis. Severe weight loss in combination with oral findings and information about night sweats and swollen lymph glands can be a sign of serious illness.
+
+---
+
+#### Sexually transmitted disease
+
+Oral manifestations of sexually ransmitted disease include  erosions and ulcerations of the oral mucosa,tongue and throat,  vesicles on lips and oral mucosa, papillomas or warts. 
+
+In patients with sexually transimtted disease,, oral changes might be observed due to medications used in treatment: dry mouth, taste disturbances and fungal infection. 
+
+---
+
+#### Excessive urination
+
+There is no specific oral manifestation of excessive urination except dry mouth. Excessive urination can be a symptom of underlying systemic disease , so this finding is very important in diagnosis, especially in case of some specific findings in the oral cavity. 
+
+Excessive urination can be a symptom of a known systemic disease such as kidney disease or endocrine disorder, or can be a side effect of some medications, for example diuretics. 
+
+---
+
+#### Cancer
+
+Oral manifestation of cancer include variety of symptoms , depending of the type of the cancer: pallor of the oral mucosa, gingival bleeding, petechiae and hemorrhages in the oral cavity, dry mouth, ulcerations of the oral mucosa, bacterial , viral and fungal infections,increased rate of dental caries and periodontal disease. 
+
+In patients with cancer, oral changes might be observed due to medications used in treatment. 
+
+---
+
+####  Chemotherapy/radiation treatment
+
+Oral manifestations of chemotherapy and radiation treatment include variety of oral lesions: sever inflamation of oral mucosa, redness of the oral mucosa and thorat, dry mouth, metallic taste in the mouth, taste disturbances, mucosal ulcerations, severe dental caries, gingivitis, gingival bleeding, periodontal disease,lichenoid reacions and. osteoradionecrosis.
+
+---
 
 ### Do you have any disease, condition, or problem, not listed above?
 
+The questionnaire contains a list of the most common diseases. If you have a disease that is not listed in the questionnaire, write the name of the disease, the onset of the disease,  duration, and whether the disease is still active.
+
 If yes, please specify.
+
+---
+
