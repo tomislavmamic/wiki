@@ -4,7 +4,7 @@ title: Current Complaint
 sidebar_label: Current Complaint
 ---
 
-Chief complaint is one of the most important parts of the dental anamnesis and represents one of the most important factors in making a diagnosis.
+Current complaint is one of the most important parts of the dental anamnesis and represents one of the most important factors in making a diagnosis.
 
 ---
 
