@@ -32,7 +32,7 @@ Information on previous orthodontic therapy is of great importance in the evalua
 
 ### Do you wear removable dental appliances?  
 
-Informations on wearing removable dental appliances such as complete and partial dentures or nightguards are  useful in diagnosing certain conditions that may occur as a result of their use, for example,  mechanical irritation, ulceration and denture stomatitis.
+Information on wearing removable dental appliances such as complete and partial dentures or nightguards is  useful in diagnosing certain conditions that may occur as a result of their use, for example,  mechanical irritation, ulceration and denture stomatitis.
 
 *Single choice*:  
 🔘 Yes  
@@ -60,7 +60,7 @@ If yes, please explain.
 ### When was your last dental exam?
 
 The answer to this question gives insight into the regularity of attendance for dental care and the patient’s attitude towards dental professionals and towards treatment.
-the answer to this question gives insight into recent dental problems.
+The answer to this question gives insight into recent dental problems.
 
 :calendar: `(MM.YYYY)`
 
@@ -68,7 +68,7 @@ the answer to this question gives insight into recent dental problems.
 
 ### What dental procedure was done at that time?
 
-The answer to this question gives insight into the most recent dental problems that the patient had
+The answer to this question gives insight into the most recent dental problems that the patient had.
 
 `Text`
 
