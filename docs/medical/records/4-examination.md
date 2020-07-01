@@ -10,6 +10,8 @@ sidebar_label: Examination
 
 #### Do you have any intraoral discomfort or difficulty?
 
+The answer to this question provides information about the presence of difficulties that occurred during the intraoral examination, which are not the chief complaint for which the patient is seeking the dental examination.
+
 *Single choice*:  
 
 🔘 Yes  
@@ -22,6 +24,8 @@ If yes, please specify.
 ---
 
 #### Do you have any other extraoral (facial) discomfort or difficulty?
+
+The answer to this question provides information about the presence of difficulties that occurred during the extraoral examination,  which are not the chief complaint for which the patient is seeking the dental examination.
 
 *Single choice*:  
 
@@ -36,6 +40,10 @@ If yes, please specify.
 
 ### Percussion Test
 
+Percussion is a diagnostic test that is performed by tapping the instrument on the tooth surface.
+
+This test is performed to evaluate inflammation of the periodontal ligament, which can be caused by an infection from dental pulp, periodontal pocket or trauma.
+
 *Single choice* for each [Tooth](/docs/medical/areas#teeth):  
 
 | Input | Meaning              |
@@ -47,11 +55,19 @@ If yes, please specify.
 
 #### Horizontal percussion
 
+Horizontal percussion is performed by tapping the instrument on the buccal or vestibular surface of the tooth.
+
 #### Vertical percussion
+
+Vertical percussion is performed vertically with the longitudinal axis of the tooth, tapping on the occlusal surface or incisal edge.
 
 ---
 
 ### Cold Test
+
+Cold test is  tooth sensibillity test that is  performed by applying cold stimulus(cotton ball sprayed with cold spray or an ice cube) to the tooth surface.
+
+This diagnostic test is  used to assess the health of the dental pulp by determining the sensory response of the pulpal nerve fibers. Based on the results of this test, the vitality of the pulp is indirectly concluded.
 
 *Single choice* for each [Tooth](/docs/medical/areas#teeth):  
 
@@ -66,6 +82,9 @@ If yes, please specify.
 
 ### Intraoral Palpation
 
+ Intraoral palpation is a diagnostic test performed by gently pressing with the fingertips to determine if there is discomfort, pain or  tenderness of the examined tissues.
+ 
+ 
 *Single choice* for each [Quadrant](/docs/medical/areas#quadrants):  
 
 🔘  Not checked  
@@ -74,11 +93,17 @@ If yes, please specify.
 
 #### Alveolar Ridge Palpation
 
+Involves palpation of the maxillary and mandibular alveolar ridge.
+
 #### Buccal/vestibular Sulcus Palpation
+
+Involves palption of upper and lower buccal/vestibular sulci. 
 
 ---
 
 ### Extraoral Palpation
+
+Extraoral palpation involves palpation of the head and neck tissues and regional lymph nodes.
 
 *Single choice*  
 
