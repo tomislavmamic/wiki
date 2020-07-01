@@ -114,3 +114,185 @@ Information on the frequency of their occurrence in addition to intraoral findin
 
 ---
 
+### Soft tissue lesions evaluation 
+
+#### How long has the lesion been present?
+
+`Short text`
+
+---
+
+#### Has the lesion changed in size since you first noticed it?
+
+*Single choice:*  
+
+🔘 Yes  
+🔘 No  
+🔘 Don't know
+
+---
+
+#### Is there any symptoms associated with the lesion?
+
+*Single choice:*  
+
+🔘 Yes  
+🔘 No  
+🔘 Don't know
+
+---
+
+#### Has the lesion changed in character or features since you first noticed it?
+
+*Single choice:*  
+
+🔘 Yes  
+🔘 No  
+🔘 Don't know
+
+---
+
+#### Are there any associated systemic symptoms?
+
+*Single choice:*  
+
+🔘 Yes  
+🔘 No  
+🔘 Don't know
+
+---
+
+#### Is there any historical event associated with the onset of the lesion?
+
+*Single choice:*  
+
+🔘 Yes  
+🔘 No  
+🔘 Don't know
+
+---
+
+### Pain evaluation 
+
+#### Where the pain is located?
+
+`Short text`
+
+
+---
+
+#### When the pain started?
+
+`Short text`
+
+---
+
+#### How the pain started? 
+
+*Single choice:*
+
+🔘 Gradually  
+🔘 Suddenly
+
+---
+
+#### Which one of the following describes best the nature of the pain?
+
+*Single choice:*
+
+🔘 Intermittent   
+🔘 Constant
+
+---
+
+#### Please select which one of the following describes best the type of pain: 
+
+*Single choice:*
+   
+     
+🔘 Sharp  
+🔘 Dull  
+🔘 Gripping  
+🔘 Burning  
+🔘 Stabbing  
+🔘 Shooting  
+
+---
+
+#### Does the pain spread anywhere (e.g. to the ear, jaw, nose, neck, etc.)?
+
+*Single choice:*  
+
+🔘 Yes  
+🔘 No  
+🔘 Don't know
+
+---
+
+#### Does the pain vary in intensity during the day?
+
+*Single choice:*  
+
+🔘 Yes  
+🔘 No  
+🔘 Don't know
+
+---
+
+#### Does the pain change when changing body position?
+
+*Single choice:*  
+
+🔘 Yes  
+🔘 No  
+🔘 Don't know
+
+---
+
+#### Is there any aggravating (worsening ) factors?
+
+*Single choice:*  
+
+🔘 Yes  
+🔘 No  
+🔘 Don't know
+
+---
+
+#### Is there any relieving factors?
+
+*Single choice:*  
+
+🔘 Yes  
+🔘 No  
+🔘 Don't know
+
+---
+
+#### Is there any associated symptoms ? 
+
+*Single choice:*  
+
+🔘 Yes  
+🔘 No  
+🔘 Don't know
+
+---
+
+#### How would you rate the severity of the pain on the scale of 1-10 ( 1 - the least painful; 10 - the most painful)?
+
+`Number (1-10)`
+
+
+
+
+
+
+
+
+
+
+
+
+
+
