@@ -106,6 +106,10 @@ module.exports = {
               to: 'blog',
             },
             {
+              label: 'Privacy',
+              to: 'docs/legal/privacy/privacy-policy',
+            },
+            {
               label: 'GitHub',
               href: 'https://github.com/tomislavmamic/wiki',
             },
