@@ -7,7 +7,7 @@ sidebar_label: Privacy Policy
 `Last updated: July 1, 2020`
 
 **Welcome to Denther!**  
-Verified Diagnosis Inc. and its affiliates (collectively “Stripe”, “we” and “us”) respect your privacy. We offer services that enable patients to purchase and receive dental services.
+Verified Diagnosis Inc. and its affiliates (collectively “Denther”, “we” and “us”) respect your privacy. We offer services that enable patients to purchase and receive dental services.
 
 This Global Privacy Policy describes the types of Personal Data we collect through our products and services (“Services”) and via our online presence, which include our main website at denther.com, as well as services and websites that we enable Internet users to access, such as Denther Documentation and the Denther Ranking (collectively, our “Sites”). This policy also describes how we use Personal Data, with whom we share it, your rights and choices, and how you can contact us about our privacy practices. This policy does not apply to third-party websites, products, or services, even if they link to our Services or Sites, and you should consider the privacy practices of those third-parties carefully.
 
