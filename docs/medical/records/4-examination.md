@@ -65,9 +65,9 @@ Vertical percussion is performed vertically with the longitudinal axis of the to
 
 ### Cold Test
 
-Cold test is  tooth sensibillity test that is  performed by applying cold stimulus (cotton pellet sprayed with cold spray or an ice cube) to the tooth surface.
+Cold test is  tooth sensibillity test that is performed by applying cold stimulus (cotton pellet sprayed with cold spray or an ice cube) to the tooth surface.
 
-This diagnostic test is  used to assess the health of the dental pulp by determining the sensory response of the pulpal nerve fibers. Based on the results of this test, the vitality of the pulp is indirectly evaluated..
+This diagnostic test is  used to assess the health of the dental pulp by determining the sensory response of the pulpal nerve fibers. Based on the results of this test, the vitality of the pulp is indirectly evaluated.
 
 *Single choice* for each [Tooth](/docs/medical/areas#teeth):  
 
@@ -97,7 +97,7 @@ Involves palpation of the maxillary and mandibular alveolar ridge.
 
 #### Buccal/vestibular Sulcus Palpation
 
-Involves palption of upper and lower buccal/vestibular sulci. 
+Involves palpation of upper and lower buccal/vestibular sulci. 
 
 ---
 
@@ -122,7 +122,7 @@ Periodontal examination is a clinical examination of periodontal tissues. The ex
 
 #### Plaque Index Score
 
-The plaque index is a measure of the state of oral hygiene. It is based on the measurement of both soft deposits and mineral deposits on the tooth surfaces of index teeth: 16, 12, 24, 36, 32 and 44 (FDI annotation).
+The plaque index is a measure of the state of oral hygiene. It is based on the measurement of soft  and mineral deposits on the tooth surfaces of index teeth: 16, 12, 24, 36, 32 and 44 (FDI annotation).
 
 It is performed by examining dental surfaces of the index teeth using a dental probe.
 
