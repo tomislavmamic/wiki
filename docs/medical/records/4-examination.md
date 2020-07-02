@@ -10,6 +10,8 @@ sidebar_label: Examination
 
 #### Do you have any intraoral discomfort or difficulty?
 
+The answer to this question provides information about the presence of difficulties that occurred during the intraoral examination, which are not the chief complaint for which the patient is seeking the dental examination.
+
 *Single choice*:  
 
 🔘 Yes  
@@ -22,6 +24,8 @@ If yes, please specify.
 ---
 
 #### Do you have any other extraoral (facial) discomfort or difficulty?
+
+The answer to this question provides information about the presence of difficulties that occurred during the extraoral examination,  which are not the chief complaint for which the patient is seeking the dental examination.
 
 *Single choice*:  
 
@@ -36,6 +40,10 @@ If yes, please specify.
 
 ### Percussion Test
 
+Percussion is a diagnostic test that is performed by tapping the instrument on the tooth surface.
+
+This test is performed to evaluate inflammation of the periodontal ligament, which can be caused by an infection from dental pulp, periodontal pocket or trauma.
+
 *Single choice* for each [Tooth](/docs/medical/areas#teeth):  
 
 | Input | Meaning              |
@@ -47,11 +55,19 @@ If yes, please specify.
 
 #### Horizontal percussion
 
+Horizontal percussion is performed by tapping the instrument on the buccal or vestibular surface of the tooth.
+
 #### Vertical percussion
+
+Vertical percussion is performed vertically with the longitudinal axis of the tooth, tapping on the occlusal surface or incisal edge.
 
 ---
 
 ### Cold Test
+
+Cold test is  tooth sensibillity test that is performed by applying cold stimulus (cotton pellet sprayed with cold spray or an ice cube) to the tooth surface.
+
+This diagnostic test is  used to assess the health of the dental pulp by determining the sensory response of the pulpal nerve fibers. Based on the results of this test, the vitality of the pulp is indirectly evaluated.
 
 *Single choice* for each [Tooth](/docs/medical/areas#teeth):  
 
@@ -66,6 +82,9 @@ If yes, please specify.
 
 ### Intraoral Palpation
 
+ Intraoral palpation is a diagnostic test performed by gently pressing with the fingertips to determine if there is discomfort, pain or  tenderness of the examined tissues.
+ 
+ 
 *Single choice* for each [Quadrant](/docs/medical/areas#quadrants):  
 
 🔘  Not checked  
@@ -74,11 +93,17 @@ If yes, please specify.
 
 #### Alveolar Ridge Palpation
 
+Involves palpation of the maxillary and mandibular alveolar ridge.
+
 #### Buccal/vestibular Sulcus Palpation
+
+Involves palpation of upper and lower buccal/vestibular sulci. 
 
 ---
 
 ### Extraoral Palpation
+
+Extraoral palpation involves palpation of the head and neck tissues and regional lymph nodes.
 
 *Single choice*  
 
@@ -93,7 +118,15 @@ If it's painful, please specify the area.
 
 ### Periodontal Examination
 
+Periodontal examination is a clinical examination of periodontal tissues. The examination includes assessment of the amount of plaque on the tooth surfaces, measurement of gingival pockets and assessment of tooth mobility.
+
 #### Plaque Index Score
+
+The plaque index is a measure of the state of oral hygiene. It is based on the measurement of soft  and mineral deposits on the tooth surfaces of index teeth: 16, 12, 24, 36, 32 and 44 (FDI annotation).
+
+It is performed by examining dental surfaces of the index teeth using a dental probe.
+
+Each of the four surfaces of the teeth  is given a score from 0-3. The scores from the four areas of the tooth are added and divided by four in order to give the plaque index for the tooth with the following scores and criteria:
 
 *Single choice* for each *Index Surface* of each *Index Tooth*:  
 
@@ -112,6 +145,12 @@ If it's painful, please specify the area.
 
 #### Sextant Periodontal Probing
 
+The sextant probing represents a  basic periodontal examination. This examination is a  simple and rapid screening tool that is used to indicate the level of further examination needed and provide basic guidance on treatment needed. It represents a minimum standard of care for initial periodontal assessment.
+
+All teeth in each sextant are examined with the exception of 3rd molars unless 1st and/or 2nd molars are missing,  but only the highest score in the sextant is recorded.
+
+All new patients should have the sextant probing recorded.
+
 *Single choice* for each [Sextant](/docs/medical/areas#sextants):  
 
 | Input | Meaning                                                 |
@@ -127,15 +166,33 @@ If it's painful, please specify the area.
 
 Based on the highest result from probing *Index Surfaces* `M, D, V or B, P or L` of each [Tooth](/docs/medical/areas#teeth) in [Sextant](/docs/medical/areas#sextants).
 
+Interpretation: 
+
+• For patients with scores  0, 1 or 2, the sextant probing should be recorded at every routine examination.
+
+• For patients with score  3, more detailed periodontal charting is required: initial therapy including self-care advice (oral hygiene instruction and risk factor control)  then, after initial therapy, a  6-point pocket probing in that sextant only,  should be recorded. 
+
+• For patients with score 4, more detailed periodontal charting is required: a 6-point pocket probing throughout the entire dentition should be recorded. 
+
+
 ---
 
 #### Full Periodontal Probing
+
+Full periodontal probing is a part of comprehensive periodontal examination. 
+
+It is performed by periodontal probing on six sites per each tooth. All probing depths are recorded and expressed in millimeters.
+It is used as a comprehensive examination for people with score 4 on basic periodontal examination and to evaluate the success of periodontal treatment. 
 
 *Depth in milimeters* for each [Periodontal site](/docs/medical/areas#periodontal-sites).  
 
 ---
 
 #### Tooth Mobility Index
+
+Tooth mobility index is a clinical tool used to evaluate the mobility of the present teeth. 
+
+It is performed by holding the tooth between the handles of the two instruments and moving it back and forth.
 
 *Single choice* for each [Tooth](/docs/medical/areas#teeth):  
 
