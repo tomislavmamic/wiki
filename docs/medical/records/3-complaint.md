@@ -136,6 +136,10 @@ By combining information on the growth rate with findings regarding the duration
 🔘 No  
 🔘 Don't know
 
+If yes, please explain:  
+
+`Short text`
+
 ---
 
 #### Is there any symptoms associated with the lesion?
@@ -147,6 +151,10 @@ Information about the presence of symptoms associated with the lesion such as pa
 🔘 Yes  
 🔘 No  
 🔘 Don't know
+
+If yes, please explain:   
+
+`Short text`
 
 ---
 
@@ -160,6 +168,10 @@ For example, an ulceration started as a vesicle or a lump became an ulcer. Chang
 🔘 No  
 🔘 Don't know
 
+If yes, please explain:  
+
+`Short text`
+
 ---
 
 #### Are there any associated systemic symptoms?
@@ -172,6 +184,10 @@ Information on the presence of systemic symptoms associated with the lesion such
 🔘 No  
 🔘 Don't know
 
+If yes, please explain:  
+
+`Short text`
+
 ---
 
 #### Is there any historical event associated with the onset of the lesion?
@@ -183,6 +199,10 @@ Information about an event associated with the onset of a lesion such as trauma,
 🔘 Yes  
 🔘 No  
 🔘 Don't know
+
+If yes, please explain:  
+
+`Short text`
 
 ---
 
@@ -255,6 +275,10 @@ Information about the spreading of the pain from the original place  to other st
 🔘 No  
 🔘 Don't know
 
+If yes, please explain:  
+
+`Short text`
+
 ---
 
 #### Does the pain vary in intensity during the day?
@@ -266,6 +290,10 @@ Information on variations in pain in terms of pain intensity during the day help
 🔘 Yes  
 🔘 No  
 🔘 Don't know
+
+If yes, please explain:   
+
+`Short text`
 
 ---
 
@@ -279,6 +307,10 @@ Information about changing pain when changing body position, such as lying down,
 🔘 No  
 🔘 Don't know
 
+If yes, please explain:    
+
+`Short text`
+
 ---
 
 #### Is there any aggravating (worsening ) factors?
@@ -290,6 +322,10 @@ Factors that aggravate pain may be specific to certain dental diseases and for t
 🔘 Yes  
 🔘 No  
 🔘 Don't know
+
+If yes, please explain:  
+
+`Short text`
 
 ---
 
@@ -303,6 +339,10 @@ Factors which reduce the severity or frequency of pain are considered important 
 🔘 No  
 🔘 Don't know
 
+If yes, please explain:   
+
+`Short text`
+
 ---
 
 #### Is there any associated symptoms ? 
@@ -314,6 +354,10 @@ Pain may occur along with nausea, vomiting, sweating, flushing and increase in p
 🔘 Yes  
 🔘 No  
 🔘 Don't know
+
+If yes, please explain:  
+
+`Short text`
 
 ---
 
