@@ -8,19 +8,202 @@ sidebar_label: Radiography
 
 #### Panoramic Radiograph
 
-#### Right Posterior Bitewing
+Panoramic radiograph represents a radiological tenchnique for producing a single image of the facial structures.   
+This single image, includes both the maxillary and the mandibular dental arches and their supporting structures and it is called orthopantomogram.
 
-Distal surface of upper right canine to distal surface of the last upper right molar present and  
-distal surface of lower right canine to distal surface of the last lower right molar present.
+Panoramic images are most useful for diagnosing the diseases with a broad coverage of the jaws.  
 
-#### Right Anterior Bitewing
+The main indications for orthopantomographic imaging includes: 
 
-#### Left Anterior Bitewing
+* Conditions where a bony lesion or unerupted tooth is of a size or position that requires its complete demonstration on intraoral radiographs.  
+* In the cases of a grossly neglected mouth and extensive oral health problems.   
+* As part of an assessment of periodontal bone support often supplemented with periapical radiographs.  
+* For the assessment of wisdom teeth prior to planned surgical intervention.   
+* As part of an orthodontic assessment where there is a clinical need to know the state of the dentition and the presence/absence of teeth.  
+* For assesment of the fractures of all parts of the mandible except the anterior region.  
+* To diagnose destructive diseases of the articular surfaces of the temporomandibular joint.  
+* To determine the  alveolar bone height and position of anatomical structures as part of pre-implant planning.   
 
-#### Left Posterior Bitewing
+ Ideal requirements
 
-Distal surface of upper left canine to distal surface of the last upper left molar present and  
-distal surface of lower left canine to distal surface of the last lower left molar present.  
+* All parts of the maxilla and mandible should be fully shown along with the surrounding structures.   
+* The incisal edges of the anterior teeth are centered on the bite notch so that there is no magnification or minification of the anterior teeth.     
+* The occlusal plane has a slightly concave appearance on the image.   
+* The right and the left side of the image are symmetrical.  
+* There is no superimposition of the tongue in the periapical area of the maxillary teeth.   
+* There is no superimposition of the cervical spine.   
+* There should be no overlap of the anatomical structures on the image.  
+* The desired density and contrast for film captured images will depend on the clinical reasons for taking the radiograph, e.g.  
+-to assess teeth and bone pathologies  films should be well exposed and show good contrast to allow differentiation between enamel and dentine and to allow the enamel–dentine junction (EDJ) to be seen.  
+– to assess the periodontal status films should be underexposed to avoid burn-out of the thin alveolar crestal bone.   
+* The image should be free of distortion and blurring.   
+* The image should be free of film fog, dark spots and lines, white spots, yellow stains and ghost images.   
+* The image should be free of artifacts caused by led apron or foregin metal objects such as jewelry.   
+* The image should be comparable with previous panoramic images both geometrically and in density and contrast.  
+
+Minimal requirements
+
+* The areas of interest should be fully shown.   
+* There is no magnification or minification of the anterior teeth.  
+* The occlusal plane does not deviate significantly from the sightly concave appearance.   
+* There are no significant differences in symmetry of the left and right side of the image.   
+* The superimposition of the tongue does not compromise the area of interest on the image.  
+* The superimposition of the spine does not compromise the area of the interest on the image.   
+* There is no significant overlapping of the anatomical strucurees on the image, or the presence of the overlapping does not compromise the area of the interest on the image.   
+* There is no significant distortion and blurring on the image.  
+* The presence of the film fog, dark spots and lines, white spots, yellow stains and ghost images does not compromise the area of interest on the image.   
+* The appearance of artifacts caused by led apron or foregin metal objects does not compromise the area of interest on the image.   
+
+---
+
+####  Bitewing
+
+Bitewing  or interproximal images represent radiographic representation of the maxillary and mandibular tooth crowns and  the alveolar crest of maxilla and mandible. 
+Bitewing radiographs take their name from the original technique which required the patient to bite on a small wing attached to an intraoral film packet.  
+Nowdays, modern techniques use holders,  which have eliminated the need for the wing (now termed a tab). Also a digital image receptors: solid-state or phosphor plate can be used instead of film, but the terminology and clinical indications have remained the same.
+
+The main indications for bitewing images include:
+
+* Detection of the interproximal carious lesions in the early stages of development before it becomes clinically apparent.   
+* Monitoring the progression of dental caries.  
+* Assessment of existing restorations.  
+* Assesment of the secondary or reccurent dental caries. Because of the horizontal angle of the x-ray beam, these radiographs also may reveal secondary caries below restorations that may escape recognition in the periapical views.  
+* Assessment of the periodontal status because these imagesprovide a good perspective of the alveolar bone crest, and changes in bone height can be assessed accurately through comparison with the adjacent teeth.   
+* Detection of the  calculus deposits in the interproximal areas.  
+
+There are two main categories of the bitewing projections: 
+
+* Posterior bitewing projections  
+* Anterior bitewing projections
+
+---
+
+##### Posterior bitewing projection
+
+This projection include alveolar crestal bone and  crowns of the maxillary and mandibular posterior teeth. This image should include at least 2mm of crestal bone distal to the most distal tooth present in the upper and lower jaw.
+
+ 
+Ideal requirements
+
+Irrespective of the type of image receptor being used, typical quality criteria for a bitewing radiograph should include:
+
+* The image should have acceptable definition with no distortion or blurring.  
+* The image should include from the distal surface of the canine to the distal surface of the second molar – if the third molars are erupted then the 7/8 contact should be included.  
+* At least a 2 mm of the bone distal to the most distal  tooth on the plane of the occlusion should be shown on image.  
+* The occlusal plane/bite-platform should be in the middle of the image so that the crowns and coronal parts of the roots of the maxillary teeth are shown in the upper half of the image and the crowns and coronal parts of the roots of the mandibular teeth are shown in the lower half of the image, and the buccal and lingual cusps should be superimposed.  
+* The maxillary and mandibular alveolar crests should be shown.  
+* There should be no overlap of the approximal surfaces of the teeth.  
+* The desired density and contrast for film captured images will depend on the clinical reasons for taking the radiograph, e.g.  
+– to assess caries and restorations films should be well exposed and show good contrast to allow differentiation between enamel and dentine and to allow the enamel–dentine junction (EDJ) to be seen.  
+– to assess the periodontal status films should be underexposed to avoid burn-out of the thin alveolar crestal bone.   
+* The image should be free of coning off or conecutting and other film handling errors.  
+* The image should be free of film fog, dark spots and lines, white spots, yellow stains.   
+* The image should be comparable with previous bitewing images both geometrically and in density and contrast.
+
+Minimal requirements
+
+*  All crowns of the posterior teeth should be shown on the image.  
+* At least 2mm of maxillary and mandibular crestal bone should be shown.  
+* 2 mm of the bone distal to the distal-most tooth on the plane of the occlusion should be shown on image.   
+* Less than 1/3 thickness of enamel overlap present for interproximal caries assesment.  
+* The presence of conecutting does not compromise the area of interest on the image.    
+* The presence of the film fog, dark spots and lines, white spots, yellow stains does not compromise the area of interest on the image.  
+
+---
+
+##### Anterior bitewing projection
+
+This projection include alveolar crestal bone and  crowns of the maxillary and mandibular anterior teeth. 
+
+Ideal requirements
+
+Irrespective of the type of image receptor being used, typical quality criteria for a bitewing radiograph should include:
+
+* The image should have acceptable definition with no distortion or blurring.  
+* The image should include from the mesial surface of the central incisor to the mesial surface of the first premolar.  
+* The occlusal plane/bite-platform should be in the middle of the image so that the crowns and coronal parts of the roots of the maxillary teeth are shown in the upper half of the image and the crowns and coronal parts of the roots of the mandibular teeth are shown in the lower half of the image.  
+* The maxillary and mandibular alveolar crests should be shown.  
+* There should be no overlap of the approximal surfaces of the teeth.  
+* The desired density and contrast for film captured images will depend on the clinical reasons for taking the radiograph, e.g.  
+– to assess caries and restorations films should be well exposed and show good contrast to allow differentiation between enamel and dentine and to allow the enamel–dentine junction (EDJ) to be seen.  
+– to assess the periodontal status films should be underexposed to avoid burn-out of the thin alveolar crestal bone.   
+* The image should be free of coning off or conecutting and other film handling errors.  
+* The image should be free of film fog, dark spots and lines, white spots, yellow stains.   
+* The image should be comparable with previous bitewing images both geometrically and in density and contrast.  
+
+Minimal requirements
+
+*  All crowns of the anterior teeth should be shown on the image.  
+* At least 2mm of maxillary and mandibular crestal bone should be shown.  
+* Less than 1/3 thickness of enamel overlap present for interproximal caries assesment.  
+* The presence of conecutting does not compromise the area of interest on the image.    
+* The presence of the film fog, dark spots and lines, white spots, yellow stains does not compromise the area of interest on the image.  
+
+If all of the required structures can not be shown on the same radiograph, then separate premolar and molar bitewing projections should be performed.
+
+---
+
+##### Premolar bitewing projection
+
+This projection include alveolar crestal bone and  crowns of the maxillary and mandibular premolar teeth. 
+ 
+Ideal requirements
+
+Irrespective of the type of image receptor being used, typical quality criteria for a bitewing radiograph should include:
+
+* The image should have acceptable definition with no distortion or blurring.  
+* The image should include from the distal surface of the canine to the mesial surface of the first molar.   
+* The occlusal plane/bite-platform should be in the middle of the image so that the crowns and coronal parts of the roots of the maxillary teeth are shown in the upper half of the image and the crowns and coronal parts of the roots of the mandibular teeth are shown in the lower half of the image, and the buccal and lingual cusps should be superimposed.  
+* The maxillary and mandibular alveolar crests should be shown.  
+* There should be no overlap of the approximal surfaces of the teeth.  
+* The desired density and contrast for film captured images will depend on the clinical reasons for taking the radiograph, e.g.  
+– to assess caries and restorations films should be well exposed and show good contrast to allow differentiation between enamel and dentine and to allow the enamel–dentine junction (EDJ) to be seen.  
+– to assess the periodontal status films should be underexposed to avoid burn-out of the thin alveolar crestal bone.   
+* The image should be free of coning off or conecutting and other film handling errors.  
+* The image should be free of film fog, dark spots and lines, white spots, yellow stains.   
+* The image should be comparable with previous bitewing images both geometrically and in density and contrast.  
+
+Minimal requirements
+
+*  All crowns of the premolar  teeth should be shown on the image.  
+* At least 2mm of maxillary and mandibular crestal bone should be shown.  
+* Less than 1/3 thickness of enamel overlap present for interproximal caries assesment.  
+* The presence of conecutting does not compromise the area of interest on the image.    
+* The presence of the film fog, dark spots and lines, white spots, yellow stains does not compromise the area of interest on the image.  
+
+---
+
+##### Molar bitewing projection
+
+This projection include alveolar crestal bone and  crowns of the maxillary and mandibular molar teeth. from the distal surface of the second premolar to the distal surface of the most posterior tooth. This image should include at least 2mm of crestal bone distal to the most distal tooth present in the upper and lower jaws.
+
+Ideal requirements 
+
+Irrespective of the type of image receptor being used, typical quality criteria for a bitewing radiograph should include:
+
+* The image should have acceptable definition with no distortion or blurring.  
+* The image should include from the from the distal surface of the second premolar to the distal surface of the most posterior tooth.  
+* At least a 2 mm of the bone distal to the most distal  tooth on the plane of the occlusion should be shown on image.  
+* The occlusal plane/bite-platform should be in the middle of the image so that the crowns and coronal parts of the roots of the maxillary teeth are shown in the upper half of the image and the crowns and coronal parts of the roots of the mandibular teeth are shown in the lower half of the image, and the buccal and lingual cusps should be superimposed.  
+* The maxillary and mandibular alveolar crests should be shown.  
+* There should be no overlap of the approximal surfaces of the teeth.  
+* The desired density and contrast for film captured images will depend on the clinical reasons for taking the radiograph, e.g.  
+– to assess caries and restorations films should be well exposed and show good contrast to allow differentiation between enamel and dentine and to allow the enamel–dentine junction (EDJ) to be seen.  
+– to assess the periodontal status films should be underexposed to avoid burn-out of the thin alveolar crestal bone.   
+* The image should be free of coning off or conecutting and other film handling errors.  
+* The image should be free of film fog, dark spots and lines, white spots, yellow stains.   
+* The image should be comparable with previous bitewing images both geometrically and in density and contrast.  
+
+Minimal requirements
+
+*  All crowns of the molar  teeth should be shown on the image.  
+* At least 2mm of maxillary and mandibular crestal bone should be shown.
+* 2 mm of the bone distal to the distal-most tooth on the plane of the occlusion should be shown on image.   
+* Less than 1/3 thickness of enamel overlap present for interproximal caries assesment.  
+* The presence of conecutting does not compromise the area of interest on the image.    
+* The presence of the film fog, dark spots and lines, white spots, yellow stains does not compromise the area of interest on the image.  
+
+---
 
 ### Other
 
