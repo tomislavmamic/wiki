@@ -207,7 +207,90 @@ Minimal requirements
 
 ### Other
 
-#### Retroalveolar Radiograph of Individual Tooth
+####  Periapical Radiographs
+
+Periapical (retroalveolar) radiographs represent  intraoral  radiographic images designed to show individual teeth and the periapical region.
+Periapical radiograph  usually shows two to four teeth and provides detailed information about dental crowns, roots, root apices and the surrounding alveolar bone.
+
+The main clinical indications for periapical radiography include:
+
+* Detection of the pathological conditions in the periapical areas.   
+* Evaluation of the periodontal status.  
+* Assessment of root morphology prior extractions.  
+* Detection of the traumatic injuries  to the teeth and associated alveolar bone.  
+* Assessment of the presence and position of unerupted teeth.  
+* In all phases of endodontic treatment.   
+* Preoperative assessment and postoperative appraisal of apical surgery.  
+* Evaluation of implants postoperatively.  
+
+---
+
+##### Ideal quality criteria
+
+Irrespective of the type of image receptor or technique being used, typical quality criteria for a periapical radiograph should include:
+
+● The image should have acceptable definition with no distortion or blurring.  
+● The image should include the correct anatomical area together with the apices of the tooth/teeth under investigation with at least 3–4 mm of surrounding bone.  
+● There should be no overlap of the approximal surfaces of the teeth with exception of the canine and first premolar roots on canine periapical image.  
+● There should not be size and shape distortion of the teeth. The desired density and contrast for film captured images will depend on the clinical reasons for taking the radiograph, e.g.  
+– to assess caries, restorations and the periapical tissues films should be well exposed and show good contrast to allow differentiation between enamel and dentine and between the periodontal ligament space, the lamina dura and trabecular bone.  
+– to assess the periodontal status films should be underexposed to avoid burnout of the thin alveolar crestal bone.   
+● The images should be free of coning off or conecutting and other film handling errors.  
+● The images should be comparable with previous periapical images, both geometrically and in density and contrast.  
+
+##### Minimal quality requirements
+
+* The image should include the correct anatomical area together with the apices of the teeth of interest.  
+* Teeth under investigation with at least 2 mm of surrounding bone.  
+* The minimal overlapping of the adjacent crowns are acceptable as bitewing radiographs are primarily used for approximal caries detection.  
+* The size orthe shape distortion does not compromise the area of the interest on the image.   
+* The presence of conecutting does not compromise the area of interest on the image.    
+ * The presence of the film fog, dark spots and lines, white spots, yellow stains does not compromise the area of interest on the image.  
+ 
+ There are several projections of the periapical radiographs: 
+ 
+ ##### Maxillary periapical projections
+ 
+###### Maxillary central incisor projection
+
+ The radiograph of this area should include central incisors and their periapical areas.
+ 
+###### Maxillary lateral projection
+
+This projection should show the lateral incisor and its periapical area centered on the radiograph, including the mesial interproximal area with the distal aspect of the central incisor with no evident overlapping. 
+
+###### Maxillary canine projection
+
+This projection should show the canine and its periapical region centered on radiograph. The mesial contact area should be open with no evident overlapping. Overplapping of the distal interproximal contact is tolerable because of the anatomical  position and relationship with first premolar. 
+
+###### Maxillary premolar projection
+
+The field of view of this periapical projection include: the distal half of the canine, first premolar, second premolar and a space for at the first molar. 
+
+###### Maxillary molar projection
+
+The field of view of this periapical projection include: the distal half of the second premolar, first, second and third molar and part of tuberosity. The same area shhould be included, despite the missing of some or all molars. 
+
+---
+
+##### Mandibular periapical projections
+
+###### Mandibular centrolateral projection
+
+The field of view of this periapical projection include central and lateral incisors and their periapical area. 
+
+###### Mandibular canine projection
+
+This projection should show: the entire mandibular canine and its periapical area. 
+ 
+######  Mandibular premolar projection
+The field of view of this periapical projection include: distal half of the mandibular canine, first and second premolar and a first molar. 
+
+###### Mandibular molar projection
+
+The field of view of this periapical projection should include: the distal half of the second premolar, first, second and third molar. If the molar area is edentulous, the radiograph should include edentulous alveolar ridge and retromolar area. 
+
+--- 
 
 #### Occlusal Radiographs 
 
