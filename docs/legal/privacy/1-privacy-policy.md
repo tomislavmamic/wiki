@@ -18,10 +18,8 @@ We invite you to spend a few moments understanding this policy. We may update th
 
 If you have any further questions about how we process your information, please don't hesitate to get in touch by contacting our Data Protection Officer:  
 
-```
-Address: Data Protection Officer, Verified Diagnosis ltd., Dračevac 7, 21000 Split, Croatia  
-Email: DPO@denther.com
-```
+Address: `Data Protection Officer, Verified Diagnosis ltd., Dračevac 7, 21000 Split, Croatia`  
+Email: `DPO@denther.com`
 
 ## 1. How We Collect Your Data
 
@@ -29,13 +27,11 @@ Denther obtains Personal Data about you from various sources to provide our Serv
 
 If you visit or use our Sites, we may collect your Personal Data. For example, we collect Personal Data that you submit to us via online forms and surveys, and when you contact us by email.  
 
-To learn how we collect and use your personal data using Cookies, please read our [Cookie Policy](/docs/legal/privacy/cookie-policy).
-
 If you are a User, we generally categorize the personal information we collect about you in three categories:
 
 1. Personal data
-1. Health data
-1. Usage data
+2. Health data
+3. Usage data
 
 ## 2. Personal Data We Collect
 
@@ -43,19 +39,21 @@ If you are a User, we generally categorize the personal information we collect a
 
 Personal Data is any information that relates to an identified or identifiable individual. The Personal Data that you provide directly to us through our Sites and Services will be apparent from the context in which you provide the data.  
 
-In particular:
-When you register for a Denther account, we collect either your Reddit username, or full name and email address from Google.
+In particular:  
+When you register for a Denther account, we collect either your Reddit username, or full name and email address from Google.  
 When you fill-in our online form to contact our sales team, we collect your full name, email, country, and anything else you tell us about your needs and timeline.
 When you use the “Remember Me” feature of Payment Checkout, our Payment Processor collects your email address, payment card number, CVC code and expiration date.
 When you respond to Denther emails or surveys, we collect your email address, name and any other information you choose to include in the body of your email or responses. 
-If you contact us by phone, we will collect the phone number you use to call Denther. If you contact us by phone as a Denther User, we may collect additional information in order to verify your identity.
-If you are a Denther User, you will provide your contact details, such as name, postal address, telephone number, and email address. As part of your relationship with us, we may also receive financial and personal information about you, such as your date of birth and government identifiers associated with you and your organization (such as your social security number, tax number, or Employer Identification Number).
-You may also choose to submit information to us via other methods, including: 
-(i) in response to marketing or other communications, 
-(ii) through social media or online forums, 
-(iii) through participation in an offer, program or promotion, 
-(iv) in connection with an actual or potential business relationship with us, or 
-(v) by giving us your business card or contact details at trade shows or other events.
+If you contact us by phone, we will collect the phone number you use to call Denther. If you contact us by phone as a Denther User, we may collect additional information in order to verify your identity.  
+If you are a Denther User, you will provide your contact details, such as name, postal address, telephone number, and email address. As part of your relationship with us, we may also receive financial and personal information about you, such as your date of birth and government identifiers associated with you and your organization (such as your social security number, tax number, or Employer Identification Number).  
+
+You may also choose to submit information to us via other methods, including:
+
+- (i) in response to marketing or other communications,
+- (ii) through social media or online forums,
+- (iii) through participation in an offer, program or promotion,
+- (iv) in connection with an actual or potential business relationship with us, or
+- (v) by giving us your business card or contact details at trade shows or other events.
 
 ### 2.2. Health Data
 
@@ -69,7 +67,7 @@ We retain records of our consultations and interactions with you. This is so tha
 
 We may also hold information about you and your health from other apps, devices and services where you have given your consent to that data being shared with us.
 
-Our [HIPAA Notice of Privacy Practices](/docs/legal/privacy/privacy-notice) describes our privacy practices for your HIPAA Protected Health Information. It does not apply to the Personal Data or Usage Data that we collect from you through the Services. We include a link to our [HIPAA Notice of Privacy Practices](/docs/legal/privacy/privacy-notice) on webpages where we collect information from you is treated as “Medical Information” or “HIPAA Protected Health Information”.
+Our [HIPAA Notice of Privacy Practices](https://documentation.denther.com/docs/legal/privacy/privacy-notice) describes our privacy practices for your HIPAA Protected Health Information. It does not apply to the Personal Data or Usage Data that we collect from you through the Services. We include a link to our [HIPAA Notice of Privacy Practices](https://documentation.denther.com/docs/legal/privacy/privacy-notice) on webpages where we collect information from you is treated as “Medical Information” or “HIPAA Protected Health Information”.
 
 ### 2.3. Usage Data
 
@@ -79,7 +77,7 @@ Our Sites use cookies and other technologies to function effectively. These tech
 **Usage data**, such as time spent on the Sites, pages visited, links clicked, language preferences, and the pages that led or referred you to our Sites.
 We use Google Analytics on our Sites to help us analyze Your use of our Sites and diagnose technical issues.
 
-To learn more about the cookies that may be served through our Sites and how You can control our use of cookies and third-party analytics, please see our [Cookie Policy]().
+To learn more about the cookies that may be served through our Sites and how You can control our use of cookies and third-party analytics, please see our [Cookie Policy](https://documentation.denther.com//ocs/legal/privacy/privacy-policy).
 
 ## 3. How We Use Personal Data
 
@@ -91,7 +89,7 @@ We obtain and use your personal details and financial details in order to establ
 
 We obtain and use your medical information because this is necessary for medical purposes, including medical diagnosis and the provision of healthcare or treatment. This includes the information collected through our consultations with you (such as notes and recordings), our digital services, and medical history from your previous dentist (in the same way that any dental practice would receive your medical history if they become your dentist). It may also include sharing information with other healthcare professionals, chosen by you, as necessary for the provision of care to you.
 
-Our [HIPAA Notice of Privacy Practices](/docs/legal/privacy/privacy-notice) describes our privacy practices for your HIPAA Protected Health Information.
+Our [HIPAA Notice of Privacy Practices](https://documentation.denther.com/docs/legal/privacy/privacy-notice) describes our privacy practices for your HIPAA Protected Health Information.
 
 In the course of daily operations, access to private, sensitive and confidential information is restricted to authorized employees who have a legitimate business purpose and reason for accessing it. For example, when you call us, or email us, our designated employees will access your information to assist you in providing services to you. It is important to note that only dental professionals or others on a need-to-know basis will have access to your Health Information.
 
@@ -204,7 +202,7 @@ The Services may provide the ability to connect to other websites. These website
 
 ### 11.1. How We Collect, Use, and Disclose your Personal Information
 
-The Personal Data We Collect section describes the personal information we may have collected over the last 12 months, including the categories of sources of that information. We collect this information for the purposes described in the How We Use Personal Data section. We share this information as described in the How We Disclose Personal Data section. Denther uses cookies, including advertising cookies, as described in our [Cookie Policy]().
+The Personal Data We Collect section describes the personal information we may have collected over the last 12 months, including the categories of sources of that information. We collect this information for the purposes described in the How We Use Personal Data section. We share this information as described in the How We Disclose Personal Data section. Denther uses cookies, including advertising cookies, as described in our [Cookie Policy](https://documentation.denther.com/docs/legal/privacy/cookie-policy).
 
 ### 11.2. Your CCPA Rights and Choices
 
