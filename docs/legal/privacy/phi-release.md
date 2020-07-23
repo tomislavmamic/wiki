@@ -32,24 +32,24 @@ If you e-sign this Authorization, you give your permission to Denther to retain 
 
 Specifically, you agree that Denther can use your PHI to:
 
-enable and customize your use of the Denther Services;
-provide you alerts or other Denther Services regarding future appointments;
-notify you regarding providers we think you may be interested in learning more about;
-share information with you regarding services, products or resources about which we think you may be interested in learning more;
-provide you with updates and information about the Denther Services;
-market to you about Denther and third party products and services;
-conduct analysis for Denther’s business purposes;
-support development of the Denther Services; and
-create de-identified information and then use and disclose this information in any way permitted by law, including to third parties in connection with their commercial and marketing efforts.
+- enable and customize your use of the Denther Services;
+- provide you alerts or other Denther Services regarding future appointments;
+- notify you regarding providers we think you may be interested in learning more about;
+- share information with you regarding services, products or resources about which we think you may be interested in learning more;
+- provide you with updates and information about the Denther Services;
+- market to you about Denther and third party products and services;
+- conduct analysis for Denther’s business purposes;
+- support development of the Denther Services; and
+- create de-identified information and then use and disclose this information in any way permitted by law, including to third parties in connection with their commercial and marketing efforts.
 
 You also agree that Denther can disclose your PHI to:
 
-third parties assisting Denther with any of the uses described above;
-Your Healthcare Providers to enable them to refer you to, and make appointments with, other providers on your behalf, or to perform an analysis on potential health issues or treatments, provided that you choose to use the applicable Denther Service;
-a third party as part of a potential merger, sale or acquisition of Denther;
-our business partners who assist us by performing core services (such as hosting, billing, fulfillment, or data storage and security) related to the operation or provision of our services, even when Denther is no longer working on behalf of Your Healthcare Providers;
-a provider of medical services, in the event of an emergency; and
-organizations that collect, aggregate and organize your information so they can make it more easily accessible to your providers.
+- third parties assisting Denther with any of the uses described above;
+- Your Healthcare Providers to enable them to refer you to, and make appointments with, other providers on your behalf, or to perform an analysis on potential health issues or treatments, provided that you choose to use the applicable Denther Service;
+- a third party as part of a potential merger, sale or acquisition of Denther;
+- our business partners who assist us by performing core services (such as hosting, billing, fulfillment, or data storage and security) related to the operation or provision of our services, even when Denther is no longer working on behalf of Your Healthcare Providers;
+- a provider of medical services, in the event of an emergency; and
+- organizations that collect, aggregate and organize your information so they can make it more easily accessible to your providers.
 
 ## 5. Redisclosure
 
@@ -66,4 +66,3 @@ If you wish to revoke this Authorization, you must notify Denther by submitting 
 Once Denther receives your Revocation of Authorization, Denther can only use and disclose your PHI as permitted in Denther’s agreements with Your Healthcare Provider(s). Your Revocation of Authorization does not affect Denther’s use of your Non-PHI.
 
 We will make available to Your Healthcare Provider(s), current and past, your agreement to or revocation of this Authorization.
-

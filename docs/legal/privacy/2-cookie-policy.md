@@ -3,9 +3,9 @@ id: cookie-policy
 title: Cookie Policy
 sidebar_label: Cookie Policy
 ---
-`Last updated: July 1, 2020.`  
+`Last updated: July 23, 2020.`  
 
-This cookie policy describes how Denther (“Denther”) uses “cookies” and other similar technologies, in connection with our Site and Services. Any capitalized term used and not otherwise defined below has the meaning assigned to it in the Privacy Policy.
+This cookie policy describes how Denther (“Denther”) uses “cookies” and other similar technologies, in connection with our Site and Services. Any capitalized term used and not otherwise defined below has the meaning assigned to it in the [Privacy Policy](https://documentation.denther.com/docs/legal/privacy/privacy-policy).
 
 ## 1. What is a Cookie?
 
@@ -13,7 +13,7 @@ Cookies are small text files that are stored in a computer’s browser directory
 
 ## 2. Does Denther use Cookies?
 
-Yes. We use cookies in accordance with our Privacy Policy to:
+Yes. We use cookies in accordance with our [Privacy Policy](https://documentation.denther.com/docs/legal/privacy/privacy-policy) to:
 
 - ensure that our Services function properly,
 - detect and prevent fraud,
