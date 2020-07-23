@@ -14,4 +14,7 @@ module.exports = {
     'Salivary Glands Conditions' : ['medical/salivary-glands/tumors'],
     'Orthodontic Anomalies' : ['medical/orthodontic-anomalies/saggital-plane'],
   },
+  Legal: {
+    Privacy: ['legal/privacy/privacy-policy', 'legal/privacy/cookie-policy', 'legal/privacy/privacy-notice', 'legal/privacy/phi-release', 'legal/privacy/baa','legal/privacy/datamap'],
+  },
 };
