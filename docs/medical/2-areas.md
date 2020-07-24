@@ -143,3 +143,10 @@ sidebar_label: Oral Areas
 ## Soft tissues
 
 ## Bone tissues
+
+|       |          |         |          |       |
+|:-----:|:--------:|:-------:|:--------:|:-----:|
+|       | Palatal  |         | Palatal  |       |
+| Molar | Premolar | Frontal | Premolar | Molar |
+| Molar | Premolar | Frontal | Premolar | Molar |
+| Ramus |  Angle   | Mentum  |   Angle  | Ramus |
