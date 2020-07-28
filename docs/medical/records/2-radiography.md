@@ -13,7 +13,7 @@ This single image, includes both the maxillary and the mandibular dental arches 
 
 Panoramic images are most useful for diagnosing the diseases with a broad coverage of the jaws.  
 
-The main indications for orthopantomographic imaging includes: 
+The main indications for orthopantomographic imaging include: 
 
 * Conditions where a bony lesion or unerupted tooth is of a size or position that requires its complete demonstration on intraoral radiographs.  
 * In the cases of a grossly neglected mouth and extensive oral health problems.   
@@ -24,7 +24,7 @@ The main indications for orthopantomographic imaging includes:
 * To diagnose destructive diseases of the articular surfaces of the temporomandibular joint.  
 * To determine the  alveolar bone height and position of anatomical structures as part of pre-implant planning.   
 
- Ideal requirements
+ **Ideal requirements**
 
 * All parts of the maxilla and mandible should be fully shown along with the surrounding structures.   
 * The incisal edges of the anterior teeth are centered on the bite notch so that there is no magnification or minification of the anterior teeth.     
@@ -41,7 +41,7 @@ The main indications for orthopantomographic imaging includes:
 * The image should be free of artifacts caused by led apron or foregin metal objects such as jewelry.   
 * The image should be comparable with previous panoramic images both geometrically and in density and contrast.  
 
-Minimal requirements
+**Minimal requirements**
 
 * The areas of interest should be fully shown.   
 * There is no magnification or minification of the anterior teeth.  
@@ -83,7 +83,7 @@ There are two main categories of the bitewing projections:
 This projection include alveolar crestal bone and  crowns of the maxillary and mandibular posterior teeth. This image should include at least 2mm of crestal bone distal to the most distal tooth present in the upper and lower jaw.
 
  
-Ideal requirements
+**Ideal requirements**
 
 Irrespective of the type of image receptor being used, typical quality criteria for a bitewing radiograph should include:
 
@@ -100,7 +100,7 @@ Irrespective of the type of image receptor being used, typical quality criteria 
 * The image should be free of film fog, dark spots and lines, white spots, yellow stains.   
 * The image should be comparable with previous bitewing images both geometrically and in density and contrast.
 
-Minimal requirements
+**Minimal requirements**
 
 *  All crowns of the posterior teeth should be shown on the image.  
 * At least 2mm of maxillary and mandibular crestal bone should be shown.  
@@ -115,7 +115,7 @@ Minimal requirements
 
 This projection include alveolar crestal bone and  crowns of the maxillary and mandibular anterior teeth. 
 
-Ideal requirements
+**Ideal requirements**
 
 Irrespective of the type of image receptor being used, typical quality criteria for a bitewing radiograph should include:
 
@@ -131,7 +131,7 @@ Irrespective of the type of image receptor being used, typical quality criteria 
 * The image should be free of film fog, dark spots and lines, white spots, yellow stains.   
 * The image should be comparable with previous bitewing images both geometrically and in density and contrast.  
 
-Minimal requirements
+**Minimal requirements*+
 
 *  All crowns of the anterior teeth should be shown on the image.  
 * At least 2mm of maxillary and mandibular crestal bone should be shown.  
@@ -147,7 +147,7 @@ If all of the required structures can not be shown on the same radiograph, then 
 
 This projection include alveolar crestal bone and  crowns of the maxillary and mandibular premolar teeth. 
  
-Ideal requirements
+**Ideal requirements**
 
 Irrespective of the type of image receptor being used, typical quality criteria for a bitewing radiograph should include:
 
@@ -163,7 +163,7 @@ Irrespective of the type of image receptor being used, typical quality criteria 
 * The image should be free of film fog, dark spots and lines, white spots, yellow stains.   
 * The image should be comparable with previous bitewing images both geometrically and in density and contrast.  
 
-Minimal requirements
+**Minimal requirements**
 
 *  All crowns of the premolar  teeth should be shown on the image.  
 * At least 2mm of maxillary and mandibular crestal bone should be shown.  
@@ -177,7 +177,7 @@ Minimal requirements
 
 This projection include alveolar crestal bone and  crowns of the maxillary and mandibular molar teeth. from the distal surface of the second premolar to the distal surface of the most posterior tooth. This image should include at least 2mm of crestal bone distal to the most distal tooth present in the upper and lower jaws.
 
-Ideal requirements 
+**Ideal requirements** 
 
 Irrespective of the type of image receptor being used, typical quality criteria for a bitewing radiograph should include:
 
@@ -194,7 +194,7 @@ Irrespective of the type of image receptor being used, typical quality criteria 
 * The image should be free of film fog, dark spots and lines, white spots, yellow stains.   
 * The image should be comparable with previous bitewing images both geometrically and in density and contrast.  
 
-Minimal requirements
+**Minimal requirements**
 
 *  All crowns of the molar  teeth should be shown on the image.  
 * At least 2mm of maxillary and mandibular crestal bone should be shown.
@@ -335,7 +335,7 @@ The main indications for these radiographs include:
 * Periapical assessment of the upper anterior teeth, especially in children but also in adults unable to tolerate periapical holders and in case of  difficulties with mouth opening.  
 * Assessment of fractures of the anterior teeth and alveolar bone.  
 
-Ideal requirements: 
+**Ideal requirements:** 
 
 * The image should have acceptable definition with no distortion or blurring.
 * The image should include anterior part of the maxillary alveolar ridge, crowns, roots and periapical areas of the maxillary anterior teeth from canine to canine, anterior apect of the floor of the nasal fossa, nasopalatine foramen, parts of lateral walls of the nasal fossa and nasal septum. 
@@ -347,7 +347,8 @@ Ideal requirements:
 * The image should be free of film fog, dark spots and lines, white spots, yellow stains 
 * The images should be comparable with previous periapical images, both geometrically and in density and contrast.
 
-Minimal requirements: 
+**Minimal requirements:**
+
 * The image should include the anatomical area of interest. 
 * if the area if unterest include teeth, at least 2mm of surrounding bone should be shown on the image. 
 * The overlapping of the adjacent structures does not compromise the area of interest on the image. 
@@ -369,7 +370,7 @@ The main indications for these radiographs include:
 * To determine the medial and lateral extent of disease (e.g., cysts, osteomyelitis, malignancies).   
 * To  detect disease in the palate.   
 
- Ideal requirements
+ **Ideal requirements**
 
 * The image should have acceptable definition with no distortion or blurring.  
 * The image should include: the hard palate, zygomatic processes of the maxilla, anteroinferior aspects of each antrum, floor of the nasal fosaa, lateral walls of the nasal fossa,nasal septum,  nasopalatine foramen, nasolacrimal canals and maxillary teeth from second molar on one side to the second molar on the opposite side.  
@@ -381,7 +382,7 @@ The main indications for these radiographs include:
 * The image should be free of film fog, dark spots and lines, white spots, yellow stains.   
 * The images should be comparable with previous periapical images, both geometrically and in density and contrast.  
 
-Minimal requirements
+**Minimal requirements**
 
 * The image should include the anatomical area of interest.   
 * if the area if interest include teeth, at least 2mm of surrounding bone should be shown on the image.   
@@ -404,7 +405,7 @@ The main clinical indications for these radiographs include:
 * To help in  determining the position of roots displaced inadvertently into the antrum during attempted extraction of upper posterior teeth.  
 * To asses the fractures of the posterior teeth and associated alveolar bone including the maxillary tuberosity.  
 
-Ideal requirements
+**Ideal requirements**
 
 * The image should have acceptable definition with no distortion or blurring.  
 * The image should include:a quadrant of maxillary alveolar ridge,inferolateral aspect of the antrum, part of maxillary tuberosity and teeth from the lateral incisor of the one side to the distal surface of the tird molar of the other (contralateral) side.    
@@ -416,7 +417,7 @@ Ideal requirements
 * The image should be free of film fog, dark spots and lines, white spots, yellow stains.   
 * The images should be comparable with previous periapical images, both geometrically and in density and contrast.  
 
-Minimal requirements
+**Minimal requirements**
 
 * The image should include the anatomical area of interest.   
 * if the area if interest include teeth, at least 2mm of surrounding bone should be shown on the image.   
@@ -442,7 +443,7 @@ Main indications for these radiographs include:
 * To determine the presence of mandibular fracure or displacement of the anterior part of the mandible.   
 * To determine the presence of the salivary calculi in the anterior aspect of the mouth floor.   
 
-Ideal requirements
+**Ideal requirements**
 
 * The image should have acceptable definition with no distortion or blurring.  
 * The image should include:anterior part of the mandibular alveolar ridgge, inferior cortical border of the mandibel, teeth from the canine on the one side to the canine on the other side and anterior aspect of the mouth floor.   
@@ -455,7 +456,7 @@ Ideal requirements
 * The image should be free of film fog, dark spots and lines, white spots, yellow stains.   
 * The images should be comparable with previous periapical images, both geometrically and in density and contrast.
 
-Minimal requirements
+**Minimal requirements**
 
 * The image should include the anatomical area of interest.   
 * if the area if interest include teeth, at least 2mm of surrounding bone should be shown on the image.   
@@ -479,7 +480,7 @@ The main indications for these radiographs include:
 * To determine the presence of the salivary calculi in the submandibular salivary ducts.   
 * To determine the   width of the mandible  prior to implant placement.  
 
-Ideal requirements  
+**Ideal requirements**  
 
 * The image should have acceptable definition with no distortion or blurring.  
 * The image should include:complete area of the mouth floor, posterior parts of mandibular alveolar ridge, buccal plates of the mandible and teeth from second molar on the one side to the second molar to the opposite side.  
@@ -492,7 +493,7 @@ Ideal requirements
 * The image should be free of film fog, dark spots and lines, white spots, yellow stains.   
 * The images should be comparable with previous periapical images, both geometrically and in density and contrast.  
 
- Minimal requirements
+ **Minimal requirements**
  
 * The image should include the anatomical area of interest.   
 * if the area if interest include teeth, at least 2mm of surrounding bone should be shown on the image.   
@@ -514,7 +515,7 @@ The main indications for these radiographs include:
 * To evaluate the bucco-lingual position of unerupted lower wisdom teeth.  
 * To evaluate  the extent and expansion of cysts, tumours or other bone lesions in the posterior part of the body and angle of the mandible.   
 
-Ideal requirements
+**Ideal requirements**
 
 * The image should have acceptable definition with no distortion or blurring.  
 * The image should include:the soft tissue of the one half of the mouth floor, alveolar ridge, buccal and lingual cortical plates of the one side of the mandible and teeth: from the lateral incisor of the one side to the distal surface of the third molar of the opposite side.  
@@ -527,7 +528,7 @@ Ideal requirements
 * The image should be free of film fog, dark spots and lines, white spots, yellow stains.   
 * The images should be comparable with previous periapical images, both geometrically and in density and contrast.  
 
-Minimal requirements
+**Minimal requirements**
 
 * The image should include the anatomical area of interest.   
 * if the area if interest include teeth, at least 2mm of surrounding bone should be shown on the image.   
