@@ -7,7 +7,6 @@ sidebar_label: First exam
   
 The first step in evaluating a patient's oral health and making a diagnosis is the first exam of the patient.  
 The first exam provides us with very important information that are crucial in making a diagnosis and it consists of several steps:
-
 ### Step 1 - Current complaint questionnaire
 
 ### Step 2 - Dental history questionnaire
