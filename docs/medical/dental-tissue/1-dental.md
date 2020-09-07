@@ -8,7 +8,7 @@ sidebar_label: Dental
 
  # Root caries
   
-Root caries is a pathological   develops in the area of dental roots.
+Root caries is a pathological condition that    develops in the area of dental roots.
 
 Some authors define root caries as a carious process that develops below the CEJ, while on the other hand,  there are authors who believe that root caries affects the cementoenamel junction (CEJ) and part of the enamel above this border. 
 
