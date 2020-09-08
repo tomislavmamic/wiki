@@ -23,6 +23,9 @@ The first exam includes everything we need to know to make a diagnosis for most 
 
 :::
 
+The collected data from the current complaint, dental and medical history are thoroughly analyzed in order to provide an insight into the oral as well as general health of the patient.  
+Diagnostic tests, radiographic images and dental photography protocol consisting of a series of images of teeth and oral mucosa give an objective and detailed view of the condition of the tissues mentioned above.
+
 ## Current complaint
 
 When you register or create a new case, first you will have to fill in [Current Complaint Questionnaire](../medical/records/3-complaint.md).  
@@ -59,49 +62,63 @@ Soft tissue images allow detailed visualization of the mucosa of the lips, cheek
 
 :::note Initial x-rays
 
-* **Panoramic xray (ortopantomogram)**  
+* Panoramic xray (ortopantomogram)
+* Right posterior teeth bitewing x-ray
+* Left posterior teeth bitewing x-ray
+  
+:::
+
+### Panoramic xray (ortopantomogram)
+
 Panoramic x ray represents  a radiographic image of the upper and lower jaw in their entirety.  
 This image provides insight not only into the condition of the teeth, but also into the condition of the supporting bone of the upper and lower jaw and all their anatomical structures.
-* **Right posterior teeth bitewing x-ray**   
- This radiograph represent radiographic image of the crowns of the upper and lower right posterior teeth.
-* **Left posterior teeth bitewing x-ray**   
+
+### Right posterior teeth bitewing x-ray
+
+This radiograph represent radiographic image of the crowns of the upper and lower right posterior teeth.
+
+### Left posterior teeth bitewing x-ray
+
 This radiograph represent radiographic image of the crowns of the upper and lower left posterior teeth.  
 
 Bitewing images provide good visualization of dental crowns, especially their proximal surfaces and surrounding alveolar bones.
-These images are suitable for:     
-              - diagnosing small caries lesions of proximal surfaces, which are difficult to detect only by clinical examination    
-              - evaluating structure and level of alveolar bone    
-              - for rewieving existing restorations. 
+These images are suitable for:  
 
-:::
+* diagnosing small caries lesions of proximal surfaces, which are difficult to detect only by clinical examination  
+* evaluating structure and level of alveolar bone  
+* for rewieving existing restorations.
 
 ## Clinical tests
 
 :::note Clinical tests
 
-* **Palpation**  
-Palpation is a clinical test that determines the existence and exact location of pain in the area of the gums and soft tissue.
-It is performed by gently massaging over the  gums and soft tissues in the projection of the dental roots with tips of the fingers.
-
-* **Percussion**  
- Percussion is clinical test performed by tapping the tooth surface with the handle of a dental mirror. The purpose of this test is to determine the presence of pain on percussion that may indicate the presence of disease in the periapical area of the tooth.
- 
-* **Teeth sensibility test**  
-The dental sensitivity test is a clinical test that evaluates  the sensory response of the pulp to a cold stimulus. This test is a valuable aid in diagnosing a pulp disease. 
-It is performed by applying a cold stimulus to the tooth surface.
-
-* **Sextant periodontal probing**  
-Sextant periodontal probing  is a screening test for periodontal disease.
-It is performed with an instrument called a periodontal probe, which is used to measure the depth of the gingival pockets of all teeth in the sextant.
-* **Tooth mobility index**  
-The tooth mobility index is a clinical test used to measure the degree of tooth mobility.
-This test is performed with two dental mirrors by placing the handle ends on the inner and outer surfaces of the tooth, and gently pressing back and forth to see if there is any movement. 
+* Palpation
+* Percussion  
+* Teeth sensibility test
+* Sextant periodontal probing
+* Tooth mobility index
 
 :::
 
 
+### Palpation
 
-The collected data from the current complaint, dental and medical history are thoroughly analyzed in order to provide an insight into the oral as well as general health of the patient.   
-Diagnostic tests, radiographic images and dental photography protocol consisting of a series of images of teeth and oral mucosa give an objective and detailed view of the condition of the tissues mentioned above.
+Palpation is a clinical test that determines the existence and exact location of pain in the area of the gums and soft tissue.
+It is performed by gently massaging over the  gums and soft tissues in the projection of the dental roots with tips of the fingers.
 
----
+### Percussion
+
+Percussion is clinical test performed by tapping the tooth surface with the handle of a dental mirror. The purpose of this test is to determine the presence of pain on percussion that may indicate the presence of disease in the periapical area of the tooth.
+ 
+### Teeth sensibility test
+The dental sensitivity test is a clinical test that evaluates  the sensory response of the pulp to a cold stimulus. This test is a valuable aid in diagnosing a pulp disease. 
+It is performed by applying a cold stimulus to the tooth surface.
+
+### Sextant periodontal probing
+Sextant periodontal probing  is a screening test for periodontal disease.
+It is performed with an instrument called a periodontal probe, which is used to measure the depth of the gingival pockets of all teeth in the sextant.
+
+### Tooth mobility index
+
+The tooth mobility index is a clinical test used to measure the degree of tooth mobility.
+This test is performed with two dental mirrors by placing the handle ends on the inner and outer surfaces of the tooth, and gently pressing back and forth to see if there is any movement.
