@@ -13,7 +13,7 @@ Current complaint is one of the most important parts of the dental anamnesis and
 
 Please describe in detail, in your own words, what is the nature of your current dental health and needs. For example, describe any difficulty related to teeth, gums, jaws, temporomandibular joints, oral mucosa or any area in your mouth,  and when it first appeared.
 
-`Text area`
+`Long text`
 
 ---
 
