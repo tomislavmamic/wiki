@@ -17,7 +17,7 @@ Do you feel pain in your teeth or gums?
 🔘 No
 ```
 
-### Gums Lesion
+### Gums lesion
 
 Single choice
 
@@ -180,7 +180,7 @@ Where is the pain located?
 ⬜️ Scope 4  
 ```
 
-### Pain start
+### Onset of pain
 
 Date picker
 
@@ -209,7 +209,7 @@ Information on how the pain started in combination with the time of onset helps 
 Acute diseases are characterized by a sudden onset of symptoms, in contrast to chronic diseases, which are characterized by symptoms that appear gradually.
 :::
 
-### Pain constancy
+### Nature of pain
 
 Single shoice
 
@@ -410,7 +410,7 @@ The perception of pain varies in different individuals. The scale often helps to
 
 ## Gums Assessment
 
-### Lesion age
+### Onset of lesion
 
 Date picker
 
@@ -424,7 +424,7 @@ Establishing the duration of the lesion provides valuable insight into its natur
 
 ---
 
-### Lesion size change
+### Lesion size changes
 
 Single choice > Short text
 
