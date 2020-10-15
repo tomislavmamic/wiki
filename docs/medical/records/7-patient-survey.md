@@ -277,6 +277,13 @@ Does the pain vary in intensity during the day?
 🔘 Yes > Please explain (Short text)
 🔘 No  
 🔘 Don't know
+
+If yes:
+
+⬜️ Mornings
+⬜️ Afternoons
+⬜️ Evenings
+⬜️ Night time
 ```
 
 :::note
@@ -293,6 +300,11 @@ Does the pain change when changing body position?
 🔘 Yes > Please explain (Short text)
 🔘 No  
 🔘 Don't know
+
+If yes:
+
+⬜️ When lying down.
+⬜️ When bending over.
 ```
 
 :::note
@@ -309,6 +321,12 @@ Is there any aggravating (worsening) factors?
 🔘 Yes > Please explain (Short text)
 🔘 No  
 🔘 Don't know
+
+If yes:
+
+⬜️ Chewing
+⬜️ Cold food and drinks
+⬜️ Hot food and drinks
 ```
 
 :::note
@@ -325,6 +343,13 @@ Is there any relieving factors?
 🔘 Yes > Please explain (Short text)
 🔘 No  
 🔘 Don't know
+
+If yes:
+
+⬜️ Biting down on food.
+⬜️ Cold food and drinks
+⬜️ Hot food and drinks
+⬜️ Cold compresses/icepacks
 ```
 
 :::note
@@ -341,6 +366,14 @@ Is there any associated symptoms?
 🔘 Yes > Please explain (Short text)
 🔘 No  
 🔘 Don't know
+
+If yes:
+
+⬜️ Fever
+⬜️ Nausea
+⬜️ Vomiting
+⬜️ Swollen lymph glands in neck
+⬜️ Swollen lymph glands under the jaw
 ```
 
 :::note
@@ -434,6 +467,11 @@ Has the lesion changed in size since you first noticed it?
 🔘 Yes > Please explain (Short text)
 🔘 No  
 🔘 Don't know
+
+If yes:
+
+⬜️ Increase in size
+⬜️ Decerase in size
 ```
 
 :::note
@@ -450,6 +488,15 @@ Is there any symptoms associated with the lesion?
 🔘 Yes > Please explain (Short text)
 🔘 No  
 🔘 Don't know
+
+If yes:
+
+⬜️ Pain
+⬜️ Numbness
+⬜️ Abnormal taste
+⬜️ Difficulty swallowing
+⬜️ Swollen lymph glands in neck
+⬜️ Swollen lymph glands under the jaw
 ```
 
 :::note
@@ -467,6 +514,10 @@ Has the lesion changed in character or features since you first noticed it?
 🔘 No  
 🔘 Don't know
 ```
+If yes:
+
+⬜️ Started as a lump    
+⬜️ Started as a vesicle
 
 :::note
 For example, an ulceration started as a vesicle or a lump became an ulcer. Changes in the physical characteristics of a lesion can often assist in the diagnosis.
@@ -482,6 +533,14 @@ Are there any associated systemic (general health) symptoms?
 🔘 Yes > Please explain (Short text)
 🔘 No  
 🔘 Don't know
+
+If yes:
+
+⬜️ Fever
+⬜️ Nausea
+⬜️ Vomiting
+⬜️ Malaise
+⬜️ Loss of appetite
 ```
 
 :::note
@@ -498,6 +557,13 @@ Is there any historical event associated with the onset of the lesion?
 🔘 Yes > Please explain (Short text)
 🔘 No  
 🔘 Don't know
+
+If yes:
+
+⬜️ Injury
+⬜️ Dental treatment
+⬜️ Exposure to allergens/toxins
+⬜️ Visit to a foreign country
 ```
 
 :::note
