@@ -586,12 +586,22 @@ Information on wearing removable dental appliances such as complete and partial 
 
 ### Dental treatment problem
 
-Single choice > Short text
+Multiple choice > Short text
 
 ```markdown
 Have you had a serious/ difficult problem associated with any previous dental treatment?
 
-🔘 Yes > short text
+⬜️ Allergic reaction to the dental materials
+⬜️ Toxic reaction to the local anesthethic
+⬜️ Injury to the teeth
+⬜️ Injury to the mucosa
+⬜️ Injuries to the jaws
+⬜️ Fracture of the needle during root canal
+⬜️ Prolonged bleeding
+⬜️ Dry socket
+⬜️ Pain after treatment
+⬜️ Swelling after treatment
+⬜️ Something else > short text
 🔘 No
 🔘 Don't know
 ```
@@ -625,9 +635,15 @@ What dental procedure was done at that time?
 ⬜️ Dental examination
 ⬜️ Teeth cleaning
 ⬜️ Filling
-⬜️ Root Canal Treatment
-⬜️ Teeth scaling
+⬜️ Root canal treatment (endodoncy)
+⬜️ Scaling and root planing
 ⬜️ Crown, bridge or veneers
+⬜️ Implant placement
+⬜️ Braces installation
+⬜️ Braces adjustment
+⬜️ Braces removal
+⬜️ Tooth extraction
+⬜️ Wisdom teeth removal
 ⬜️ Something else > short text
 ```
 :::note
@@ -663,10 +679,55 @@ How do you feel about the appearance of your teeth?
 The answer to this question provides information about the patient's satisfaction with the appearance of his teeth.
 :::
 
-## General Health
+## Female health
 
-## Medical Care
+**Women only**
 
-## Habits
+### Pregnancy
 
-## Female Health
+Single choice
+
+```markdown
+Are you pregnant?
+
+🔘 Yes > Number of weeks? (number <40)
+🔘 No
+🔘 Don't know
+```
+
+:::note
+The hormonal changes during pregnancy causes changes in the whole body, and the oral cavity is no exception. The oral changes which are seen in pregnancy include gingivitis, gingival hyperplasia, pyogenic granuloma, and salivary changes.
+Nausea and vomitting , observed in many pregnant women, particularly in first trimester can lead to dental caries and erosive tooth wear. 
+:::
+
+### Birth control
+
+Single choice
+
+```markdown
+Are you taking birth control pills or hormonal replacement?
+
+🔘 Yes
+🔘 No
+```
+
+:::note
+Birth control pills and hormonal replacement medications have been associated with several oral conditions: gingivitis, canker sores, dry mouth, periodontal diseases and temporomandibular joint disorders.
+:::
+
+### Nursing
+
+Single choice
+
+```markdown
+Are you nursing?
+
+🔘 Yes
+🔘 No
+```
+
+:::note
+Nursing  information is important for diagnosis and treatment.
+Nursing or breastfeeding period, due to the influence of hormones has been  associated with oral conditions such as gingivitis and an increased risk of dental caries.
+Caution should be taken during the treatment of breastfeeding women as a large number of dru
+:::
