@@ -7,9 +7,10 @@ sidebar_label: Current Complaint
 Current complaint is one of the most important parts of the dental anamnesis and represents one of the most important factors in making a diagnosis.
 
 ---
-### Dental anamnesis
 
-#### What is the nature of your current dental health and needs?
+## Dental anamnesis
+
+### What is the nature of your current dental health and needs?
 
 Please describe in detail, in your own words, what is the nature of your current dental health and needs. For example, describe any difficulty related to teeth, gums, jaws, temporomandibular joints, oral mucosa or any area in your mouth,  and when it first appeared.
 
@@ -18,20 +19,21 @@ Please describe in detail, in your own words, what is the nature of your current
 🔘 Regular check-up  
 🔘 I feel pain  
 
-     Please, describe     
-     `Short text`   
-   
-🔘 I have a lesion on the soft tissue 
+Please, describe  
+`Short text`  
 
-      Please, describe      
-      `Short text`  
-   
+🔘 I have a lesion on the soft tissue  
+
+Please, describe  
+`Short text`  
+
 🔘 Something else
 
-     Please, describe     
-     `Short text` 
-     
+Please, describe  
+`Short text` 
+
 ---
+
 
 #### Do your gums bleed when you brush or floss?
 

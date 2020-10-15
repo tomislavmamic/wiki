@@ -4,21 +4,7 @@ title: Medical History
 sidebar_label: Medical History
 ---
 
-### Physician care
-
-Single choice
-
-```markdown
-Are you under care of a physician?
-
-🔘 Yes
-🔘 No
-🔘 Don't know
-```
-
-:::note
-We ask this question because we want to know   are you being treated by a primary care or family doctor for some kind chronic illness or for regular check-ups
-:::
+## General Health
 
 ### Current health
 
@@ -53,18 +39,6 @@ Data on the patient's changed health status in the last year can be of great imp
 If yes, what condition was/is being treated?
 :::
 
-### Last physical exam
-
-Date :calendar: `(MM.YYYY)`
-
-```markdown
-Date of last physical exam.
-```
-
-:::note
-This question involves entering the date of the last medical examination by the family physician or specialist. If the patient does not remember the exact date, he can enter the approximate date of the examination.
-:::
-
 ### Health past 5 years
 
 Single choice
@@ -79,114 +53,6 @@ Have you had a serious illness, operation or been hospitalised in the past 5 yea
 
 :::note
 Answer to this question provides a better insight into the patient’s health status in the past. Illnesses that require surgery or treatment in a hospital setting can seriously affect a patient's general health, including oral health. In most cases, serious chronic diseases include long-term use of various drugs and the use of treatments that can cause various side effects on oral tissues long after they are discontinued from regular use.
-:::
-
-### Prescription medicine
-
-Single choice > Short text
-
-```markdown
-Are you taking or have you recently taken any prescription or over the counter medicine?
-
-🔘 Yes > Please list all. Iincluding vitamins, natural or herbal preparations and/or diet supplements. (short text)
-🔘 No
-🔘 Don't know
-```
-
-:::note
-A wide range of prescription and over the counter drugs can cause various oral side effects (e.g. dry mouth, redness of the mucosa, altered taste, swelling of the lips or tongue, etc.). This information can be of great importance in diagnosing various dental conditions.
-:::
-
-### Diet drugs
-
-Multiple choice
-
-```markdown
-Are you taking, or have you taken, any of these diet drugs?
-
-⬜️ Pondimine (phenylfuramine)
-⬜️ Redux (dexfenfluramine)
-⬜️ Phen-fen (fenfluramine-phentermine combination)
-🔘 No
-🔘 I don't know
-```
-
-:::note
-These diet medications are used as appetite suppressants. Cardiotoxicity has been demonstrated for these drugs, which has led to permanent damage to the heart valves in a significant number of patients. For this reason, prior to the dental treatment of these patients, antibiotic prophylaxis is required. 
-These medications have oral side effects such as dysgeusia or metallic taste in the mouth, dry mouth, and prolonged paraesthesia, which may be important for the diagnosis of oral diseases.
-:::
-
-### Bisphosphonates
-
-Multiple choice
-
-```markdown
-Are you taking or scheduled to begin any of these medications?
-
-⬜️ Alendronate (Fosamax)
-⬜️ Risedronate (Actonel) for Osteoporosis or Pagets disease
-🔘 No
-🔘 I don't know
-```
-
-:::note
-Alendronate (Fosamax) are Risedronate (Actonel) are bisphosphonates, drugs used in treatment of osteoporosis, Paget's disease and in treatment and prevention of  bone metastases of various malignant  tumors.  
-These drugs have a serious side effect: osteoinecrosis of the jaw, which is manifested by exposed bone in the oral cavity, inflammation and pain. Osteonecrosis most often occurs after tooth extraction, but it can also occur spontaneously.  
-Information on the use of these drugs is very important in distinguishing this disease from other diseases with similar symptoms but a completely different cause: osteoradionecrosis and osteomyelitis.
-:::
-
-### Intravenous bisphosphonates
-
-Single choice > Date :calendar: `(MM.YYYY)`
-
-```markdown
-Since 2001, were you treated or are you scheduled to begin treatment with intravenous bisphosphonates (Aredia or Zometa)?
-
-🔘 Yes > When did you begin the treatment? (date)
-🔘 No
-🔘 Don't know
-```
-
-:::note
-The start of bisphosphonate treatment and the duration of treatment are very important, as it has been proven that these drugs remain in the bones for at least 12 years, which means that they can cause side effects on the jaws  long after stopping their use.
-The intravenous bisphosphonates (Aredia or Zometa) for bone pain, hypercalcemia, or skeletal complications resulting from Paget’s disease, multiple myeloma, osteoporosis or metastatic cancer?
-:::
-
-### Contact lenses
-
-Single choice
-
-```markdown
-Do you wear contact lenses?
-
-🔘 Yes
-🔘 No
-```
-
-:::note
-Information on wearing contact lenses is important in the context of certain dental treatments, such as caries removal, root scaling and planning. During these treatments, an aerosol is released, which contains a large amount of bacteria and other microorganisms from the oral cavity. These microorganisms can very easily contaminate the surface of contact lenses and lead to eye infection.
-Eye dryness occurs in a large number of contact lens wearers. Considering that dry eye can also occur as part of certain syndromes that have an oral manifestation, this information is diagnostically important.
-:::
-
-### Joint replacement
-
-Single choice > Date > Short text  
-
-```markdown
-Have you had an orthopedic total joint (hip, knee, elbow, finger) replacement?
-
-🔘 Yes  > When was that? (Date)
-        > Have you had any complications?
-           🔘 Yes > Please describe complications. (Short text)
-           🔘 No
-🔘 No
-```
-
-:::note
-Patients with history of complications associated with their joint replacement surgery who are undergoing dental procedures that include gingival manifulation or local incision, prophylactic antibiotic regimen should be considered in consultation with orthopeadic surgeon. 
-During bloody dental interventions, the patient is at risk for bacteria in the mouth entering the bloodstream which can infect artificial joints. 
-After joint replacement patients very often use various medications, for extended period of time such as strong prescribed analgetics or over the counter painkillers. Prolonged usege of these medications can cause oral side effects such as: dry mouth,  redness or taste disturbances, which is diagnostically important. 
-If yes, when was that? Have you had any complications? Please describe complications.
 :::
 
 ### Allergies
@@ -221,93 +87,92 @@ A local allergic reaction can be caused by a large number of factors such as: fo
 Data on previously determined allergic reactions are diagnostically very important in dentistry.
 :::
 
-### Drugs use
-
-Single choice > Short text
-
-```markdown
-Do you use controlled substances (drugs)?
-
-🔘 Yes > Please specify the substances. (short text)
-🔘 No
-```
-
-:::note
-Oral health problems are among the most prevalent health problems associated with drug consumption. .These problems  may result from direct exposure of oral tissues to drugs during smoking or ingestion, biologic interaction of drugs with normal physiology of oral cavity, and effects of drugs on brain function which result in a spectrum of addictive behaviors such as risk-taking behavior, poor hygiene, aggression, and carelessness.
-A broad spectrum of oral disaseses are associated with druge use : generalised tooth decay, dry mouth, mucosal infections, severe periodontal disease, candidiasis excessive tooth wear, bruxsism, palate perforation,tooth loss and oral cancer, so data on controlled substances usage is very important in diagnosis.
-:::
-
-### Tobacco use
+### Contact lenses
 
 Single choice
 
 ```markdown
-Do you use tobacco (smoking, snuff, chew, bidis)?
+Do you wear contact lenses?
 
 🔘 Yes
 🔘 No
 ```
 
 :::note
-Tobacco has chemical and termal effects on oral tissues. The use of tobacco products has been associated with various lesions in oral cavity:  teeth staining, dental abrasions, smoker’s melanosis, acute necrotizing ulcerative gingivitis and other periodontal conditions, burns and keratotic patches, black hairy tongue, nicotinic stomatitis, palatal erosions, leukoplakia, epithelial dysplasia and squamous-cell carcinoma.
+Information on wearing contact lenses is important in the context of certain dental treatments, such as caries removal, root scaling and planning. During these treatments, an aerosol is released, which contains a large amount of bacteria and other microorganisms from the oral cavity. These microorganisms can very easily contaminate the surface of contact lenses and lead to eye infection.
+Eye dryness occurs in a large number of contact lens wearers. Considering that dry eye can also occur as part of certain syndromes that have an oral manifestation, this information is diagnostically important.
 :::
 
-### Alcohol use
+### Systemic diseases
 
-Single choice > Short text
+Multiple choice > Short text
 
 ```markdown
-Do you drink alcoholic beverages?
+Have you had any of the following diseases?
 
-🔘 Yes > 
-🔘 No
+🔘 None
+⬜️ Heart murmur
+⬜️ Mitral valve prolapse
+⬜️ Artificial heart valves
+⬜️ Rheumatic fever
+⬜️ Angina pectoris
+⬜️ Arteriosclerosis
+⬜️ Congestive heart failure
+⬜️ Coronary artery disease
+⬜️ Damaged heart valves
+⬜️ Heart attack
+⬜️ Low blood pressure
+⬜️ High blood pressure
+⬜️ Congenital heart defects
+⬜️ Pacemaker
+⬜️ Rheumatic heart disease
+⬜️ Abnormal bleeding
+⬜️ Anaemia
+⬜️ Hemophilia
+⬜️ Leukopenia
+⬜️ Thrombocytopenia
+⬜️ Thrombophilia
+⬜️ AIDS or HIV infection
+⬜️ Arthritis
+⬜️ Rheumatoid arthritis
+⬜️ Systemic lupus erythematosus
+⬜️ Other autoimmune diseases > Please specify the type. (short text)
+⬜️ Other autoimmune diseases
+⬜️ Bronchitis
+⬜️ Emphysema
+⬜️ Sinusitis
+⬜️ Tuberculosis
+⬜️ Chest pain upon exertion
+⬜️ Chronic pain
+⬜️ Diabetes  > Please specify the type. (short text)
+⬜️ Eating disorder  > Please specify the type. (short text)
+⬜️ Malnutrition
+⬜️ Gastrointestinal disease > Please specify. (short text)
+⬜️ Gastroesophageal reflux disease/heartburn
+⬜️ Thyroid problems > Please specify the type. (short text)
+⬜️ Stroke
+⬜️ Glaucoma
+⬜️ Hepatitis, jaundice, or liver disease > Please specify the type. (short text)
+⬜️ Epilepsy
+⬜️ Fainting spells or seizures
+⬜️ Neurological disorders
+⬜️ Sleep disorders
+⬜️ Mental health disorders > Please specify the type. (short text)
+⬜️ Recurrent infections > Please specify the type. (short text)
+⬜️ Kidney problems > Please specify the type. (short text)
+⬜️ Night sweats
+⬜️ Osteoporosis
+⬜️ Persistent swollen glands in neck
+⬜️ Severe headaches/migraines
+⬜️ Severe or rapid weight loss
+⬜️ Sexually transmitted disease > Please specify. (short text)
+⬜️ Excessive urination
+⬜️ Cancer > Please specify the type. (short text)
+⬜️ Chemotherapy/radiation treatment
+
+Please specify onset, duration, is disease  still active... (long text)
 ```
-
 :::note
-The consumption of the alchoholic beverages has been associatedvith different lesions in teh oral cavity such as dry mouth, dental caries, periodontitis, erosive tooth wear, candidiasis, mucosal lesions and oral cancer.
-If yes, how much do you typically drink in a week?
-
----
-
-### Do you drink fizzy drinks or sweetened beverages?
-
-The consumption of the fizzy drinks or sweetened beverages has been asociated with severe dental caries and  erosive tooth wear.
-
----
-
-### Do you eat sweets or sugary foods?
-
-Frequent consumption of sweets and sugary foods has been associated with lerger number of decayed teeth. Information on sweets and sugary food intake is very important in caries risk assesment.
-
----
-
-### Are you pregnant?
-
-The hormonal changes during pregnancy causes changes in the whole body, and the oral cavity is no exception. The oral changes which are seen in pregnancy include gingivitis, gingival hyperplasia, pyogenic granuloma, and salivary changes.
-Nausea and vomitting , observed in many pregnant women, particularly in first trimester can lead to dental caries and erosive tooth wear. 
-*Women only*  
-If yes, number of weeks?
-
----
-
-### Are you taking birth control pills or hormonal replacement?
-
-Birth control pills and hormonal replacement medications have been associated with several oral conditions: gingivitis, canker sores, dry mouth, periodontal diseases and temporomandibular joint disorders.
-*Women only*
-
----
-
-### Are you nursing?
-
-Nursing  information is important for diagnosis and treatment.
-Nursing or breastfeeding period, due to the influence of hormones has been  associated with oral conditions such as gingivitis and an increased risk of dental caries. 
-Caution should be taken during the treatment of breastfeeding women as a large number of dru
-*Women only*
-
----
-
-### Have you had any of the following diseases?
-
 #### Heart murmur
 
 The presence of a heart murmur may be of significance in dental patients because it may be an indication of underlying heart disease.Depending on the underlying cause of the heart murmur an antibiotic prophylaxis might be advised prior to the dental treatment. 
@@ -700,17 +565,234 @@ In patients with cancer, oral changes might be observed due to medications used 
 
 ---
 
-####  Chemotherapy/radiation treatment
+#### Chemotherapy/radiation treatment
 
 Oral manifestations of chemotherapy and radiation treatment include variety of oral lesions: sever inflamation of oral mucosa, redness of the oral mucosa and thorat, dry mouth, metallic taste in the mouth, taste disturbances, mucosal ulcerations, severe dental caries, gingivitis, gingival bleeding, periodontal disease,lichenoid reacions and. osteoradionecrosis.
+:::
 
----
+### Other conditions
 
-### Do you have any disease, condition, or problem, not listed above?
+Single choice > short text
 
+```markdown
+Do you have any disease, condition, or problem, not listed above?
+
+🔘 Yes > Please specify. (short text)
+🔘 No
+🔘 Don't know
+```
+
+:::note
 The questionnaire contains a list of the most common diseases. If you have a disease that is not listed in the questionnaire, write the name of the disease, the onset of the disease,  duration, and whether the disease is still active.
+:::
 
-If yes, please specify.
+## Medical Care
 
----
+### Physician care
 
+Single choice
+
+```markdown
+Are you under care of a physician?
+
+🔘 Yes
+🔘 No
+🔘 Don't know
+```
+
+:::note
+We ask this question because we want to know   are you being treated by a primary care or family doctor for some kind chronic illness or for regular check-ups
+:::
+
+### Last physical exam
+
+Date :calendar: `(MM.YYYY)`
+
+```markdown
+Date of last physical exam.
+```
+
+:::note
+This question involves entering the date of the last medical examination by the family physician or specialist. If the patient does not remember the exact date, he can enter the approximate date of the examination.
+:::
+
+### Prescription medicine
+
+Single choice > Short text
+
+```markdown
+Are you taking or have you recently taken any prescription or over the counter medicine?
+
+🔘 Yes > Please list all. Iincluding vitamins, natural or herbal preparations and/or diet supplements. (short text)
+🔘 No
+🔘 Don't know
+```
+
+:::note
+A wide range of prescription and over the counter drugs can cause various oral side effects (e.g. dry mouth, redness of the mucosa, altered taste, swelling of the lips or tongue, etc.). This information can be of great importance in diagnosing various dental conditions.
+:::
+
+### Diet drugs
+
+Multiple choice
+
+```markdown
+Are you taking, or have you taken, any of these diet drugs?
+
+⬜️ Pondimine (phenylfuramine)
+⬜️ Redux (dexfenfluramine)
+⬜️ Phen-fen (fenfluramine-phentermine combination)
+🔘 No
+🔘 I don't know
+```
+
+:::note
+These diet medications are used as appetite suppressants. Cardiotoxicity has been demonstrated for these drugs, which has led to permanent damage to the heart valves in a significant number of patients. For this reason, prior to the dental treatment of these patients, antibiotic prophylaxis is required. 
+These medications have oral side effects such as dysgeusia or metallic taste in the mouth, dry mouth, and prolonged paraesthesia, which may be important for the diagnosis of oral diseases.
+:::
+
+### Bisphosphonates
+
+Multiple choice
+
+```markdown
+Are you taking or scheduled to begin any of these medications?
+
+⬜️ Alendronate (Fosamax)
+⬜️ Risedronate (Actonel) for Osteoporosis or Pagets disease
+🔘 No
+🔘 I don't know
+```
+
+:::note
+Alendronate (Fosamax) are Risedronate (Actonel) are bisphosphonates, drugs used in treatment of osteoporosis, Paget's disease and in treatment and prevention of  bone metastases of various malignant  tumors.  
+These drugs have a serious side effect: osteoinecrosis of the jaw, which is manifested by exposed bone in the oral cavity, inflammation and pain. Osteonecrosis most often occurs after tooth extraction, but it can also occur spontaneously.  
+Information on the use of these drugs is very important in distinguishing this disease from other diseases with similar symptoms but a completely different cause: osteoradionecrosis and osteomyelitis.
+:::
+
+### Intravenous bisphosphonates
+
+Single choice > Date :calendar: `(MM.YYYY)`
+
+```markdown
+Since 2001, were you treated or are you scheduled to begin treatment with intravenous bisphosphonates (Aredia or Zometa)?
+
+🔘 Yes > When did you begin the treatment? (date)
+🔘 No
+🔘 Don't know
+```
+
+:::note
+The start of bisphosphonate treatment and the duration of treatment are very important, as it has been proven that these drugs remain in the bones for at least 12 years, which means that they can cause side effects on the jaws  long after stopping their use.
+The intravenous bisphosphonates (Aredia or Zometa) for bone pain, hypercalcemia, or skeletal complications resulting from Paget’s disease, multiple myeloma, osteoporosis or metastatic cancer?
+:::
+
+
+
+### Joint replacement
+
+Single choice > Date > Short text  
+
+```markdown
+Have you had an orthopedic total joint (hip, knee, elbow, finger) replacement?
+
+🔘 Yes  > When was that? (Date)
+        > Have you had any complications?
+           🔘 Yes > Please describe complications. (Short text)
+           🔘 No
+🔘 No
+```
+
+:::note
+Patients with history of complications associated with their joint replacement surgery who are undergoing dental procedures that include gingival manifulation or local incision, prophylactic antibiotic regimen should be considered in consultation with orthopeadic surgeon. 
+During bloody dental interventions, the patient is at risk for bacteria in the mouth entering the bloodstream which can infect artificial joints. 
+After joint replacement patients very often use various medications, for extended period of time such as strong prescribed analgetics or over the counter painkillers. Prolonged usege of these medications can cause oral side effects such as: dry mouth,  redness or taste disturbances, which is diagnostically important. 
+If yes, when was that? Have you had any complications? Please describe complications.
+:::
+
+
+
+## Habits
+
+### Drugs use
+
+Single choice > Short text
+
+```markdown
+Do you use controlled substances (drugs)?
+
+🔘 Yes > Please specify the substances. (short text)
+🔘 No
+```
+
+:::note
+Oral health problems are among the most prevalent health problems associated with drug consumption. .These problems  may result from direct exposure of oral tissues to drugs during smoking or ingestion, biologic interaction of drugs with normal physiology of oral cavity, and effects of drugs on brain function which result in a spectrum of addictive behaviors such as risk-taking behavior, poor hygiene, aggression, and carelessness.
+A broad spectrum of oral disaseses are associated with druge use : generalised tooth decay, dry mouth, mucosal infections, severe periodontal disease, candidiasis excessive tooth wear, bruxsism, palate perforation,tooth loss and oral cancer, so data on controlled substances usage is very important in diagnosis.
+:::
+
+### Tobacco use
+
+Single choice
+
+```markdown
+Do you use tobacco (smoking, snuff, chew, bidis)?
+
+🔘 Yes
+🔘 No
+```
+
+:::note
+Tobacco has chemical and termal effects on oral tissues. The use of tobacco products has been associated with various lesions in oral cavity:  teeth staining, dental abrasions, smoker’s melanosis, acute necrotizing ulcerative gingivitis and other periodontal conditions, burns and keratotic patches, black hairy tongue, nicotinic stomatitis, palatal erosions, leukoplakia, epithelial dysplasia and squamous-cell carcinoma.
+:::
+
+### Alcohol use
+
+Single choice > Short text
+
+```markdown
+Do you drink alcoholic beverages?
+
+🔘 Yes > How much do you typically drink in a week? (short text)
+🔘 No
+```
+
+:::note
+The consumption of the alchoholic beverages has been associatedvith different lesions in teh oral cavity such as dry mouth, dental caries, periodontitis, erosive tooth wear, candidiasis, mucosal lesions and oral cancer.
+If yes, how much do you typically drink in a week?
+:::
+
+### Sugary drinks
+
+Single choice
+
+```markdown
+Do you drink fizzy drinks or sweetened beverages?
+
+🔘 No
+🔘 Rarely
+🔘 1-2 times a week
+🔘 3-4 times a week
+🔘 Daily
+```
+
+:::note
+The consumption of the fizzy drinks or sweetened beverages has been asociated with severe dental caries and  erosive tooth wear.
+:::
+
+### Sugary foods
+
+Single choice
+
+```markdown
+Do you eat sweets or sugary foods?
+
+🔘 No
+🔘 Rarely
+🔘 1-2 times a week
+🔘 3-4 times a week
+🔘 Daily
+```
+
+:::note
+Frequent consumption of sweets and sugary foods has been associated with lerger number of decayed teeth. Information on sweets and sugary food intake is very important in caries risk assesment.
+:::
