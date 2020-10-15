@@ -290,7 +290,7 @@ Multiple choice
 Is the pain worse when changing body position?
 
 ⬜️ When laying down
-⬜️ When leaning head
+⬜️ When bending over
 🔘 No  
 🔘 Don't know
 ⬜️ When bending over.
