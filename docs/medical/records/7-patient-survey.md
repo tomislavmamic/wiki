@@ -313,6 +313,9 @@ Is there any aggravating (worsening) factors?
 ⬜️ Chewing
 ⬜️ Cold food and drinks
 ⬜️ Hot food and drinks
+🔘 Yes > Please explain (Short text)
+🔘 No  
+🔘 Don't know
 ```
 
 :::note
@@ -326,13 +329,12 @@ Single choice > Short text
 ```markdown
 Is there any relieving factors?
 
-🔘 Yes > Please explain (Short text)
-🔘 No  
-🔘 Don't know
-⬜️ Biting down on food.
+⬜️ Biting down on food
 ⬜️ Cold food and drinks
 ⬜️ Hot food and drinks
 ⬜️ Cold compresses/icepacks
+🔘 No  
+🔘 Don't know
 ```
 
 :::note
