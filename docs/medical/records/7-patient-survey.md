@@ -293,7 +293,6 @@ Is the pain worse when changing body position?
 ⬜️ When bending over
 🔘 No  
 🔘 Don't know
-⬜️ When bending over.
 ```
 
 :::note
@@ -307,9 +306,6 @@ Single choice > Short text
 ```markdown
 Is there any aggravating (worsening) factors?
 
-🔘 Yes > Please explain (Short text)
-🔘 No  
-🔘 Don't know
 ⬜️ Chewing
 ⬜️ Cold food and drinks
 ⬜️ Hot food and drinks
