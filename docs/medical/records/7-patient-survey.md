@@ -245,37 +245,36 @@ Information about the type of pain is diagnostically important because it can he
 
 ### Pain spread
 
-Single choice > Multiple choice > Short text
+Multiple choice > Short text
 
 ```markdown
 Does the pain spread anywhere?
-
-🔘 Yes
-🔘 No
-🔘 Don't know
-
-If yes:
 
 ⬜️ Ear  
 ⬜️ Jaw  
 ⬜️ Nose
 ⬜️ Neck
 ⬜️ Somewhere else (Short text)
+🔘 No
+🔘 Don't know
 ```
 
 :::note
 Information about the spreading of the pain from the original place  to other structures, helps to determine the cause and severity of the disease.
 :::
 
-### Intensity variation
+### Daily pain variation
 
-Single choice > Short text
+Multiple choice
 
 ```markdown
-Does the pain vary in intensity during the day?
+Is the pain worse in some parts of the day?
 
-🔘 Yes > Please explain (Short text)
-🔘 No  
+⬜️ Mornings
+⬜️ Afternoons
+⬜️ Evenings
+⬜️ Night time
+🔘 No
 🔘 Don't know
 ```
 
@@ -283,14 +282,15 @@ Does the pain vary in intensity during the day?
 Information on variations in pain in terms of pain intensity during the day helps to determine the origin of pain, and therefore its cause.
 :::
 
-### Changing body position
+### Painful body position
 
-Single choice > Short text
+Multiple choice
 
 ```markdown
-Does the pain change when changing body position?
+Is the pain worse when changing body position?
 
-🔘 Yes > Please explain (Short text)
+⬜️ When laying down
+⬜️ When leaning head
 🔘 No  
 🔘 Don't know
 ```
@@ -333,12 +333,17 @@ Factors which reduce the severity or frequency of pain are considered important 
 
 ### Pain associated symptoms
 
-Single choice > Short text
+Multiple choice
 
 ```markdown
-Is there any associated symptoms?
+Are there any other symptoms associated with the pain?
 
-🔘 Yes > Please explain (Short text)
+⬜️ Fever
+⬜️ Nausea
+⬜️ Malaise
+⬜️ Loss of appetite
+⬜️ Swollen lymph glands in neck
+⬜️ Swollen glands underneath the jaw
 🔘 No  
 🔘 Don't know
 ```
