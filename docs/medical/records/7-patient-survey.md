@@ -33,7 +33,7 @@ Is there a lesion in your gums?
 Single choice
 
 ```markdown
-Do your gums bleed when you brush or floss
+Do your gums bleed when you brush or floss?
 
 🔘 Yes
 🔘 No
@@ -157,9 +157,9 @@ Single choice
 ```markdown
 Which tissue is painful?
 
-🔘 Teeth
-🔘 Gums
-🔘 Both
+⬜️ Teeth
+⬜️ Gums
+🔘 None of these
 🔘 I can't tell
 ```
 
@@ -437,19 +437,15 @@ Establishing the duration of the lesion provides valuable insight into its natur
 
 ### Lesion size changes
 
-Single choice > Short text
+Multiple choice
 
 ```markdown
 Has the lesion changed in size since you first noticed it?
 
-🔘 Yes > Please explain (Short text)
+⬜️ Increased in size
+⬜️ Decreased in size
 🔘 No  
 🔘 Don't know
-
-If yes:
-
-⬜️ Increase in size
-⬜️ Decerase in size
 ```
 
 :::note
@@ -458,16 +454,10 @@ A change in size of a lesion is very important information. By combining informa
 
 ### Lesion associated symptoms
 
-Single choice > Short text
+Multiple choice
 
 ```markdown
-Is there any symptoms associated with the lesion?
-
-🔘 Yes > Please explain (Short text)
-🔘 No  
-🔘 Don't know
-
-If yes:
+Is any of these symptoms associated with the lesion?
 
 ⬜️ Pain
 ⬜️ Numbness
@@ -475,6 +465,8 @@ If yes:
 ⬜️ Difficulty swallowing
 ⬜️ Swollen lymph glands in neck
 ⬜️ Swollen lymph glands under the jaw
+🔘 No  
+🔘 Don't know
 ```
 
 :::note
@@ -483,19 +475,16 @@ Information about the presence of symptoms associated with the lesion such as pa
 
 ### Lesion changes
 
-Single choice > Short text
+Multiple choice
 
 ```markdown
 Has the lesion changed in character or features since you first noticed it?
 
-🔘 Yes > Please explain (Short text)
+⬜️ Started as a lump
+⬜️ Started as a vesicle
 🔘 No  
 🔘 Don't know
 ```
-If yes:
-
-⬜️ Started as a lump    
-⬜️ Started as a vesicle
 
 :::note
 For example, an ulceration started as a vesicle or a lump became an ulcer. Changes in the physical characteristics of a lesion can often assist in the diagnosis.
@@ -503,22 +492,18 @@ For example, an ulceration started as a vesicle or a lump became an ulcer. Chang
 
 ### Lesion systemic symptoms
 
-Single choice > Short text
+Multiple choice
 
 ```markdown
-Are there any associated systemic (general health) symptoms?
-
-🔘 Yes > Please explain (Short text)
-🔘 No  
-🔘 Don't know
-
-If yes:
+Are any of these systemic (general health) symptoms associated with lesion?
 
 ⬜️ Fever
 ⬜️ Nausea
 ⬜️ Vomiting
 ⬜️ Malaise
 ⬜️ Loss of appetite
+🔘 No  
+🔘 Don't know
 ```
 
 :::note
@@ -527,21 +512,17 @@ Information on the presence of systemic symptoms associated with the lesion such
 
 ### Lesion start
 
-Single choice > Short text
+Multiple choice
 
 ```markdown
 Is there any historical event associated with the onset of the lesion?
-
-🔘 Yes > Please explain (Short text)
-🔘 No  
-🔘 Don't know
-
-If yes:
 
 ⬜️ Injury
 ⬜️ Dental treatment
 ⬜️ Exposure to allergens/toxins
 ⬜️ Visit to a foreign country
+🔘 No  
+🔘 Don't know
 ```
 
 :::note
