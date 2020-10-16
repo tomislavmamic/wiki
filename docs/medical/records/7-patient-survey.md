@@ -52,7 +52,6 @@ Are your teeth sensitive to cold, hot, sweets or pressure?
 
 🔘 Yes
 🔘 No
-🔘 Don't know
 ```
 
 :::note
@@ -68,7 +67,6 @@ Is your mouth dry?
 
 🔘 Yes
 🔘 No
-🔘 Don't know
 ```
 
 :::note
@@ -84,7 +82,6 @@ Do you have earaches or neck pain?
 
 🔘 Yes
 🔘 No
-🔘 Don't know
 ```
 
 :::note
@@ -102,7 +99,6 @@ Do you have clicking, popping or discomfort in the jaw?
 
 🔘 Yes
 🔘 No
-🔘 Don't know
 ```
 
 :::note
@@ -120,7 +116,6 @@ Do you brux or grind your teeth?
 
 🔘 Yes
 🔘 No
-🔘 Don't know
 ```
 
 :::note
@@ -138,7 +133,6 @@ Do you often have sores or ulcers in your mouth?
 
 🔘 Yes
 🔘 No
-🔘 Don't know
 ```
 
 :::note
@@ -159,8 +153,7 @@ Which tissue is painful?
 
 ⬜️ Teeth
 ⬜️ Gums
-🔘 None of these
-🔘 I can't tell
+🔘 None of the above
 ```
 
 :::note
@@ -256,7 +249,6 @@ Does the pain spread anywhere?
 ⬜️ Neck
 ⬜️ Somewhere else (Short text)
 🔘 No
-🔘 Don't know
 ```
 
 :::note
@@ -275,7 +267,6 @@ Is the pain worse in some parts of the day?
 ⬜️ Evenings
 ⬜️ Night time
 🔘 No
-🔘 Don't know
 ```
 
 :::note
@@ -291,8 +282,7 @@ Is the pain worse when changing body position?
 
 ⬜️ When laying down
 ⬜️ When bending over
-🔘 No  
-🔘 Don't know
+🔘 No
 ```
 
 :::note
@@ -301,17 +291,16 @@ Information about changing pain when changing body position, such as lying down,
 
 ### Aggravating factors
 
-Single choice > Short text
+Multiple choice > Short text
 
 ```markdown
-Is there any aggravating (worsening) factors?
+Are there any aggravating (worsening) factors?
 
 ⬜️ Chewing
 ⬜️ Cold food and drinks
 ⬜️ Hot food and drinks
-🔘 Yes > Please explain (Short text)
-🔘 No  
-🔘 Don't know
+⬜️ Something else > Please explain (Short text)
+🔘 No
 ```
 
 :::note
@@ -320,17 +309,17 @@ Factors that aggravate pain may be specific to certain dental diseases and for t
 
 ### Relieving factors
 
-Single choice > Short text
+Multiple choice > Short text
 
 ```markdown
-Is there any relieving factors?
+Are there any relieving factors?
 
 ⬜️ Biting down on food
 ⬜️ Cold food and drinks
 ⬜️ Hot food and drinks
 ⬜️ Cold compresses/icepacks
-🔘 No  
-🔘 Don't know
+⬜️ Something else > Please explain (Short text)
+🔘 No
 ```
 
 :::note
@@ -350,8 +339,7 @@ Are there any other symptoms associated with the pain?
 ⬜️ Loss of appetite
 ⬜️ Swollen lymph glands in neck
 ⬜️ Swollen glands underneath the jaw
-🔘 No  
-🔘 Don't know
+🔘 No
 ```
 
 :::note
@@ -376,7 +364,6 @@ How would you rate the severity of the pain?
 🔘 8 - Utterly horrible
 🔘 9 - Excruciating/Unbearable
 🔘 10 - Unimaginable/unspeakable
-
 ```
 
 :::note
