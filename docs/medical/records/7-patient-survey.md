@@ -431,8 +431,7 @@ Has the lesion changed in size since you first noticed it?
 
 ⬜️ Increased in size
 ⬜️ Decreased in size
-🔘 No  
-🔘 Don't know
+🔘 No
 ```
 
 :::note
@@ -444,7 +443,7 @@ A change in size of a lesion is very important information. By combining informa
 Multiple choice
 
 ```markdown
-Is any of these symptoms associated with the lesion?
+Are any of these symptoms associated with the lesion?
 
 ⬜️ Pain
 ⬜️ Numbness
@@ -452,8 +451,7 @@ Is any of these symptoms associated with the lesion?
 ⬜️ Difficulty swallowing
 ⬜️ Swollen lymph glands in neck
 ⬜️ Swollen lymph glands under the jaw
-🔘 No  
-🔘 Don't know
+🔘 No
 ```
 
 :::note
@@ -469,8 +467,7 @@ Has the lesion changed in character or features since you first noticed it?
 
 ⬜️ Started as a lump
 ⬜️ Started as a vesicle
-🔘 No  
-🔘 Don't know
+🔘 No
 ```
 
 :::note
@@ -489,12 +486,11 @@ Are any of these systemic (general health) symptoms associated with lesion?
 ⬜️ Vomiting
 ⬜️ Malaise
 ⬜️ Loss of appetite
-🔘 No  
-🔘 Don't know
+🔘 No
 ```
 
 :::note
-Information on the presence of systemic symptoms associated with the lesion such as fever, malaise, and nausea is of great diagnostic value because some of these symptoms  indicate a possible association of the lesion with certain systemic diseases or conditions.
+Information on the presence of systemic symptoms associated with the lesion such as fever, malaise, and nausea is of great diagnostic value because some of these symptoms indicate a possible association of the lesion with certain systemic diseases or conditions.
 :::
 
 ### Lesion cause
@@ -502,14 +498,13 @@ Information on the presence of systemic symptoms associated with the lesion such
 Multiple choice
 
 ```markdown
-Is there any historical event associated with the onset of the lesion?
+Are any of these events associated with the onset of the lesion?
 
 ⬜️ Injury
 ⬜️ Dental treatment
 ⬜️ Exposure to allergens/toxins
 ⬜️ Visit to a foreign country
-🔘 No  
-🔘 Don't know
+🔘 No
 ```
 
 :::note
@@ -528,7 +523,6 @@ Have you ever had a serious injury to your head or mouth?
 
 🔘 Yes
 🔘 No
-🔘 Don't know
 ```
 
 :::note
@@ -546,7 +540,6 @@ Have you ever had orthodontic treatment?
 
 🔘 Yes
 🔘 No
-🔘 Don't know
 ```
 
 :::note
@@ -564,7 +557,6 @@ Do you wear removable dental appliances?
 
 🔘 Yes
 🔘 No
-🔘 Don't know
 ```
 
 :::note
@@ -576,7 +568,7 @@ Information on wearing removable dental appliances such as complete and partial 
 Multiple choice > Short text
 
 ```markdown
-Have you had a serious/ difficult problem associated with any previous dental treatment?
+Have you ever had a serious problem associated with a previous dental treatment?
 
 ⬜️ Allergic reaction to the dental materials
 ⬜️ Toxic reaction to the local anesthethic
@@ -588,9 +580,8 @@ Have you had a serious/ difficult problem associated with any previous dental tr
 ⬜️ Dry socket
 ⬜️ Pain after treatment
 ⬜️ Swelling after treatment
-⬜️ Something else > short text
+⬜️ Something else > (short text)
 🔘 No
-🔘 Don't know
 ```
 
 :::note
@@ -633,6 +624,7 @@ What dental procedure was done at that time?
 ⬜️ Wisdom teeth removal
 ⬜️ Something else > short text
 ```
+
 :::note
 The answer to this question gives insight into the most recent dental problems that the patient had.
 :::
@@ -679,7 +671,6 @@ Are you pregnant?
 
 🔘 Yes > Number of weeks? (number <40)
 🔘 No
-🔘 Don't know
 ```
 
 :::note
@@ -731,7 +722,6 @@ Are you in a good health?
 
 🔘 Yes
 🔘 No
-🔘 Don't know
 ```
 
 :::note
@@ -747,7 +737,6 @@ Has there been any change in your general health within the past year?
 
 🔘 Yes
 🔘 No
-🔘 Don't know
 ```
 
 :::note
@@ -764,7 +753,6 @@ Have you had a serious illness, operation or been hospitalised in the past 5 yea
 
 🔘 Yes > What was the illness or problem? (short text)
 🔘 No
-🔘 Don't know
 ```
 
 :::note
@@ -776,9 +764,8 @@ Answer to this question provides a better insight into the patient’s health st
 Multiple choice > Short text
 
 ```markdown
-Are you allergic or have you had allergic reaction to any of following.
+Are you allergic or have you had allergic reaction to any of following:
 
-🔘 None
 ⬜️ Local anesthetics
 ⬜️ Aspirin
 ⬜️ Penicillin or other antibiotic
@@ -792,6 +779,7 @@ Are you allergic or have you had allergic reaction to any of following.
 ⬜️ Animals
 ⬜️ Food
 ⬜️ Other > (Short text)
+🔘 None
 
 Please describe your reaction. (Short text)
 ```
@@ -826,7 +814,6 @@ Multiple choice > Short text
 ```markdown
 Have you had any of the following diseases?
 
-🔘 None
 ⬜️ Heart murmur
 ⬜️ Mitral valve prolapse
 ⬜️ Artificial heart valves
@@ -885,6 +872,7 @@ Have you had any of the following diseases?
 ⬜️ Excessive urination
 ⬜️ Cancer > Please specify the type. (short text)
 ⬜️ Chemotherapy/radiation treatment
+🔘 None
 
 Please specify onset, duration, is disease  still active... (long text)
 ```
@@ -1314,7 +1302,6 @@ Are you under care of a physician?
 
 🔘 Yes
 🔘 No
-🔘 Don't know
 ```
 
 :::note
@@ -1342,7 +1329,6 @@ Are you taking or have you recently taken any prescription or over the counter m
 
 🔘 Yes > Please list all. Iincluding vitamins, natural or herbal preparations and/or diet supplements. (short text)
 🔘 No
-🔘 Don't know
 ```
 
 :::note
@@ -1360,7 +1346,6 @@ Are you taking, or have you taken, any of these diet drugs?
 ⬜️ Redux (dexfenfluramine)
 ⬜️ Phen-fen (fenfluramine-phentermine combination)
 🔘 No
-🔘 I don't know
 ```
 
 :::note
@@ -1378,7 +1363,6 @@ Are you taking or scheduled to begin any of these medications?
 ⬜️ Alendronate (Fosamax)
 ⬜️ Risedronate (Actonel) for Osteoporosis or Pagets disease
 🔘 No
-🔘 I don't know
 ```
 
 :::note
@@ -1396,7 +1380,6 @@ Since 2001, were you treated or are you scheduled to begin treatment with intrav
 
 🔘 Yes > When did you begin the treatment? (date)
 🔘 No
-🔘 Don't know
 ```
 
 :::note
