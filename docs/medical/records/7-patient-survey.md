@@ -510,7 +510,7 @@ Are any of these systemic (general health) symptoms associated with lesion?
 Information on the presence of systemic symptoms associated with the lesion such as fever, malaise, and nausea is of great diagnostic value because some of these symptoms  indicate a possible association of the lesion with certain systemic diseases or conditions.
 :::
 
-### Lesion start
+### Lesion cause
 
 Multiple choice
 
