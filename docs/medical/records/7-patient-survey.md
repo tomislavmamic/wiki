@@ -152,7 +152,7 @@ Information on the frequency of their occurrence in addition to intraoral findin
 
 ### Painful tissue
 
-Single choice
+Multiple choice
 
 ```markdown
 Which tissue is painful?
@@ -231,12 +231,12 @@ Single choice
 ```markdown
 What best describes the type of pain?
 
-🔘 Sharp  
-🔘 Dull  
-🔘 Gripping  
-🔘 Burning  
-🔘 Stabbing  
-🔘 Shooting  
+🔘 Sharp
+🔘 Dull
+🔘 Gripping
+🔘 Burning
+🔘 Stabbing
+🔘 Shooting
 ```
 
 :::note
