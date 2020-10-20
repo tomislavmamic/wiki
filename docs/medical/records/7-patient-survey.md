@@ -167,10 +167,11 @@ Multiple choice
 ```markdown
 Where is the pain located?
 
-⬜️ Scope 1 (if sextant, optional: > Select tooth)  
-⬜️ Scope 2 (if sextant, optional: > Select tooth)  
-⬜️ Scope 3  
-⬜️ Scope 4  
+⬜️ Scope 1 (if sextant, optional: > Select tooth)
+⬜️ Scope 2 (if sextant, optional: > Select tooth)
+⬜️ Scope 3
+⬜️ Scope 4
+⬜️ Somewhere else (Short text)
 ```
 
 ### Onset of pain
