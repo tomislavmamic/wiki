@@ -815,6 +815,7 @@ Multiple choice > Short text
 ```markdown
 Have you had any of the following diseases?
 
+Cardiovascular  
 ⬜️ Heart murmur
 ⬜️ Mitral valve prolapse
 ⬜️ Artificial heart valves
@@ -830,52 +831,76 @@ Have you had any of the following diseases?
 ⬜️ Congenital heart defects
 ⬜️ Pacemaker
 ⬜️ Rheumatic heart disease
+
+Haematological      
 ⬜️ Abnormal bleeding
 ⬜️ Anaemia
 ⬜️ Hemophilia
 ⬜️ Leukopenia
 ⬜️ Thrombocytopenia
 ⬜️ Thrombophilia
+
+Infections      
+⬜️ Recurrent infections > Please specify the type. (short text)
+⬜️ Sexually transmitted disease > Please specify. (short text)
 ⬜️ AIDS or HIV infection
+
+Bones   
 ⬜️ Arthritis
 ⬜️ Rheumatoid arthritis
+⬜️ Osteoporosis
+
+Immune    
 ⬜️ Systemic lupus erythematosus
 ⬜️ Other autoimmune diseases > Please specify the type. (short text)
 ⬜️ Other autoimmune diseases
+
+Respiratory    
 ⬜️ Bronchitis
 ⬜️ Emphysema
 ⬜️ Sinusitis
 ⬜️ Tuberculosis
 ⬜️ Chest pain upon exertion
-⬜️ Chronic pain
+
+Endocrine  
 ⬜️ Diabetes  > Please specify the type. (short text)
-⬜️ Eating disorder  > Please specify the type. (short text)
-⬜️ Malnutrition
-⬜️ Gastrointestinal disease > Please specify. (short text)
-⬜️ Gastroesophageal reflux disease/heartburn
 ⬜️ Thyroid problems > Please specify the type. (short text)
-⬜️ Stroke
-⬜️ Glaucoma
+
+Gastrointestinal  
+⬜️ Malnutrition
+⬜️ Gastroesophageal reflux disease/heartburn
 ⬜️ Hepatitis, jaundice, or liver disease > Please specify the type. (short text)
+⬜️ Other gastrointestinal disease > Please specify. (short text)
+
+Neurological   
+⬜️ Stroke
 ⬜️ Epilepsy
 ⬜️ Fainting spells or seizures
-⬜️ Neurological disorders
 ⬜️ Sleep disorders
-⬜️ Mental health disorders > Please specify the type. (short text)
-⬜️ Recurrent infections > Please specify the type. (short text)
-⬜️ Kidney problems > Please specify the type. (short text)
-⬜️ Night sweats
-⬜️ Osteoporosis
-⬜️ Persistent swollen glands in neck
 ⬜️ Severe headaches/migraines
-⬜️ Severe or rapid weight loss
-⬜️ Sexually transmitted disease > Please specify. (short text)
-⬜️ Excessive urination
+⬜️ Other neurological disorders > Please specify. (short text)
+
+Mental health     
+⬜️ Eating disorder  > Please specify the type. (short text)
+⬜️ Mental health disorders > Please specify the type. (short text)
+
+Nephrological   
+⬜️ Kidney problems > Please specify the type. (short text)
+
+Malignancies    
 ⬜️ Cancer > Please specify the type. (short text)
 ⬜️ Chemotherapy/radiation treatment
 🔘 None
 
 Please specify onset, duration, is disease  still active... (long text)
+
+Other   
+⬜️ Glaucoma
+⬜️ Night sweats
+⬜️ Chronic pain
+⬜️ Persistent swollen glands in neck
+⬜️ Severe or rapid weight loss
+⬜️ Excessive urination
 ```
 
 :::note
