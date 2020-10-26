@@ -1448,13 +1448,15 @@ Single choice > Short text
 ```markdown
 Do you drink alcoholic beverages?
 
-🔘 Yes > How much do you typically drink in a week? (short text)
 🔘 No
+🔘 Rarely
+🔘 1-2 times a week
+🔘 3-4 times a week
+🔘 Daily
 ```
 
 :::note
-The consumption of the alchoholic beverages has been associatedvith different lesions in teh oral cavity such as dry mouth, dental caries, periodontitis, erosive tooth wear, candidiasis, mucosal lesions and oral cancer.
-If yes, how much do you typically drink in a week?
+The consumption of the alchoholic beverages has been associated with different lesions in the oral cavity such as dry mouth, dental caries, periodontitis, erosive tooth wear, candidiasis, mucosal lesions and oral cancer.
 :::
 
 ### Sugary drinks
