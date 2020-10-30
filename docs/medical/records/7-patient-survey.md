@@ -411,10 +411,17 @@ The perception of pain varies in different individuals. The scale often helps to
 
 ### Onset of lesion
 
-Date picker
+Single choice
 
 ```markdown
-Since when has the lesion been present?
+Since when has the lesion been present?  
+
+🔘 Less than a week  
+🔘 1-2 weeks  
+🔘 3-4 weeks  
+🔘 A few months  
+🔘 A year  
+🔘 More than a year   
 ```
 
 :::note
