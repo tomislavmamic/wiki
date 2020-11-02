@@ -4,7 +4,7 @@ title: Patient Survey
 sidebar_label: Patient Survey
 ---
 
-## Oral Health
+## Pain Assessment
 
 ### Dental pain
 
@@ -16,133 +16,6 @@ Do you feel pain in your teeth or gums?
 🔘 Yes
 🔘 No
 ```
-
-### Gums lesion
-
-Single choice
-
-```markdown
-Is there a lesion in your gums?
-
-🔘 Yes
-🔘 No
-```
-
-### Gums bleeding
-
-Single choice
-
-```markdown
-Do your gums bleed when you brush or floss?
-
-🔘 Yes
-🔘 No
-```
-
-:::note
-Bleeding gums when brushing and flossing may indicate underlying gingival disease or the wrong tooth brushing technique. This information, in addition to the intraoral findings, may help in making the diagnosis.
-:::
-
-### Teeth sensitivity
-
-Single choice
-
-```markdown
-Are your teeth sensitive to cold, hot, sweets or pressure?
-
-🔘 Yes
-🔘 No
-```
-
-:::note
-The sensitivity of the teeth to pressure, cold, warm and sweet stimuli can indicate the presence of dental caries, pulp disease as well as dentine hypersensitivity. This information, in addition to clinical findings and diagnostic tests, help in making the diagnosis.
-:::
-
-### Dry mouth
-
-Single choice
-
-```markdown
-Is your mouth dry?
-
-🔘 Yes
-🔘 No
-```
-
-:::note
-Dry mouth can be caused by various factors: dehydration, the use of aggressive oral hygiene products  or the use of certain medications and treatments. Also, dry mouth occurs in a number of different systemic diseases. Information on the presence of dry mouth in addition to medical history and intaoral findings is of great importance for diagnosis.
-:::
-
-### Earaches and neck pain
-
-Single choice
-
-```markdown
-Do you have earaches or neck pain?
-
-🔘 Yes
-🔘 No
-```
-
-:::note
-Ear and neck pain can be caused by various dental diseases,  such as pulpal  diseases, dental abscess, bruxism and temporomandibular joint disorders.
-
-Information about ear and neck pain, in addition to the clinical findings, can help in making the diagnosis.
-:::
-
-### Jaw discomfort
-
-Single choice
-
-```markdown
-Do you have clicking, popping or discomfort in the jaw?
-
-🔘 Yes
-🔘 No
-```
-
-:::note
-Clicking, popping and discomfort in the jaws can be caused by various factors and diseases such as: infection, bad habits, trauma, malocclusion and temporomandibular joint disorders. Sometimes, the cause of clicking or discomfort  in the jaws can be a symptom of an underlying systemic disease such as arthritis.
-
-Information on these phenomena in addition to medical history and intraoral findings can help in making a diagnosis.
-:::
-
-### Bruxism
-
-Single choice
-
-```markdown
-Do you brux or grind your teeth?
-
-🔘 Yes
-🔘 No
-```
-
-:::note
-Teeth bruxing and grinding is usually caused by stress and anxiety. If teeth bruxing and grinding  occurs in  a regular pattern, and  lasts for a long period of time, it can lead to various problems and changes such as: clicking of the jaws, pain in the jaws and temporomandibular joint, sensitivity of the teeth to percussion, as well as various forms of  tooth wear.
-
-Information on teeth bruxing and grinding in addition to intraoral findings and other symptoms, can help in making a diagnosis.
-:::
-
-### Ulcers
-
-Single choice
-
-```markdown
-Do you often have sores or ulcers in your mouth?
-
-🔘 Yes
-🔘 No
-```
-
-:::note
-Mouth sores and ulcers can be caused by various factors such as trauma, hormonal changes and viral infections. Frequent occurrence of these changes may be part of some systemic diseases and may be a sign of a weakened immune system.
-
-Information on the frequency of their occurrence in addition to intraoral findings is of great diagnostic value.
-:::
-
-
-## Pain Assessment
 
 ### Painful tissue
 
@@ -409,6 +282,17 @@ The perception of pain varies in different individuals. The scale often helps to
 
 ## Lesion Assessment
 
+### Gums lesion
+
+Single choice
+
+```markdown
+Is there a lesion in your gums?
+
+🔘 Yes
+🔘 No
+```
+
 ### Onset of lesion
 
 Date picker
@@ -512,6 +396,120 @@ Are any of these events associated with the onset of the lesion?
 Information about an event associated with the onset of a lesion such as trauma, recent dental treatment, exposure to allergens or toxins, or a visit to a foreign country is of great diagnostic value because it may indicate the cause of the lesion.
 :::
 
+## Oral Health
+
+### Gums bleeding
+
+Single choice
+
+```markdown
+Do your gums bleed when you brush or floss?
+
+🔘 Yes
+🔘 No
+```
+
+:::note
+Bleeding gums when brushing and flossing may indicate underlying gingival disease or the wrong tooth brushing technique. This information, in addition to the intraoral findings, may help in making the diagnosis.
+:::
+
+### Teeth sensitivity
+
+Single choice
+
+```markdown
+Are your teeth sensitive to cold, hot, sweets or pressure?
+
+🔘 Yes
+🔘 No
+```
+
+:::note
+The sensitivity of the teeth to pressure, cold, warm and sweet stimuli can indicate the presence of dental caries, pulp disease as well as dentine hypersensitivity. This information, in addition to clinical findings and diagnostic tests, help in making the diagnosis.
+:::
+
+### Dry mouth
+
+Single choice
+
+```markdown
+Is your mouth dry?
+
+🔘 Yes
+🔘 No
+```
+
+:::note
+Dry mouth can be caused by various factors: dehydration, the use of aggressive oral hygiene products  or the use of certain medications and treatments. Also, dry mouth occurs in a number of different systemic diseases. Information on the presence of dry mouth in addition to medical history and intaoral findings is of great importance for diagnosis.
+:::
+
+### Earaches and neck pain
+
+Single choice
+
+```markdown
+Do you have earaches or neck pain?
+
+🔘 Yes
+🔘 No
+```
+
+:::note
+Ear and neck pain can be caused by various dental diseases,  such as pulpal  diseases, dental abscess, bruxism and temporomandibular joint disorders.
+
+Information about ear and neck pain, in addition to the clinical findings, can help in making the diagnosis.
+:::
+
+### Jaw discomfort
+
+Single choice
+
+```markdown
+Do you have clicking, popping or discomfort in the jaw?
+
+🔘 Yes
+🔘 No
+```
+
+:::note
+Clicking, popping and discomfort in the jaws can be caused by various factors and diseases such as: infection, bad habits, trauma, malocclusion and temporomandibular joint disorders. Sometimes, the cause of clicking or discomfort  in the jaws can be a symptom of an underlying systemic disease such as arthritis.
+
+Information on these phenomena in addition to medical history and intraoral findings can help in making a diagnosis.
+:::
+
+### Bruxism
+
+Single choice
+
+```markdown
+Do you brux or grind your teeth?
+
+🔘 Yes
+🔘 No
+```
+
+:::note
+Teeth bruxing and grinding is usually caused by stress and anxiety. If teeth bruxing and grinding  occurs in  a regular pattern, and  lasts for a long period of time, it can lead to various problems and changes such as: clicking of the jaws, pain in the jaws and temporomandibular joint, sensitivity of the teeth to percussion, as well as various forms of  tooth wear.
+
+Information on teeth bruxing and grinding in addition to intraoral findings and other symptoms, can help in making a diagnosis.
+:::
+
+### Ulcers
+
+Single choice
+
+```markdown
+Do you often have sores or ulcers in your mouth?
+
+🔘 Yes
+🔘 No
+```
+
+:::note
+Mouth sores and ulcers can be caused by various factors such as trauma, hormonal changes and viral infections. Frequent occurrence of these changes may be part of some systemic diseases and may be a sign of a weakened immune system.
+
+Information on the frequency of their occurrence in addition to intraoral findings is of great diagnostic value.
+:::
 
 ## Dental Care
 
