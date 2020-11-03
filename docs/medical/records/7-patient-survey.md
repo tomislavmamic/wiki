@@ -52,7 +52,14 @@ Where is the pain located?
 Date picker
 
 ```markdown
-When did the pain start?
+Since when do you feel pain?
+
+🔘 Less than a week  
+🔘 1-2 weeks  
+🔘 3-4 weeks  
+🔘 A few months  
+🔘 A year  
+🔘 More than a year
 ```
 
 :::note
