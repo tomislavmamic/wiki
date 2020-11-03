@@ -603,12 +603,15 @@ Complications related to dental treatment may occur during and after treatment. 
 Knowing the complications associated with previous dental treatments may be of diagnostic value.
 :::
 
-### Last dental exam
-
-Date :calendar: `(MM.YYYY)`
+### Last dental visit
 
 ```markdown
-When was your last dental exam?
+When was your last dental visit?
+
+🔘 Last month
+🔘 Within last 6 months
+🔘 Within last year
+🔘 More than a year ago
 ```
 
 :::note
@@ -644,10 +647,13 @@ The answer to this question gives insight into the most recent dental problems t
 
 ### Last xrays
 
-Date :calendar: `(MM.YYYY)`
-
 ```markdown
 When was the last time you took dental x-rays?
+
+🔘 Last month
+🔘 Within last 6 months
+🔘 Within last year
+🔘 More than a year ago
 ```
 
 :::note
