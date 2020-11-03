@@ -371,7 +371,7 @@ For example, an ulceration started as a vesicle or a lump became an ulcer. Chang
 Multiple choice
 
 ```markdown
-Are any of these systemic (general health) symptoms associated with lesion?
+Are any of these symptoms associated with lesion?
 
 ⬜️ Fever
 ⬜️ Nausea
