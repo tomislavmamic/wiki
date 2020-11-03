@@ -605,6 +605,8 @@ Knowing the complications associated with previous dental treatments may be of d
 
 ### Last dental visit
 
+Single choice
+
 ```markdown
 When was your last dental visit?
 
@@ -646,6 +648,8 @@ The answer to this question gives insight into the most recent dental problems t
 :::
 
 ### Last xrays
+
+Single choice
 
 ```markdown
 When was the last time you took dental x-rays?
