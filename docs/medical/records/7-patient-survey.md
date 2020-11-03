@@ -1354,10 +1354,15 @@ We ask this question because we want to know   are you being treated by a primar
 
 ### Last physical exam
 
-Date :calendar: `(MM.YYYY)`
+Single choice
 
 ```markdown
-Date of last physical exam.
+When was your last doctor visit?
+
+🔘 Last month
+🔘 Within last 6 months
+🔘 Within last year
+🔘 More than a year ago
 ```
 
 :::note
