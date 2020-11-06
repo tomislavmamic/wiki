@@ -10,31 +10,36 @@ sidebar_label: Photography
 
 #### Frontal upper anterior teeth image
 
-![Frontal upper anterior teeth image](https://i.imgur.com/9Z0ktWY.jpg)
+![](https://i.imgur.com/LZrJ62X.jpg)
 
-#### Lateral upper anterior teeth image
+#### Lateral upper anterior teeth image (right and left)
 
-![Lateral upper anterior teeth image](https://i.imgur.com/Lx42XCa.jpg)
+Right side:  
+![](https://i.imgur.com/Op5voxa.jpg)  
+
+Left side:  
+![](https://i.imgur.com/Ej35WFe.jpg)
 
 #### Upper anterior incisal image with shooting angle inclination to the buccal surfaces
 
-![Upper anterior incisal image with shooting angle inclination to the buccal surfaces](https://i.imgur.com/fB5TPCC.jpg)
+![](https://i.imgur.com/6xdj2IJ.jpg)
 
 #### Upper anterior incisal image with shooting angle inclination to the palatal surfaces
 
-![Upper anterior incisal image with shooting angle inclination to the palatal surfaces](https://i.imgur.com/7n8qM3V.jpg)
+![](https://i.imgur.com/Jw8Kk1L.jpg)
 
 #### Frontal lower anterior teeth image
 
-![Frontal lower anterior teeth image](https://i.imgur.com/T8xJ1bF.jpg)
+![](https://i.imgur.com/7JDwysA.jpg)
 
 #### Lower anterior incisal image with shooting angle more to the labial side
 
-![Lower anterior incisal image with shooting angle more to the labial side](https://i.imgur.com/AnureaV.jpg)
+![](https://i.imgur.com/WU6PJxq.jpg)
 
 #### Lower anterior incisal image with shooting angle more to the lingual side
 
-![Lower anterior incisal image with shooting angle more to the lingual side](https://i.imgur.com/1Pl1Pz4.jpg)
+![](https://i.imgur.com/JiKEzqQ.jpg)
+
 
 ---
 
@@ -42,35 +47,35 @@ sidebar_label: Photography
 
 #### Upper posterior occlusal surface image right side
 
-![Upper posterior occlusal surface image right side ](https://i.imgur.com/o2PJR52.jpg)
+![](https://i.imgur.com/Il39gTL.jpg)
 
 #### Upper posterior occlusal surface image left side
 
-![Upper posterior occlusal surface image left side](https://i.imgur.com/iEwjwlv.jpg)
+![](https://i.imgur.com/a0ssNYS.jpg)
 
 #### Upper posterior palatal surface image right side
 
-![Upper posterior palatal surface image right side](https://i.imgur.com/XDpH1Iw.jpg)
+![](https://i.imgur.com/CB9L25S.jpg)
 
 #### Upper posterior palatal surface image left side
 
-![Upper posterior palatal surface image left side](https://i.imgur.com/DREolWu.jpg)
+![](https://i.imgur.com/at52qHO.jpg)
 
 #### Lower posterior occlusal surface image right side
 
-![Lower posterior occlusal surface image right side](https://i.imgur.com/xGI2zGT.jpg)
+![](https://i.imgur.com/dm05kT3.jpg)
 
 #### Lower posterior occlusal surface image left side
 
-![Lower posterior occlusal surface image left side](https://i.imgur.com/ptm0f6r.jpg)
+![](https://i.imgur.com/GntYleS.jpg)
 
 #### Lower posterior lingual surface image right side
 
-![Lower posterior lingual surface image right side](https://i.imgur.com/jfCA7SH.jpg)
+![](https://i.imgur.com/KTYeVLS.jpg)
 
 #### Lower posterior lingual surface image left side
 
-![Lower posterior lingual surface image left side](https://i.imgur.com/x2DbEJv.jpg)
+![](https://i.imgur.com/eHTOC7w.jpg)
 
 ---
 
@@ -78,67 +83,67 @@ sidebar_label: Photography
 
 #### Frontal occlusion image of full arch
 
-![Frontal occlusion image of full arch](https://i.imgur.com/Kngb6Zw.jpg)
+![](https://i.imgur.com/zwGLZ79.jpg)
 
 #### Posterior teeth occlusion image right side
 
-![Posterior teeth occlusion image right side](https://i.imgur.com/yUpPE6T.jpg)
+![](https://i.imgur.com/phwtgHN.jpg)
 
 #### Posterior teeth occlusion image left side
 
-![Posterior teeth occlusion image left side](https://i.imgur.com/M11E0Bl.jpg)
+![](https://i.imgur.com/PO8eTMZ.jpg)
 
 #### Full arch non occlusion image
 
-![Full arch non occlusion image](https://i.imgur.com/I3SxX8X.jpg)
+![](https://i.imgur.com/2pvn0Xc.jpg)
 
 #### Full arch non occlusion image right side
 
-![Full arch non occlusion image right side](https://i.imgur.com/SIgSWRx.jpg)
+![](https://i.imgur.com/w0dp8ES.jpg)
 
 #### Full arch non occlusion image left side
 
-![Full arch non occlusion image left side](https://i.imgur.com/yqnCBeo.jpg)
+![](https://i.imgur.com/yAClSSp.jpg)
 
 #### Protrusion image
 
-![Protrusion image](https://i.imgur.com/60USOZf.jpg)
+![](https://i.imgur.com/59DpNYW.jpg)
+
+#### Right  side lateral trusion image working side
+
+![](https://i.imgur.com/ZP1ZQae.jpg)
 
 #### Left side lateral trusion image working side
 
-![Left side lateral trusion image working side](https://i.imgur.com/oAQUyEC.jpg)
-
-#### Right side lateral trusion image working side
-
-![Right side lateral trusion image working side](https://i.imgur.com/AZaMtk8.jpg)
-
-#### Left side lateral trusion image balancing side
-
-![Left side lateral trusion image balancing side](https://i.imgur.com/m6YxvKL.jpg)
+![](https://i.imgur.com/zX6R3tN.jpg)
 
 #### Right side lateral trusion image balancing side
 
-![Right side lateral trusion image balancing side](https://i.imgur.com/YiTAowg.jpg)
+![](https://i.imgur.com/aXbg5qz.jpg)
+
+#### Left side lateral trusion image balancing side
+
+![](https://i.imgur.com/Ol0OjNA.jpg)
 
 #### Incisal edge occlusion image
 
-![Incisal edge occlusion image](https://i.imgur.com/AjpPjbI.jpg)
+![](https://i.imgur.com/jo7gJCa.jpg)
 
 #### Overbite and overjet image right side
 
-![Overbite and overjet image right side](https://i.imgur.com/eNpI6kk.jpg)
+![](https://i.imgur.com/rqQdSI0.jpg)
 
 #### Overbite and overjet image left side
 
-![Overbite and overjet image left side](https://i.imgur.com/5Vj37SF.jpg)
+![](https://i.imgur.com/gCMjAYh.jpg)
 
 #### Upper arch image
 
-![Upper arch image](https://i.imgur.com/MMM8kW0.jpg)
+![](https://i.imgur.com/PK78UQL.jpg)
 
 #### Lower arch image
 
-![Lower arch image](https://i.imgur.com/7AbBZcN.jpg)
+![](https://i.imgur.com/JSMTveT.jpg)
 
 ---
 
@@ -146,63 +151,71 @@ sidebar_label: Photography
 
 #### Perioral tissue image
 
-![Perioral tissue image](https://i.imgur.com/tjBCCJP.jpg)
+![](https://i.imgur.com/JFGTUNm.jpg)
 
 #### Upper lip mucosa image
 
-![Upper lip mucosa image](https://i.imgur.com/9Nt1I2n.jpg)
+![](https://i.imgur.com/RRdtPnV.jpg)
 
 #### Lower lip mucosa image
 
-![Lower lip mucosa image](https://i.imgur.com/QAODxc8.jpg)
+![](https://i.imgur.com/nktSoCp.jpg)
+
+![](https://i.imgur.com/JbYMcPU.jpg)
 
 #### Buccal mucosa image right side
 
-![Buccal mucosa image right side](https://i.imgur.com/p7fu62V.jpg)
+![](https://i.imgur.com/uDMbuom.jpg)
 
 #### Buccal mucosa image left side
 
-![Buccal mucosa image left side](https://i.imgur.com/EPjgSgW.jpg)
+![](https://i.imgur.com/Ns5orDB.jpg)
 
 #### Dorsum of tongue mucosa image
 
-![Dorsum of tongue mucosa image](https://i.imgur.com/fTPCTDB.jpg)
+![](https://i.imgur.com/qk599vS.jpg)
 
 #### Ventrum of tongue mucosa image
 
-![Ventrum of tongue mucosa image](https://i.imgur.com/qZeJo7l.jpg)
-
-#### Left lateral side of tongue mucosa image
-
-![Left lateral side of tongue mucosa image](https://i.imgur.com/I4bhqwh.jpg)
+![](https://i.imgur.com/H5ETvie.jpg)
 
 #### Right lateral side of tongue mucosa image
 
-![Right lateral side of tongue mucosa image](https://i.imgur.com/U2jdAmo.jpg)
+![](https://i.imgur.com/Wa53rkw.jpg)
+
+#### Left lateral side of tongue mucosa image
+
+![](https://i.imgur.com/atzS80M.jpg)
 
 #### Mouth floor mucosa image
 
-![Mouth floor mucosa image](https://i.imgur.com/kAtIH6X.jpg)
+![](https://i.imgur.com/G02elqT.jpg)
 
 #### Buccal gingival sulcus mucosa image upper (right and left)
 
-![Buccal gingival sulcus mucosa image upper (right and left)](https://i.imgur.com/rdJ3RLA.jpg)
+![](https://i.imgur.com/mKYuepF.jpg)
+
+![](https://i.imgur.com/wDKYNlT.jpg)
+
 
 #### Buccal gingival sulcus mucosa image lower (right and left)
 
-![Buccal gingival sulcus mucosa image lower (right and left)](https://i.imgur.com/1EiinxJ.jpg)
+![](https://i.imgur.com/lhqwoA9.jpg)
+
+![](https://i.imgur.com/hfA84E4.jpg)
 
 #### Hard palate mucosa (using mirror)
 
-![Hard palate mucosa (using mirror)](https://i.imgur.com/9QFG8Vm.jpg)
+![](https://i.imgur.com/12RhZGg.jpg)
 
 #### Soft palate mucosa (using mirror)
 
-![Soft palate mucosa (using mirror)](https://i.imgur.com/mJQlDQd.jpg)
+![](https://i.imgur.com/ZGvQ847.jpg)
 
 #### Soft palate mucosa image (taking directly)
 
-![Soft palate mucosa image (taking directly)](https://i.imgur.com/E3Egp70.jpg)
+![](https://i.imgur.com/81jMiXM.jpg)
+
 
 ---
 ## Guide
