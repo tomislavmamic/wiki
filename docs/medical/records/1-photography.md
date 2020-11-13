@@ -1,97 +1,109 @@
 ---
 id: photography
-title: Dental Photography
+title: Dental photography
 sidebar_label: Photography
 ---
 
-## Protocol
+## Anterior teeth
 
-### Anterior teeth
+### Anterior upper labial
 
-#### Frontal upper anterior teeth image
+![https://i.imgur.com/LZrJ62X.jpg](https://i.imgur.com/LZrJ62X.jpg)
 
-![](https://i.imgur.com/LZrJ62X.jpg)
+### Anterior upper right labial lateral
 
-#### Lateral upper anterior teeth image (right and left)
+![https://i.imgur.com/Op5voxa.jpg](https://i.imgur.com/Op5voxa.jpg)
 
-Right side:  
-![](https://i.imgur.com/Op5voxa.jpg)  
+### Anterior upper left labial lateral
 
-Left side:  
-![](https://i.imgur.com/Ej35WFe.jpg)
+![https://i.imgur.com/Ej35WFe.jpg](https://i.imgur.com/Ej35WFe.jpg)
 
-#### Upper anterior incisal image with shooting angle inclination to the buccal surfaces
+### Anterior upper incisal + buccal
 
-![](https://i.imgur.com/6xdj2IJ.jpg)
+![https://i.imgur.com/6xdj2IJ.jpg](https://i.imgur.com/6xdj2IJ.jpg)
 
-#### Upper anterior incisal image with shooting angle inclination to the palatal surfaces
+### Anterior upper incisal + palatal
 
-![](https://i.imgur.com/Jw8Kk1L.jpg)
-
-#### Frontal lower anterior teeth image
-
-![](https://i.imgur.com/7JDwysA.jpg)
-
-#### Lower anterior incisal image with shooting angle more to the labial side
-
-![](https://i.imgur.com/WU6PJxq.jpg)
-
-#### Lower anterior incisal image with shooting angle more to the lingual side
-
-![](https://i.imgur.com/JiKEzqQ.jpg)
-
+![https://i.imgur.com/Jw8Kk1L.jpg](https://i.imgur.com/Jw8Kk1L.jpg)
 
 ---
 
-### Posterior teeth
+### Anterior lower labial
 
-#### Upper posterior occlusal surface image right side
+![https://i.imgur.com/7JDwysA.jpg](https://i.imgur.com/7JDwysA.jpg)
 
-![](https://i.imgur.com/Il39gTL.jpg)
+### Anterior lower right labial lateral
 
-#### Upper posterior occlusal surface image left side
+![https://i.imgur.com/wQ4TGBA.jpg](https://i.imgur.com/wQ4TGBA.jpg)
 
-![](https://i.imgur.com/a0ssNYS.jpg)
+### Anterior lower left labial lateral
 
-#### Upper posterior palatal surface image right side
+![https://i.imgur.com/GtEzJgq.jpg](https://i.imgur.com/GtEzJgq.jpg)
 
-![](https://i.imgur.com/CB9L25S.jpg)
+### Anterior lower incisal + labial
 
-#### Upper posterior palatal surface image left side
+![https://i.imgur.com/WU6PJxq.jpg](https://i.imgur.com/WU6PJxq.jpg)
 
-![](https://i.imgur.com/at52qHO.jpg)
+### Anterior lower incisal + lingual
 
-#### Lower posterior occlusal surface image right side
+![https://i.imgur.com/JiKEzqQ.jpg](https://i.imgur.com/JiKEzqQ.jpg)  
 
-![](https://i.imgur.com/dm05kT3.jpg)
+  
+---
+  
+## Posterior teeth
 
-#### Lower posterior occlusal surface image left side
+### Posterior upper right occlusal
 
-![](https://i.imgur.com/GntYleS.jpg)
+![https://i.imgur.com/Il39gTL.jpg](https://i.imgur.com/Il39gTL.jpg)
 
-#### Lower posterior lingual surface image right side
+### Posterior upper left occlusal
 
-![](https://i.imgur.com/KTYeVLS.jpg)
+![https://i.imgur.com/a0ssNYS.jpg](https://i.imgur.com/a0ssNYS.jpg)
 
-#### Lower posterior lingual surface image left side
+### Posterior upper right palatal
 
-![](https://i.imgur.com/eHTOC7w.jpg)
+![https://i.imgur.com/CB9L25S.jpg](https://i.imgur.com/CB9L25S.jpg)
+
+### Posterior upper left palatal
+
+![https://i.imgur.com/at52qHO.jpg](https://i.imgur.com/at52qHO.jpg)
 
 ---
 
-### Occlusion
+### Posterior lower right occlusal
 
-#### Frontal occlusion image of full arch
+![https://i.imgur.com/dm05kT3.jpg](https://i.imgur.com/dm05kT3.jpg)
 
-![](https://i.imgur.com/zwGLZ79.jpg)
+### Posterior lower left occlusal
 
-#### Posterior teeth occlusion image right side
+![https://i.imgur.com/GntYleS.jpg](https://i.imgur.com/GntYleS.jpg)
 
-![](https://i.imgur.com/phwtgHN.jpg)
+### Posterior lower right lingual
 
-#### Posterior teeth occlusion image left side
+![https://i.imgur.com/KTYeVLS.jpg](https://i.imgur.com/KTYeVLS.jpg)
 
-![](https://i.imgur.com/PO8eTMZ.jpg)
+### Posterior lower left lingual
+
+![https://i.imgur.com/eHTOC7w.jpg](https://i.imgur.com/eHTOC7w.jpg)
+
+---
+
+## Occlusion images
+
+### Full arch frontal
+
+![https://i.imgur.com/zwGLZ79.jpg](https://i.imgur.com/zwGLZ79.jpg)
+
+### Posterior right buccal
+
+![https://i.imgur.com/phwtgHN.jpg](https://i.imgur.com/phwtgHN.jpg)
+
+### Posterior left buccal
+
+![https://i.imgur.com/PO8eTMZ.jpg](https://i.imgur.com/PO8eTMZ.jpg)
+
+<!--
 
 #### Full arch non occlusion image
 
@@ -216,6 +228,7 @@ Left side:
 
 ![](https://i.imgur.com/81jMiXM.jpg)
 
+-->
 
 ---
 ## Guide
@@ -387,9 +400,13 @@ This image is used to observe the arrangement of the lower posterior teeth, the 
 * The dental arch is positioned in the lower middle part of the image, horizontally. 
 * After shooting, the images need 180 rotations in order to match the actual situation.
 
+<!--
+
 ---
 
 ### Occlusion
+
+-->
 
 #### Frontal occlusion image of full arch
 
@@ -403,9 +420,9 @@ It is used to evaluate the position, directions and length of the teeth and to o
 * Correct the camera with the ligature of the pupils. The middle line of the photograph is certainly the facial middle line. The philtrum on the upper lip is still an effective reference though the soft tissue deforms due to the distraction. The obliqueness and the asymmetry of the teeth and the occlusal plane should be photographed.
 * Put the camera right ahead of the teeth perpendicularly, avoiding any obliqueness or any vertical angles (up or down).
 * The proper saliva suction must be provided. 
-*  Focus on the upper middle incisors.
+* Focus on the upper middle incisors.
 
-### Posterior teeth occlusion image (left and right side)
+#### Posterior teeth occlusion image (left and right side)
 
 This image includes all the teeth and gum of one side and it is used to observe the shape, arrangement and occlusion of the posterior teeth, and the posterior buccal gingiva. ( Liu et al. 2019, fig. 78; fig. 79)
 
@@ -414,6 +431,8 @@ This image includes all the teeth and gum of one side and it is used to observe 
 * Put the camera perpendicular to the teeth and photograph directly, minimizing the lip and the retractor exposure. 
 * The horizontal middle line is the occlusal line, while the vertical line is the labial surfaces of the premolars.
 * Focus on the buccal surfaces of the premolars, including all posterior teeth and gingiva on the same side in the picture.
+
+<!-- 
 
 #### Full arch non occlusion image (frontal view)
 
@@ -516,6 +535,7 @@ This image is used to observe the shape and arrangement of the lower arch, the p
 * The labial surface of the incisal third of the middle incisors are visible in the photograph. Try to expose more teeth, at least including the labial surfaces of the middle incisors to the mesial parts of the second molars. The anterior area must be clearly exposed.
 * The position of the incisal margin of the upper incisors are displayed clearly and so are the labial and lingual embrasures.
 * The operator stands in front of the patient and shoots indirectly, using a mirror. stands in front of him.
+
 
 ### Soft tissues
 
@@ -636,8 +656,9 @@ This image reflects the health condition or any present pathological change of t
 *  Take the mucosa image of the soft palate directly. 
 * This image will also contain part of the tongue image.
 
+-->
 
-### References 
+### References
 
 1. Liu, F 2019, Dental Digital Photography: From Dental Clinical Photography to Digital Smile Design, Springer, Singapore.
 2. American Academy Of Cosmetic Dentistry 2013, ‘A Guide to Accreditation photography’, viewed 18 June 2020. https://aacd.com/proxy/files/Students%20and%20Faculty/AACD_2013_Photo_Guide(1).pdf
