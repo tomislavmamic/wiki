@@ -432,10 +432,13 @@ Bleeding gums when brushing and flossing may indicate underlying gingival diseas
 Single choice
 
 ```markdown
-Are your teeth sensitive to cold, hot, sweets or pressure?
+Are your teeth sensitive to any of the following: 
 
-🔘 Yes
-🔘 No
+⬜️ Cold  
+⬜️ Hot  
+⬜️ Sweets  
+⬜️ Pressure  
+🔘 No  
 ```
 
 :::note
@@ -479,10 +482,12 @@ Information about ear and neck pain, in addition to the clinical findings, can h
 Single choice
 
 ```markdown
-Do you have clicking, popping or discomfort in the jaw?
+Do you experience any of the following problems associated with your jaws/jaw joints:
 
-🔘 Yes
-🔘 No
+⬜️ Clicking  
+⬜️ Popping  
+⬜️ Discomfort  
+🔘 No  
 ```
 
 :::note
