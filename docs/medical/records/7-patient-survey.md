@@ -465,10 +465,11 @@ Dry mouth can be caused by various factors: dehydration, the use of aggressive o
 Single choice
 
 ```markdown
-Do you have earaches or neck pain?
+Do you experience any of the following: 
 
-🔘 Yes
-🔘 No
+⬜️ Earaches  
+⬜️ Neck pain  
+🔘 No  
 ```
 
 :::note
