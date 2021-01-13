@@ -736,7 +736,7 @@ Are you nursing?
 :::note
 Nursing  information is important for diagnosis and treatment.
 Nursing or breastfeeding period, due to the influence of hormones has been  associated with oral conditions such as gingivitis and an increased risk of dental caries. 
-Caution should be taken during the treatment of breastfeeding women as a large number of dru
+Caution should be taken during the treatment of breastfeeding women as a large number of drugs pass into breast milk.
 :::
 
 
@@ -1016,7 +1016,7 @@ In patients with this condition, oral changes might be observed due to medicatio
 
 #### Pacemaker
 
-Informations about pacemaker placement are important for dental treatment and diagnosis.  Pacemakers are  electronic devices sensitive to strong electromagnetic signals. There are possible electromagnetic interferences to pacemakers, due to dental devices such as ultrasonic scalers, electrosurgical unit, ultrasonic bath cleaners, and battery driven light cure composite unit. Although pacemakers of new generation have more protective features than those of past,  still precautionary measures should be taken prior to treatment. 
+Informations about pacemaker placement are important for dental treatment and diagnosis.  Pacemakers are  electronic devices sensitive to strong electromagnetic signals. There are possible electromagnetic interferences to pacemakers, due to dental devices such as ultrasonic scalers, electrosurgical unit and battery driven light cure composite unit. Although pacemakers of new generation have more protective features than those of past,  still precautionary measures should be taken prior to treatment. 
 
 Also, in patients with this condition, oral changes might be observed due to medications used in treatment. These medications can cause: dry mouth, redness of the oral mucosa, gingival enlargement, taste sense alterations, angioedema of the lips, face or tongue, burning sensations in the mouth, etc.
 
