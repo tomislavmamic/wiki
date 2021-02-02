@@ -555,15 +555,14 @@ These injuries, caused in the past, can lead to permanent damage to the teeth an
 Single choice
 
 ```markdown
-Have you ever had orthodontic treatment?
+Have you ever used mobile or fixed orthodontic appliances to correct malocclusion or tooth position?
 
-🔘 Yes
+⬜️ I used mobile appliance  
+⬜️ I used fixed appliance (braces)  
 🔘 No
 ```
 
-:::note
-Have you ever used mobile or fixed orthodontic appliances to correct malocclusion or tooth position?
-
+:::note  
 Information on previous orthodontic therapy is of great importance in the evaluation of the current state of occlusion and the diagnosis of certain conditions that may occur as a result of orthodontic treatment.
 :::
 
@@ -698,7 +697,7 @@ Single choice
 ```markdown
 Are you pregnant?
 
-🔘 Yes > Number of weeks? (number <40)
+🔘 Yes
 🔘 No
 ```
 
@@ -706,6 +705,11 @@ Are you pregnant?
 The hormonal changes during pregnancy causes changes in the whole body, and the oral cavity is no exception. The oral changes which are seen in pregnancy include gingivitis, gingival hyperplasia, pyogenic granuloma, and salivary changes.
 Nausea and vomitting , observed in many pregnant women, particularly in first trimester can lead to dental caries and erosive tooth wear. 
 :::
+
+```markdown
+How many weeks are you pregnant?   
+(number <40)
+```
 
 ### Birth control
 
