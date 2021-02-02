@@ -697,7 +697,7 @@ Single choice
 ```markdown
 Are you pregnant?
 
-🔘 Yes
+🔘 Yes (number <40)  
 🔘 No
 ```
 
@@ -705,11 +705,6 @@ Are you pregnant?
 The hormonal changes during pregnancy causes changes in the whole body, and the oral cavity is no exception. The oral changes which are seen in pregnancy include gingivitis, gingival hyperplasia, pyogenic granuloma, and salivary changes.
 Nausea and vomitting , observed in many pregnant women, particularly in first trimester can lead to dental caries and erosive tooth wear. 
 :::
-
-```markdown
-How many weeks are you pregnant?   
-(number <40)
-```
 
 ### Birth control
 
